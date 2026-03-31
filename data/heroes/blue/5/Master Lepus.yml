@@ -19,6 +19,18 @@ types:
 image: https://i.imgur.com/Ti2FM1v.jpg
 dtReleased: ""
 dtModified: "2026-03-31"
+fancy_name: Guardian of Springvale
+aetherPower: attack_up
+lb1:
+  power: 812
+  attack: 856
+  defense: 743
+  health: 1287
+lb2:
+  power: 912
+  attack: 980
+  defense: 850
+  health: 1473
 costume:
   hero_id: rabbit_blue_costume_riftbreaker
   design: costume1
@@ -39,6 +51,18 @@ costume:
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/aLTsGWG.jpg
-  dtReleased: ""
+  dtReleased: "2022-03-21"
   dtModified: "2026-03-31"
+  fancy_name: Rift Breaker
+  aetherPower: special_boost
+  lb1:
+    power: 1053
+    attack: 1126
+    defense: 1027
+    health: 1762
+  lb2:
+    power: 1187
+    attack: 1289
+    defense: 1176
+    health: 2016
 ...

@@ -22,6 +22,18 @@ types:
 image: https://i.imgur.com/xx3qiK5.jpg
 dtReleased: "2018-05-01"
 dtModified: ""
+fancy_name: Huntress of Ice Giants
+aetherPower: attack_up
+lb1:
+  power: 818
+  attack: 796
+  defense: 761
+  health: 1440
+lb2:
+  power: 918
+  attack: 911
+  defense: 871
+  health: 1648
 costume:
   hero_id: ice_god_eskimo_costume_champion
   design: costume1
@@ -46,6 +58,18 @@ costume:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/UQE64tc.jpg
-  dtReleased: ""
+  dtReleased: "2021-12-23"
   dtModified: ""
+  fancy_name: Iceberg Champion
+  aetherPower: special_boost
+  lb1:
+    power: 1043
+    attack: 1008
+    defense: 967
+    health: 2105
+  lb2:
+    power: 1175
+    attack: 1154
+    defense: 1107
+    health: 2408
 ...

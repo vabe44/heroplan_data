@@ -24,6 +24,18 @@ passives:
 image: https://i.imgur.com/dQao9jX.jpg
 dtReleased: "2020-10-26"
 dtModified: ""
+fancy_name: The Monster
+aetherPower: regen
+lb1:
+  power: 717
+  attack: 690
+  defense: 695
+  health: 1403
+lb2:
+  power: 818
+  attack: 800
+  defense: 805
+  health: 1627
 costume:
   hero_id: halloween_frank_costume_mafia
   design: costume1
@@ -50,6 +62,18 @@ costume:
     to steal the newest dispellable buff from a random enemy that has buffs. If no
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/HUrGPkv.jpg
-  dtReleased: ""
+  dtReleased: "2021-10-04"
   dtModified: ""
+  fancy_name: The Mobster
+  aetherPower: special_boost
+  lb1:
+    power: 733
+    attack: 713
+    defense: 701
+    health: 1450
+  lb2:
+    power: 837
+    attack: 827
+    defense: 813
+    health: 1681
 ...

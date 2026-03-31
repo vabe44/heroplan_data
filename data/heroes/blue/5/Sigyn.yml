@@ -31,6 +31,18 @@ passives:
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/JtNxfb8.jpg
-dtReleased: ""
+dtReleased: "2024-08-13"
 dtModified: "2026-03-20"
+fancy_name: Scorpion Handler
+aetherPower: attack_up
+lb1:
+  power: 1212
+  attack: 1249
+  defense: 1163
+  health: 2322
+lb2:
+  power: 1369
+  attack: 1430
+  defense: 1330
+  health: 2656
 ...

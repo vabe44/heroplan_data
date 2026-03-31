@@ -26,4 +26,18 @@ passives:
 - 'Resist mana reduction: This character is immune to mana reduction.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/mk7552K.jpg
+dtReleased: "2024-07-07"
+dtModified: ""
+fancy_name: Master-at-Arms
+aetherPower: special_boost
+lb1:
+  power: 1178
+  attack: 1260
+  defense: 1163
+  health: 2046
+lb2:
+  power: 1329
+  attack: 1442
+  defense: 1330
+  health: 2341
 ...

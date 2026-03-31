@@ -20,8 +20,20 @@ types:
 - Hit All Holy
 - Weird
 image: https://i.imgur.com/fVTl018.jpg
-dtReleased: ""
+dtReleased: "2021-07-04"
 dtModified: "2026-03-23"
+fancy_name: Trickster Fish
+aetherPower: bulwark
+lb1:
+  power: 840
+  attack: 803
+  defense: 810
+  health: 1482
+lb2:
+  power: 943
+  attack: 919
+  defense: 927
+  health: 1696
 costume:
   hero_id: s3_loki_fish_costume_dapper
   design: costume1
@@ -42,6 +54,18 @@ costume:
   - Hit All Holy
   - Weird
   image: https://i.imgur.com/mbPRCrB.jpg
-  dtReleased: ""
+  dtReleased: "2023-07-31"
   dtModified: "2026-03-23"
+  fancy_name: Dapper Fish
+  aetherPower: ailment_reflect
+  lb1:
+    power: 1055
+    attack: 1028
+    defense: 1091
+    health: 1894
+  lb2:
+    power: 1189
+    attack: 1176
+    defense: 1248
+    health: 2167
 ...

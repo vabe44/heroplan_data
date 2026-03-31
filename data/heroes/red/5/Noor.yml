@@ -25,4 +25,18 @@ passives:
 - 'Sparrow Summoner: Summons a Sparrow Minion for self when an enemy summons any Minions
   by Special Skill.'
 image: https://i.imgur.com/GEznO1b.jpg
+dtReleased: "2020-07-01"
+dtModified: ""
+fancy_name: Sparrow Whisperer
+aetherPower: mana_boost
+lb1:
+  power: 824
+  attack: 759
+  defense: 843
+  health: 1416
+lb2:
+  power: 925
+  attack: 868
+  defense: 965
+  health: 1620
 ...

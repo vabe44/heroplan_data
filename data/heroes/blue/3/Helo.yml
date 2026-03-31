@@ -22,6 +22,18 @@ passives:
 image: https://i.imgur.com/e1OFOms.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Eloi Fisherman
+aetherPower: defense_up
+lb1:
+  power: 533
+  attack: 518
+  defense: 573
+  health: 906
+lb2:
+  power: 643
+  attack: 640
+  defense: 708
+  health: 1119
 costume:
   hero_id: s4_helo_costume_baker
   design: costume1
@@ -42,6 +54,18 @@ costume:
   - 'Increase Buff Duration: Duration of the first 3 buff this hero receives  from
     Special Skills is increased by 1 turn.'
   image: https://i.imgur.com/c9F3Wjn.jpg
-  dtReleased: ""
+  dtReleased: "2023-12-07"
   dtModified: ""
+  fancy_name: Eloi Baker
+  aetherPower: regen
+  lb1:
+    power: 545
+    attack: 528
+    defense: 594
+    health: 924
+  lb2:
+    power: 658
+    attack: 652
+    defense: 734
+    health: 1141
 ...

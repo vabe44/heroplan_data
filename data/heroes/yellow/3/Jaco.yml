@@ -27,8 +27,20 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/ne5YJve.jpg
-dtReleased: ""
+dtReleased: "2023-07-05"
 dtModified: "2026-03-20"
+fancy_name: Dodgy Merchant of the Deep
+aetherPower: defense_up
+lb1:
+  power: 543
+  attack: 579
+  defense: 535
+  health: 898
+lb2:
+  power: 655
+  attack: 715
+  defense: 662
+  health: 1109
 costume:
   hero_id: tales1_jaco_costume_alchemist
   design: costume1
@@ -57,6 +69,18 @@ costume:
   - ' * All allies get +21% critical chance for 3 turns.'
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://i.imgur.com/frMuxcb.jpg
-  dtReleased: ""
+  dtReleased: "2025-02-03"
   dtModified: "2026-03-20"
+  fancy_name: Dodgy Alchemist of the Deep
+  aetherPower: special_armor
+  lb1:
+    power: 555
+    attack: 510
+    defense: 638
+    health: 954
+  lb2:
+    power: 671
+    attack: 630
+    defense: 789
+    health: 1179
 ...

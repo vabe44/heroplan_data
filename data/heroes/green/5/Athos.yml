@@ -27,6 +27,20 @@ passives:
   Special Skills or in place of a character in Cover, there''s a 60% chance to deal
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/HvsiBgn.jpg
+dtReleased: "2022-12-14"
+dtModified: ""
+fancy_name: Veteran Musketeer
+aetherPower: defense_up
+lb1:
+  power: 921
+  attack: 932
+  defense: 805
+  health: 1749
+lb2:
+  power: 1036
+  attack: 1066
+  defense: 922
+  health: 2001
 costume:
   hero_id: musketeer_athos_costume_farrier
   design: costume1
@@ -58,4 +72,18 @@ costume:
     from Special Skills or in place of a character in Cover, there''s a 75% chance
     to deal 50% of the received damage on all enemies.'
   image: https://imgur.com/hJqKdo0.jpg
+  dtReleased: "2025-12-19"
+  dtModified: ""
+  fancy_name: Farrier Musketeer
+  aetherPower: special_boost
+  lb1:
+    power: 1347
+    attack: 1436
+    defense: 1232
+    health: 2676
+  lb2:
+    power: 1523
+    attack: 1643
+    defense: 1410
+    health: 3062
 ...

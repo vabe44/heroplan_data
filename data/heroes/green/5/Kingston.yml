@@ -22,4 +22,18 @@ types:
 passives:
 - 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
 image: https://i.imgur.com/rlpoKXr.jpg
+dtReleased: "2019-10-01"
+dtModified: ""
+fancy_name: The Noble Assassin
+aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 808
+  defense: 792
+  health: 1365
+lb2:
+  power: 920
+  attack: 924
+  defense: 906
+  health: 1562
 ...

@@ -24,4 +24,18 @@ passives:
 - 'Resist Attack Ailments: This character is immune to status ailments that affect
   attack.'
 image: https://i.imgur.com/O0p11HF.jpg
+dtReleased: "2020-06-01"
+dtModified: ""
+fancy_name: Tranquil Channeler
+aetherPower: defense_up
+lb1:
+  power: 824
+  attack: 701
+  defense: 865
+  health: 1511
+lb2:
+  power: 924
+  attack: 802
+  defense: 990
+  health: 1729
 ...

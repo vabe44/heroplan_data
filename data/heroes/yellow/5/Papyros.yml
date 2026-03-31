@@ -25,8 +25,20 @@ passives:
 - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
 - ' * All allies gain a small amount of mana.'
 image: https://i.imgur.com/cV84mq0.jpg
-dtReleased: ""
+dtReleased: "2022-04-21"
 dtModified: "2026-03-20"
+fancy_name: Golem of Paper and Sand
+aetherPower: special_armor
+lb1:
+  power: 915
+  attack: 876
+  defense: 883
+  health: 1691
+lb2:
+  power: 1029
+  attack: 1003
+  defense: 1010
+  health: 1935
 costume:
   hero_id: s5_papyros_costume_colossus
   design: costume1
@@ -57,6 +69,18 @@ costume:
   - 'Resist Mana Generation Stopping: This character is immune to status ailments
     that stop mana generation.'
   image: https://i.imgur.com/jWPUwhw.jpg
-  dtReleased: ""
+  dtReleased: "2024-10-05"
   dtModified: "2026-03-20"
+  fancy_name: Colossus of Paper and Sand
+  aetherPower: regen
+  lb1:
+    power: 1284
+    attack: 1223
+    defense: 1329
+    health: 2570
+  lb2:
+    power: 1452
+    attack: 1399
+    defense: 1521
+    health: 2941
 ...

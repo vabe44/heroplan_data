@@ -40,4 +40,16 @@ passives:
 image: https://i.imgur.com/aKSj5xr.jpg
 dtReleased: "2023-07-19"
 dtModified: ""
+fancy_name: Goddess of the Sea
+aetherPower: fiend_resist
+lb1:
+  power: 989
+  attack: 959
+  defense: 936
+  health: 1909
+lb2:
+  power: 1114
+  attack: 1097
+  defense: 1071
+  health: 2184
 ...

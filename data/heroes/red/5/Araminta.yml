@@ -26,6 +26,18 @@ passives:
 - 'Resist Attack Reduction: This character has innate resistance against status ailments,
   stacks and Wither effects that affect attack.'
 image: https://i.imgur.com/52hX4ns.jpg
-dtReleased: ""
+dtReleased: "2024-10-23"
 dtModified: "2026-03-22"
+fancy_name: Fearsome Faun Warrior
+aetherPower: special_boost
+lb1:
+  power: 1223
+  attack: 1249
+  defense: 1189
+  health: 2346
+lb2:
+  power: 1382
+  attack: 1430
+  defense: 1361
+  health: 2684
 ...

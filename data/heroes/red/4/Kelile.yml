@@ -17,6 +17,20 @@ types:
 - Hit 1
 - DoT 1
 image: https://i.imgur.com/g0FkZzQ.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Priestess of Dragonia
+aetherPower: attack_up
+lb1:
+  power: 692
+  attack: 734
+  defense: 745
+  health: 1015
+lb2:
+  power: 789
+  attack: 851
+  defense: 864
+  health: 1177
 costume:
   hero_id: nomad_female_berserker_costume_shaman
   design: costume1
@@ -32,6 +46,20 @@ costume:
   types:
   - DoT All
   image: https://i.imgur.com/EFoCGqV.jpg
+  dtReleased: "2021-01-18"
+  dtModified: ""
+  fancy_name: Shaman of Dragonia
+  aetherPower: rage
+  lb1:
+    power: 741
+    attack: 827
+    defense: 765
+    health: 1091
+  lb2:
+    power: 846
+    attack: 959
+    defense: 887
+    health: 1265
 costume2:
   hero_id: nomad_female_berserker_costume_sorceress
   design: costume2
@@ -51,6 +79,20 @@ costume2:
   - DoT 3
   - Self Heal on Burn
   image: https://i.imgur.com/46HnfAG.jpg
+  dtReleased: "2022-09-05"
+  dtModified: ""
+  fancy_name: Sorceress of Dragonia
+  aetherPower: special_boost
+  lb1:
+    power: 791
+    attack: 857
+    defense: 833
+    health: 1235
+  lb2:
+    power: 903
+    attack: 994
+    defense: 966
+    health: 1432
 costume3:
   hero_id: nomad_female_berserker_costume_cute
   design: toon
@@ -72,6 +114,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/nj44opt.jpg
+  dtReleased: "2024-04-08"
+  dtModified: ""
+  fancy_name: Toon of Dragonia
+  aetherPower: attack_up
+  lb1:
+    power: 803
+    attack: 886
+    defense: 826
+    health: 1267
+  lb2:
+    power: 918
+    attack: 1027
+    defense: 958
+    health: 1469
 costume4:
   hero_id: nomad_female_berserker_costume_glass
   design: glass
@@ -93,4 +149,18 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/yqIwVAP.jpg
+  dtReleased: "2025-04-23"
+  dtModified: ""
+  fancy_name: Vitrail of Dragonia
+  aetherPower: attack_up
+  lb1:
+    power: 817
+    attack: 912
+    defense: 835
+    health: 1285
+  lb2:
+    power: 934
+    attack: 1057
+    defense: 968
+    health: 1490
 ...

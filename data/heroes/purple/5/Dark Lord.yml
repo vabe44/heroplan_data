@@ -22,6 +22,20 @@ types:
 - DoT 3
 - Mana Generation Debuff 3
 image: https://i.imgur.com/ja50n6G.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
+fancy_name: Bane of Karemdol
+aetherPower: attack_up
+lb1:
+  power: 857
+  attack: 863
+  defense: 808
+  health: 1462
+lb2:
+  power: 963
+  attack: 988
+  defense: 924
+  health: 1673
 costume:
   hero_id: villain_dark_lord_costume_astronomer
   design: costume1
@@ -52,4 +66,18 @@ costume:
   - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
     receive 473 Curse damage over 4 turns, starting low and increasing every turn.'
   image: https://i.imgur.com/Mz4axni.jpg
+  dtReleased: "2024-11-14"
+  dtModified: ""
+  fancy_name: Astronomer of Karemdol
+  aetherPower: defense_up
+  lb1:
+    power: 1290
+    attack: 1439
+    defense: 1195
+    health: 2334
+  lb2:
+    power: 1457
+    attack: 1646
+    defense: 1367
+    health: 2670
 ...

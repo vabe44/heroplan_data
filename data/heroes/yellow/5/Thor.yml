@@ -28,6 +28,20 @@ types:
 - Hit 1/3/All
 - Blind 1/3/All
 image: https://i.imgur.com/Cls9o26.jpg
+dtReleased: "2021-01-28"
+dtModified: ""
+fancy_name: God of Thunder
+aetherPower: attack_up
+lb1:
+  power: 839
+  attack: 808
+  defense: 792
+  health: 1502
+lb2:
+  power: 942
+  attack: 924
+  defense: 906
+  health: 1719
 costume:
   hero_id: s3_thor_costume_conduit
   design: costume1
@@ -56,4 +70,18 @@ costume:
   - Hit All
   - Blind All
   image: https://i.imgur.com/LYyDsUh.jpg
+  dtReleased: "2022-12-19"
+  dtModified: ""
+  fancy_name: Conduit of Thunder
+  aetherPower: special_boost
+  lb1:
+    power: 1054
+    attack: 1008
+    defense: 1020
+    health: 2079
+  lb2:
+    power: 1188
+    attack: 1154
+    defense: 1167
+    health: 2379
 ...

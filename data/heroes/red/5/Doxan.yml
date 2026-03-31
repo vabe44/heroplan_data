@@ -27,6 +27,20 @@ passives:
   from Troops of stronger element.'
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/aM5vSU2.jpg
+dtReleased: "2023-03-27"
+dtModified: ""
+fancy_name: Exiled Plasma Blade
+aetherPower: attack_up
+lb1:
+  power: 966
+  attack: 956
+  defense: 892
+  health: 1838
+lb2:
+  power: 1088
+  attack: 1094
+  defense: 1021
+  health: 2103
 costume:
   hero_id: elemental_doxan_costume_hacker
   design: costume1
@@ -56,4 +70,18 @@ costume:
     from Troops of stronger element.'
   - ' - Received elemental damage: -25%'
   image: https://imgur.com/2BXA5Mj.jpg
+  dtReleased: "2025-09-04"
+  dtModified: ""
+  fancy_name: Exiled Plasma Hacker
+  aetherPower: special_boost
+  lb1:
+    power: 1318
+    attack: 1336
+    defense: 1255
+    health: 2678
+  lb2:
+    power: 1491
+    attack: 1529
+    defense: 1436
+    health: 3064
 ...

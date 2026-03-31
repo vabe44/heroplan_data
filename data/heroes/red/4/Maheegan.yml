@@ -28,6 +28,18 @@ passives:
   If a target already has this effect, the duration will be refreshed and the damage
   will be increased by 150, up to 1500 damage in total.'
 image: https://i.imgur.com/c554xVo.jpg
-dtReleased: ""
+dtReleased: "2022-08-25"
 dtModified: "2026-03-20"
+fancy_name: Wolf Tracker
+aetherPower: fiend_resist
+lb1:
+  power: 736
+  attack: 713
+  defense: 731
+  health: 1410
+lb2:
+  power: 840
+  attack: 827
+  defense: 848
+  health: 1635
 ...

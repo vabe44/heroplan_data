@@ -33,4 +33,18 @@ passives:
 - ' * The Frost damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://imgur.com/TXnhxAk.jpg
+dtReleased: "2025-07-11"
+dtModified: ""
+fancy_name: Dwarven Survivalist
+aetherPower: regen
+lb1:
+  power: 1305
+  attack: 1351
+  defense: 1303
+  health: 2450
+lb2:
+  power: 1475
+  attack: 1546
+  defense: 1490
+  health: 2804
 ...

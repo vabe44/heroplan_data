@@ -18,6 +18,20 @@ types:
 - Hit 3
 - Defense Debuff 1
 image: https://i.imgur.com/00qNGOk.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Guide of Wonderland
+aetherPower: attack_up
+lb1:
+  power: 831
+  attack: 788
+  defense: 808
+  health: 1458
+lb2:
+  power: 932
+  attack: 901
+  defense: 924
+  health: 1668
 costume:
   hero_id: wonderland_white_rabbit_costume_mask
   design: costume1
@@ -39,4 +53,18 @@ costume:
   - 'Mindless Attack On Special Skill: On Special Skill cast, 50% chance to inflict
     Mindless Attack on a random enemy for 3 turns.'
   image: https://i.imgur.com/qj3SAsZ.jpg
+  dtReleased: "2022-02-17"
+  dtModified: ""
+  fancy_name: Mask of Madness
+  aetherPower: special_boost
+  lb1:
+    power: 1043
+    attack: 1014
+    defense: 998
+    health: 2029
+  lb2:
+    power: 1176
+    attack: 1161
+    defense: 1143
+    health: 2322
 ...

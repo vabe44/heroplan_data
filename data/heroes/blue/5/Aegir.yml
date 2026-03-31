@@ -24,6 +24,18 @@ types:
 image: https://i.imgur.com/BzRTcqJ.jpg
 dtReleased: "2018-10-01"
 dtModified: ""
+fancy_name: Frozen Highlander
+aetherPower: special_armor
+lb1:
+  power: 818
+  attack: 663
+  defense: 868
+  health: 1558
+lb2:
+  power: 918
+  attack: 759
+  defense: 993
+  health: 1783
 costume:
   hero_id: ice_god_october_costume_farmer
   design: costume1
@@ -50,6 +62,18 @@ costume:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/JN0Ddwo.jpg
-  dtReleased: ""
+  dtReleased: "2023-01-23"
   dtModified: ""
+  fancy_name: Frozen Farmer
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1045
+    attack: 875
+    defense: 1046
+    health: 2295
+  lb2:
+    power: 1177
+    attack: 1001
+    defense: 1196
+    health: 2625
 ...

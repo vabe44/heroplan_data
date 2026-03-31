@@ -20,6 +20,20 @@ types:
 - Lifts Ailments All
 - Hit All
 image: https://i.imgur.com/NzRPKjE.jpg
+dtReleased: "2020-07-23"
+dtModified: ""
+fancy_name: Trickster Goddess
+aetherPower: defense_up
+lb1:
+  power: 838
+  attack: 805
+  defense: 836
+  health: 1414
+lb2:
+  power: 942
+  attack: 922
+  defense: 957
+  health: 1617
 costume:
   hero_id: s3_loki_female_costume_mother
   design: costume1
@@ -40,4 +54,18 @@ costume:
   - Lifts Ailments All
   - Hit All
   image: https://i.imgur.com/R89Eh1b.jpg
+  dtReleased: "2023-10-23"
+  dtModified: ""
+  fancy_name: Trickster Mother
+  aetherPower: damage_reduction
+  lb1:
+    power: 1053
+    attack: 946
+    defense: 1179
+    health: 1909
+  lb2:
+    power: 1187
+    attack: 1082
+    defense: 1349
+    health: 2184
 ...

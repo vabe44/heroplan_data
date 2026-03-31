@@ -17,6 +17,20 @@ types:
 - Heal All
 - Cleanser All
 image: https://i.imgur.com/epzxGwy.jpg
+dtReleased: "2017-03-01"
+dtModified: ""
+fancy_name: Noble Cavalier
+aetherPower: defense_up
+lb1:
+  power: 693
+  attack: 646
+  defense: 731
+  health: 1267
+lb2:
+  power: 790
+  attack: 749
+  defense: 848
+  health: 1469
 costume:
   hero_id: blackguard_knight_costume_elegant
   design: costume1
@@ -36,6 +50,20 @@ costume:
   - Attack Buff All
   - Cleanser All
   image: https://i.imgur.com/9nzkBMP.jpg
+  dtReleased: "2020-01-01"
+  dtModified: ""
+  fancy_name: Dapper Noble
+  aetherPower: special_armor
+  lb1:
+    power: 743
+    attack: 701
+    defense: 778
+    health: 1394
+  lb2:
+    power: 848
+    attack: 813
+    defense: 902
+    health: 1616
 costume2:
   hero_id: blackguard_knight_costume_healer
   design: costume2
@@ -55,6 +83,20 @@ costume2:
   - Defense Buff All
   - Cleanser All
   image: https://i.imgur.com/0dWPfN4.jpg
+  dtReleased: "2023-04-17"
+  dtModified: ""
+  fancy_name: Noble Healer
+  aetherPower: damage_reduction
+  lb1:
+    power: 793
+    attack: 780
+    defense: 878
+    health: 1354
+  lb2:
+    power: 906
+    attack: 905
+    defense: 1019
+    health: 1570
 costume3:
   hero_id: blackguard_knight_costume_cute
   design: toon
@@ -78,6 +120,20 @@ costume3:
   - 'Toon: 75% extra chance to resist all status ailments, mana reductions and buff
     dispels.'
   image: https://i.imgur.com/rCKWMnx.jpg
+  dtReleased: "2024-06-28"
+  dtModified: ""
+  fancy_name: Toon Cavalier
+  aetherPower: defense_up
+  lb1:
+    power: 807
+    attack: 875
+    defense: 794
+    health: 1385
+  lb2:
+    power: 922
+    attack: 1014
+    defense: 920
+    health: 1606
 costume4:
   hero_id: blackguard_knight_costume_glass
   design: glass
@@ -101,4 +157,18 @@ costume4:
   passives:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://imgur.com/3o76oi9.jpg
+  dtReleased: "2025-07-16"
+  dtModified: ""
+  fancy_name: Glass Cavalier
+  aetherPower: defense_up
+  lb1:
+    power: 820
+    attack: 906
+    defense: 829
+    health: 1334
+  lb2:
+    power: 938
+    attack: 1051
+    defense: 962
+    health: 1546
 ...

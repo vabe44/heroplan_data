@@ -20,6 +20,18 @@ types:
 image: https://i.imgur.com/WU18HC0.jpg
 dtReleased: ""
 dtModified: "2026-03-31"
+fancy_name: Savage Protector of Springvale
+aetherPower: attack_up
+lb1:
+  power: 841
+  attack: 799
+  defense: 814
+  health: 1489
+lb2:
+  power: 944
+  attack: 914
+  defense: 932
+  health: 1704
 costume:
   hero_id: easter_killhare_costume_farmer
   design: costume1
@@ -41,6 +53,18 @@ costume:
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/vAkZp36.jpg
-  dtReleased: ""
+  dtReleased: "2022-03-21"
   dtModified: "2026-03-31"
+  fancy_name: Ultimate Farmer
+  aetherPower: defense_up
+  lb1:
+    power: 1091
+    attack: 1048
+    defense: 1120
+    health: 2040
+  lb2:
+    power: 1230
+    attack: 1200
+    defense: 1282
+    health: 2335
 ...

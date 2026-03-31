@@ -19,6 +19,18 @@ types:
 image: https://i.imgur.com/qf9ikj1.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Mender of Springvale
+aetherPower: defense_up
+lb1:
+  power: 711
+  attack: 681
+  defense: 725
+  health: 1323
+lb2:
+  power: 810
+  attack: 789
+  defense: 840
+  health: 1533
 costume:
   hero_id: easter_lady_woolerton_costume_coiffeuse
   design: costume1
@@ -43,6 +55,7 @@ costume:
   image: https://imgur.com/qh7po0H.jpg
   dtReleased: "2026-03-30"
   dtModified: ""
+  fancy_name: Coiffeuse of Springvale
   aetherPower: boosted_regen
   lb1:
     power: 850

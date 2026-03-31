@@ -33,4 +33,18 @@ passives:
   each time a status ailment expires or is cleansed, removed or reallocated from them.
   This effect can activate only once per turn.'
 image: https://i.imgur.com/SZzrHhg.jpg
+dtReleased: "2024-09-19"
+dtModified: ""
+fancy_name: Prima Donna
+aetherPower: regen
+lb1:
+  power: 1175
+  attack: 1243
+  defense: 1087
+  health: 2224
+lb2:
+  power: 1327
+  attack: 1422
+  defense: 1244
+  health: 2545
 ...

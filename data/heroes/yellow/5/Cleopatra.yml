@@ -24,8 +24,20 @@ passives:
 - ' * Boosts health of all allies by 10%. Boosted health can exceed max HP.'
 - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/pyEHRBi.jpg
-dtReleased: ""
+dtReleased: "2022-10-27"
 dtModified: "2026-03-20"
+fancy_name: Divine Pharaoh
+aetherPower: attack_up
+lb1:
+  power: 923
+  attack: 828
+  defense: 916
+  health: 1800
+lb2:
+  power: 1038
+  attack: 947
+  defense: 1049
+  health: 2059
 costume:
   hero_id: s5_cleopatra_costume_feline
   design: costume1
@@ -54,6 +66,18 @@ costume:
   - 'Health Recover on Buff Received: This character recovers 5% HP when they receive
     a buff or positive stack.'
   image: https://i.imgur.com/BWI4O98.jpg
-  dtReleased: ""
+  dtReleased: "2024-04-29"
   dtModified: "2026-03-20"
+  fancy_name: Feline Pharaoh
+  aetherPower: special_armor
+  lb1:
+    power: 1294
+    attack: 1171
+    defense: 1348
+    health: 2733
+  lb2:
+    power: 1463
+    attack: 1340
+    defense: 1543
+    health: 3128
 ...

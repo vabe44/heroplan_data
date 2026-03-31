@@ -19,6 +19,20 @@ types:
 - Hit 1
 - Critical Chance Buff All
 image: https://i.imgur.com/Vz5Hvbn.jpg
+dtReleased: "2018-07-01"
+dtModified: ""
+fancy_name: The Adept Archer
+aetherPower: attack_up
+lb1:
+  power: 817
+  attack: 785
+  defense: 765
+  health: 1456
+lb2:
+  power: 918
+  attack: 899
+  defense: 876
+  health: 1666
 costume:
   hero_id: forest_god_gregorion_costume_alchemist
   design: costume1
@@ -41,4 +55,18 @@ costume:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/ONemvil.jpg
+  dtReleased: "2024-03-08"
+  dtModified: ""
+  fancy_name: The Hermit Alchemist
+  aetherPower: rage
+  lb1:
+    power: 1043
+    attack: 1034
+    defense: 953
+    health: 2073
+  lb2:
+    power: 1176
+    attack: 1183
+    defense: 1091
+    health: 2371
 ...

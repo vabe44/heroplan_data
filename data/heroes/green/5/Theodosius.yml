@@ -32,4 +32,18 @@ passives:
 - 'Resist mana reduction: This character is immune to mana reduction.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/tr0BEoG.jpg
+dtReleased: "2024-07-07"
+dtModified: ""
+fancy_name: Courageous Corporal
+aetherPower: defense_up
+lb1:
+  power: 1177
+  attack: 1174
+  defense: 1247
+  health: 2086
+lb2:
+  power: 1328
+  attack: 1343
+  defense: 1427
+  health: 2387
 ...

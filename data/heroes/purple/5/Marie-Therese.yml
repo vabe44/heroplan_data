@@ -26,6 +26,20 @@ types:
 - Defense Buff All
 - Zombie Blessing Buff All
 image: https://i.imgur.com/sKXoFnG.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Voodoo Queen of Corellia
+aetherPower: mana_boost
+lb1:
+  power: 831
+  attack: 834
+  defense: 779
+  health: 1403
+lb2:
+  power: 933
+  attack: 955
+  defense: 891
+  health: 1605
 costume:
   hero_id: pirate_marie_therese_costume_priestess
   design: costume1
@@ -56,4 +70,18 @@ costume:
   - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
     receive 504 Poison damage over 4 turns.'
   image: https://i.imgur.com/cwv2NUd.jpg
+  dtReleased: "2022-02-17"
+  dtModified: ""
+  fancy_name: Soul-Stealing Priestess
+  aetherPower: heal_increase
+  lb1:
+    power: 1043
+    attack: 1031
+    defense: 998
+    health: 1989
+  lb2:
+    power: 1176
+    attack: 1180
+    defense: 1143
+    health: 2275
 ...

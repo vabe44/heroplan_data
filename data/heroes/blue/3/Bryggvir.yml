@@ -31,4 +31,16 @@ passives:
 image: https://imgur.com/vdreiVK.jpg
 dtReleased: "2025-08-26"
 dtModified: ""
+fancy_name: Dwarven Goat Rider
+aetherPower: dodge
+lb1:
+  power: 575
+  attack: 646
+  defense: 626
+  health: 782
+lb2:
+  power: 696
+  attack: 798
+  defense: 774
+  health: 966
 ...

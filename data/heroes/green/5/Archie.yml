@@ -24,8 +24,20 @@ types:
 passives:
 - ""
 image: https://i.imgur.com/LIKBIhe.jpg
-dtReleased: ""
+dtReleased: "2023-03-27"
 dtModified: "2026-03-31"
+fancy_name: Traveling Llama Troubadour
+aetherPower: attack_up
+lb1:
+  power: 923
+  attack: 939
+  defense: 892
+  health: 1571
+lb2:
+  power: 1038
+  attack: 1074
+  defense: 1021
+  health: 1798
 costume:
   hero_id: easter_archie_costume_gallant
   design: costume1
@@ -51,6 +63,18 @@ costume:
   - 'Stack on Special: When this character casts their Special Skill, all enemies
     get  Stack (Max: 10): -5% defense.'
   image: https://i.imgur.com/NhdULEq.jpg
-  dtReleased: ""
+  dtReleased: "2024-03-18"
   dtModified: "2026-03-31"
+  fancy_name: Gallant Llama Troubadour
+  aetherPower: special_boost
+  lb1:
+    power: 1202
+    attack: 1267
+    defense: 1204
+    health: 2121
+  lb2:
+    power: 1358
+    attack: 1450
+    defense: 1378
+    health: 2427
 ...

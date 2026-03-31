@@ -21,6 +21,20 @@ passives:
 - 'Decrease Ailment Duration: Duration of the first 3 status ailments this character
   receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/kz19bRj.jpg
+dtReleased: "2021-04-22"
+dtModified: ""
+fancy_name: Morlock Battle Master
+aetherPower: rage
+lb1:
+  power: 860
+  attack: 852
+  defense: 834
+  health: 1454
+lb2:
+  power: 966
+  attack: 975
+  defense: 955
+  health: 1663
 costume:
   hero_id: s4_garjammal_costume_kite
   design: costume1
@@ -45,4 +59,18 @@ costume:
     normal attacks and Special Skills deal +70% damage against targets with boosted
     health for 4 turns.'
   image: https://i.imgur.com/U99nNNm.jpg
+  dtReleased: "2023-06-22"
+  dtModified: ""
+  fancy_name: Morlock Kite Master
+  aetherPower: regen
+  lb1:
+    power: 1091
+    attack: 1082
+    defense: 1096
+    health: 2007
+  lb2:
+    power: 1231
+    attack: 1238
+    defense: 1254
+    health: 2297
 ...

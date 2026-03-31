@@ -21,6 +21,18 @@ types:
 image: https://i.imgur.com/5yoZu18.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Shallows Hunter
+aetherPower: counterattack
+lb1:
+  power: 500
+  attack: 494
+  defense: 514
+  health: 847
+lb2:
+  power: 602
+  attack: 610
+  defense: 635
+  health: 1046
 costume:
   hero_id: s2_fiji_mermaid_costume_hunter
   design: costume1
@@ -40,6 +52,18 @@ costume:
   - Attack Buff All
   - Dispeller All
   image: https://i.imgur.com/bezss9U.jpg
-  dtReleased: ""
+  dtReleased: "2023-04-03"
   dtModified: "2026-03-20"
+  fancy_name: Shallows Pursuer
+  aetherPower: special_armor
+  lb1:
+    power: 517
+    attack: 543
+    defense: 501
+    health: 870
+  lb2:
+    power: 623
+    attack: 671
+    defense: 619
+    health: 1075
 ...

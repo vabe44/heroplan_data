@@ -25,4 +25,18 @@ passives:
 - 'Mana on Status Ailment Received: This character gains 5% mana when they receive
   a status ailment or a negative stack.'
 image: https://i.imgur.com/WDClMpO.jpg
+dtReleased: "2021-06-01"
+dtModified: ""
+fancy_name: Wild Wizard of Lunar Woods
+aetherPower: attack_up
+lb1:
+  power: 842
+  attack: 825
+  defense: 803
+  health: 1458
+lb2:
+  power: 946
+  attack: 944
+  defense: 919
+  health: 1668
 ...

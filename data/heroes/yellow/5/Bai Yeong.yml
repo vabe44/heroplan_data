@@ -25,4 +25,18 @@ passives:
 - 'Resist Status Ailments From Minions: This character is immune to status ailments
   that are from Minions.'
 image: https://i.imgur.com/4FIVAWy.jpg
+dtReleased: "2020-09-01"
+dtModified: ""
+fancy_name: Blade Dancer
+aetherPower: rage
+lb1:
+  power: 827
+  attack: 808
+  defense: 792
+  health: 1416
+lb2:
+  power: 928
+  attack: 924
+  defense: 906
+  health: 1620
 ...

@@ -27,6 +27,18 @@ passives:
 - 'Resist Attack Reduction: This character has innate resistance against status ailments,
   stacks and Wither effects that affect attack.'
 image: https://imgur.com/5U97Fz9.jpg
-dtReleased: ""
+dtReleased: "2025-03-26"
 dtModified: "2026-03-22"
+fancy_name: Sanguine Faun Seeress
+aetherPower: special_armor
+lb1:
+  power: 1252
+  attack: 1338
+  defense: 1183
+  health: 2342
+lb2:
+  power: 1414
+  attack: 1531
+  defense: 1353
+  health: 2679
 ...

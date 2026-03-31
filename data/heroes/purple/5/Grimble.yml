@@ -24,4 +24,18 @@ passives:
 - 'Resist Blind: This character is immune to status ailments that affect accuracy.
   Doesn''t apply to original status effects from allies.'
 image: https://i.imgur.com/1sMnXH3.jpg
+dtReleased: "2019-12-01"
+dtModified: ""
+fancy_name: The Goat-Riding Gnome
+aetherPower: special_boost
+lb1:
+  power: 820
+  attack: 663
+  defense: 888
+  health: 1536
+lb2:
+  power: 921
+  attack: 759
+  defense: 1016
+  health: 1757
 ...

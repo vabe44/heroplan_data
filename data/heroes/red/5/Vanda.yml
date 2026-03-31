@@ -23,6 +23,20 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/FsFObHs.jpg
+dtReleased: "2020-10-26"
+dtModified: ""
+fancy_name: Vampire Queen
+aetherPower: vampire
+lb1:
+  power: 847
+  attack: 834
+  defense: 792
+  health: 1491
+lb2:
+  power: 951
+  attack: 955
+  defense: 906
+  health: 1706
 costume:
   hero_id: halloween_vanda_costume_mafia
   design: costume1
@@ -46,4 +60,18 @@ costume:
     to steal the newest dispellable buff from a random enemy that has buffs. If no
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/yADk9kZ.jpg
+  dtReleased: "2021-10-04"
+  dtModified: ""
+  fancy_name: Queen of Crime
+  aetherPower: damage_reduction
+  lb1:
+    power: 1219
+    attack: 1242
+    defense: 1198
+    health: 2315
+  lb2:
+    power: 1377
+    attack: 1421
+    defense: 1371
+    health: 2649
 ...

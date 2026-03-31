@@ -26,6 +26,18 @@ passives:
 image: https://i.imgur.com/VnnI4Om.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Tough-as-Nails Tavern Keeper
+aetherPower: damage_reduction
+lb1:
+  power: 735
+  attack: 634
+  defense: 810
+  health: 1440
+lb2:
+  power: 839
+  attack: 736
+  defense: 939
+  health: 1670
 costume:
   hero_id: s5_azmia_costume_dancing
   design: costume1
@@ -54,6 +66,18 @@ costume:
   - 'Health Recover on Buff Received: This character recovers 5% HP when they receive
     a buff or positive stack.'
   image: https://i.imgur.com/CmCVc5Z.jpg
-  dtReleased: ""
+  dtReleased: "2024-06-24"
   dtModified: ""
+  fancy_name: Dancing Tavern Keeper
+  aetherPower: special_armor
+  lb1:
+    power: 752
+    attack: 690
+    defense: 779
+    health: 1488
+  lb2:
+    power: 859
+    attack: 800
+    defense: 903
+    health: 1726
 ...

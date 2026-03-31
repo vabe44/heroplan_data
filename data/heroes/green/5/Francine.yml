@@ -22,6 +22,20 @@ passives:
   to steal the newest dispellable buff from a random enemy that has buffs. If no enemy
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/jBtXWpz.jpg
+dtReleased: "2020-10-26"
+dtModified: ""
+fancy_name: The Monstress
+aetherPower: attack_up
+lb1:
+  power: 847
+  attack: 841
+  defense: 801
+  health: 1458
+lb2:
+  power: 951
+  attack: 962
+  defense: 916
+  health: 1668
 costume:
   hero_id: halloween_francine_costume_mafia
   design: costume1
@@ -46,4 +60,18 @@ costume:
     to steal the newest dispellable buff from a random enemy that has buffs. If no
     enemy has buffs, deals 150% damage to all enemies.'
   image: https://i.imgur.com/ObnUcTT.jpg
+  dtReleased: "2021-10-04"
+  dtModified: ""
+  fancy_name: The Mobstress
+  aetherPower: special_boost
+  lb1:
+    power: 1220
+    attack: 1272
+    defense: 1212
+    health: 2219
+  lb2:
+    power: 1377
+    attack: 1455
+    defense: 1386
+    health: 2539
 ...

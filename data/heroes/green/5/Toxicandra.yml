@@ -19,6 +19,20 @@ types:
 - MoT All
 - Cleanser All
 image: https://i.imgur.com/m5DCDHL.jpg
+dtReleased: "2021-02-11"
+dtModified: ""
+fancy_name: Sovereign of Cerbera
+aetherPower: defense_up
+lb1:
+  power: 852
+  attack: 834
+  defense: 819
+  health: 1476
+lb2:
+  power: 958
+  attack: 955
+  defense: 937
+  health: 1689
 costume:
   hero_id: villain_toxicandra_costume_rose
   design: costume1
@@ -41,4 +55,18 @@ costume:
   - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
     receive 461 Curse damage over 4 turns, starting low and increasing every turn.'
   image: https://imgur.com/6ZuZX5t.jpg
+  dtReleased: "2025-06-15"
+  dtModified: ""
+  fancy_name: Sovereign of Flora
+  aetherPower: special_armor
+  lb1:
+    power: 1280
+    attack: 1247
+    defense: 1415
+    health: 2305
+  lb2:
+    power: 1446
+    attack: 1427
+    defense: 1619
+    health: 2637
 ...

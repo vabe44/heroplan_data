@@ -39,4 +39,18 @@ passives:
 - 'Beautiful Inside: Whenever this character would take damage from a status ailment,
   they will recover that much health instead.'
 image: https://imgur.com/w9K0HkI.jpg
+dtReleased: "2026-01-23"
+dtModified: ""
+fancy_name: Petrified Guard of the Bewitched Castle
+aetherPower: taunt
+lb1:
+  power: 1363
+  attack: 1414
+  defense: 1427
+  health: 2459
+lb2:
+  power: 1542
+  attack: 1617
+  defense: 1633
+  health: 2814
 ...

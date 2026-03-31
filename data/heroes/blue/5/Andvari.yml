@@ -36,6 +36,18 @@ passives:
 image: https://i.imgur.com/MVPiXPz.jpg
 dtReleased: "2024-12-28"
 dtModified: ""
+fancy_name: Dwarven Oracle
+aetherPower: defense_up
+lb1:
+  power: 1250
+  attack: 1234
+  defense: 1267
+  health: 2417
+lb2:
+  power: 1412
+  attack: 1412
+  defense: 1450
+  health: 2766
 costume:
   hero_id: tales2_andvari_costume_c1
   design: costume1
@@ -71,6 +83,18 @@ costume:
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/MIeBXAK.jpg
-  dtReleased: ""
+  dtReleased: "2026-03-14"
   dtModified: ""
+  fancy_name: Dwarven Restorer
+  aetherPower: bulwark
+  lb1:
+    power: 1378
+    attack: 1355
+    defense: 1424
+    health: 2715
+  lb2:
+    power: 1558
+    attack: 1550
+    defense: 1629
+    health: 3106
 ...

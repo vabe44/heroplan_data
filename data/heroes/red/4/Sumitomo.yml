@@ -22,6 +22,18 @@ types:
 image: https://i.imgur.com/qnIyV2j.jpg
 dtReleased: ""
 dtModified: "2026-03-28"
+fancy_name: Daimyo of Deceit
+aetherPower: attack_up
+lb1:
+  power: 699
+  attack: 722
+  defense: 688
+  health: 1209
+lb2:
+  power: 797
+  attack: 837
+  defense: 797
+  health: 1402
 costume:
   hero_id: s2_demon_master_costume_steppe
   design: costume1
@@ -43,6 +55,18 @@ costume:
   - Counterattack Self
   - Mana Gain Self on counterattack
   image: https://i.imgur.com/kQW2sKb.jpg
-  dtReleased: ""
+  dtReleased: "2023-04-03"
   dtModified: "2026-03-28"
+  fancy_name: Khevtuul of Guile
+  aetherPower: special_boost
+  lb1:
+    power: 723
+    attack: 706
+    defense: 753
+    health: 1287
+  lb2:
+    power: 824
+    attack: 818
+    defense: 874
+    health: 1492
 ...

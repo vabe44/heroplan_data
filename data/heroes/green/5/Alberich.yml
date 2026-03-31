@@ -21,6 +21,20 @@ types:
 - HoT All
 - MoT All
 image: https://i.imgur.com/0IebpZg.jpg
+dtReleased: "2017-10-01"
+dtModified: ""
+fancy_name: Seelie Champion
+aetherPower: defense_up
+lb1:
+  power: 814
+  attack: 781
+  defense: 799
+  health: 1376
+lb2:
+  power: 914
+  attack: 894
+  defense: 914
+  health: 1574
 costume:
   hero_id: forest_god_oberon_costume_everoak
   design: costume1
@@ -46,4 +60,18 @@ costume:
   - 'Cleanse on Special: When this character casts their Special Skill, they cleanse
     the newest status ailment from all allies.'
   image: https://i.imgur.com/qgThGvZ.jpg
+  dtReleased: "2021-10-20"
+  dtModified: ""
+  fancy_name: Everoak Knight
+  aetherPower: special_armor
+  lb1:
+    power: 1037
+    attack: 983
+    defense: 1020
+    health: 2018
+  lb2:
+    power: 1168
+    attack: 1124
+    defense: 1168
+    health: 2309
 ...

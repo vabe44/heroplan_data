@@ -35,4 +35,18 @@ passives:
 - ' * The effects diminish the less Flight Momentum character has.'
 - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
 image: https://imgur.com/opbTS6J.jpg
+dtReleased: "2025-11-03"
+dtModified: ""
+fancy_name: Unstoppable Wizard
+aetherPower: defense_up
+lb1:
+  power: 1338
+  attack: 1440
+  defense: 1367
+  health: 2335
+lb2:
+  power: 1513
+  attack: 1648
+  defense: 1564
+  health: 2672
 ...

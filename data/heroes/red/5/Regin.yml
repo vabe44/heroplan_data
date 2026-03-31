@@ -31,6 +31,20 @@ passives:
 - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://i.imgur.com/IX7uDP5.jpg
+dtReleased: "2024-12-03"
+dtModified: ""
+fancy_name: Dwarven Fabled Prince
+aetherPower: counterattack
+lb1:
+  power: 1246
+  attack: 1276
+  defense: 1229
+  health: 2364
+lb2:
+  power: 1408
+  attack: 1460
+  defense: 1407
+  health: 2705
 costume:
   hero_id: tales2_regin_costume_omen
   design: costume1
@@ -62,4 +76,18 @@ costume:
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/Pn28cus.jpg
+  dtReleased: "2025-10-15"
+  dtModified: ""
+  fancy_name: Dwarven Fallen Prince
+  aetherPower: ailment_immunity
+  lb1:
+    power: 1363
+    attack: 1416
+    defense: 1343
+    health: 2621
+  lb2:
+    power: 1541
+    attack: 1620
+    defense: 1536
+    health: 2999
 ...

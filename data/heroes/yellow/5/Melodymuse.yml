@@ -21,6 +21,18 @@ passives:
 - 'Share Received Damage: 20% of damage received by this character is shared with
   other allies.'
 image: https://i.imgur.com/PSc9HJP.jpg
-dtReleased: ""
+dtReleased: "2024-09-16"
 dtModified: "2026-03-20"
+fancy_name: Astral Elf Poet
+aetherPower: fiend_resist
+lb1:
+  power: 1175
+  attack: 1134
+  defense: 1245
+  health: 2182
+lb2:
+  power: 1327
+  attack: 1297
+  defense: 1424
+  health: 2496
 ...

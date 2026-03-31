@@ -25,8 +25,20 @@ passives:
 - ' * Deals 70% damage to all enemies.'
 - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/0Yedhet.jpg
-dtReleased: ""
+dtReleased: "2022-05-19"
 dtModified: "2026-03-20"
+fancy_name: God of the Hunt
+aetherPower: dodge
+lb1:
+  power: 916
+  attack: 888
+  defense: 856
+  health: 1722
+lb2:
+  power: 1030
+  attack: 1016
+  defense: 980
+  health: 1971
 costume:
   hero_id: s5_horus_costume_golden
   design: costume1
@@ -57,6 +69,18 @@ costume:
   - 'Mana on Health Boosting Special Skill: This character gains 5% mana each time
     an enemy casts a Special Skill that directly boosts health.'
   image: https://i.imgur.com/fLHpPl2.jpg
-  dtReleased: ""
+  dtReleased: "2024-04-01"
   dtModified: "2026-03-20"
+  fancy_name: Golden Hunter
+  aetherPower: special_boost
+  lb1:
+    power: 1285
+    attack: 1284
+    defense: 1248
+    health: 2580
+  lb2:
+    power: 1452
+    attack: 1469
+    defense: 1429
+    health: 2952
 ...

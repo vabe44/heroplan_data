@@ -22,4 +22,18 @@ types:
 passives:
 - 'Resist Poison: This character is immune to status ailments that deal Poison damage.'
 image: https://i.imgur.com/YBAuibe.jpg
+dtReleased: "2020-05-01"
+dtModified: ""
+fancy_name: Brash Channeler
+aetherPower: dodge
+lb1:
+  power: 822
+  attack: 790
+  defense: 768
+  health: 1474
+lb2:
+  power: 923
+  attack: 904
+  defense: 878
+  health: 1686
 ...

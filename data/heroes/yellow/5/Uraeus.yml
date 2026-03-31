@@ -26,4 +26,18 @@ passives:
 - 'Health from Dead Minion: This character recovers 50 health when a Minion owned
   by them is destroyed.'
 image: https://i.imgur.com/1T6P7Be.jpg
+dtReleased: "2021-02-01"
+dtModified: ""
+fancy_name: Arcane Vizier
+aetherPower: special_boost
+lb1:
+  power: 837
+  attack: 839
+  defense: 783
+  health: 1427
+lb2:
+  power: 940
+  attack: 960
+  defense: 896
+  health: 1633
 ...

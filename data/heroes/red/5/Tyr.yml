@@ -27,6 +27,18 @@ types:
 image: https://i.imgur.com/tjoH1nb.jpg
 dtReleased: ""
 dtModified: "2026-03-23"
+fancy_name: Relentless Justice
+aetherPower: attack_up
+lb1:
+  power: 842
+  attack: 832
+  defense: 814
+  health: 1414
+lb2:
+  power: 945
+  attack: 952
+  defense: 932
+  health: 1617
 costume:
   hero_id: s3_tyr_costume_savage
   design: costume1
@@ -52,6 +64,18 @@ costume:
   - Heal Self on DoT
   - Self Resurrection
   image: https://i.imgur.com/7UO34fo.jpg
-  dtReleased: ""
+  dtReleased: "2023-02-13"
   dtModified: "2026-03-23"
+  fancy_name: Savage Justice
+  aetherPower: dodge
+  lb1:
+    power: 1056
+    attack: 1065
+    defense: 1042
+    health: 1909
+  lb2:
+    power: 1191
+    attack: 1219
+    defense: 1193
+    health: 2184
 ...

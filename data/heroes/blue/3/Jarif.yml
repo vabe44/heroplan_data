@@ -25,6 +25,18 @@ passives:
 image: https://i.imgur.com/ntCu0sS.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
+fancy_name: Stressed-Out Scribe
+aetherPower: attack_up
+lb1:
+  power: 539
+  attack: 575
+  defense: 462
+  health: 1030
+lb2:
+  power: 651
+  attack: 710
+  defense: 571
+  health: 1272
 costume:
   hero_id: s5_jarif_costume_curator
   design: costume1
@@ -52,6 +64,18 @@ costume:
     to activate.'
   - 'Resist Sand Damage: This character has innate resistance against sand damage.'
   image: https://i.imgur.com/o4H256x.jpg
-  dtReleased: ""
+  dtReleased: "2025-03-17"
   dtModified: ""
+  fancy_name: Stressed-Out Curator
+  aetherPower: defense_up
+  lb1:
+    power: 553
+    attack: 624
+    defense: 452
+    health: 1022
+  lb2:
+    power: 668
+    attack: 772
+    defense: 558
+    health: 1263
 ...

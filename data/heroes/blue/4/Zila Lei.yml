@@ -23,6 +23,18 @@ passives:
 image: https://i.imgur.com/AZ3KQGe.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
+fancy_name: Octropod Assassin
+aetherPower: attack_up
+lb1:
+  power: 728
+  attack: 736
+  defense: 708
+  health: 1341
+lb2:
+  power: 831
+  attack: 853
+  defense: 821
+  health: 1555
 costume:
   hero_id: s4_zila_lei_costume_dancer
   design: costume1
@@ -44,6 +56,18 @@ costume:
   - 'Increased Special Skill Damage: The first time this character casts a Special
     Skill that deals damage, an additional 30% is added to its power.'
   image: https://i.imgur.com/uA3g8LR.jpg
-  dtReleased: ""
+  dtReleased: "2024-01-04"
   dtModified: ""
+  fancy_name: Octopod Dancer
+  aetherPower: counterattack
+  lb1:
+    power: 745
+    attack: 763
+    defense: 725
+    health: 1363
+  lb2:
+    power: 851
+    attack: 884
+    defense: 841
+    health: 1581
 ...

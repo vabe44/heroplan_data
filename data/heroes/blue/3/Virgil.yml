@@ -9,7 +9,7 @@ power: 484
 attack: 413
 defense: 495
 health: 976
-skill: Imaginary Increments
+skill: Poet's Protection
 effects:
 - 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
 - '1x Mana Charge:'
@@ -33,4 +33,16 @@ passives:
 image: https://i.imgur.com/lXHaox1.jpg
 dtReleased: "2022-09-21"
 dtModified: ""
+fancy_name: Guide to the Underworld
+aetherPower: defense_up
+lb1:
+  power: 540
+  attack: 468
+  defense: 561
+  health: 1107
+lb2:
+  power: 653
+  attack: 579
+  defense: 693
+  health: 1367
 ...

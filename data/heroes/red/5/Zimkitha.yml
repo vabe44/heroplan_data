@@ -21,6 +21,20 @@ types:
 - Attack Buff All
 - Cleanser All
 image: https://i.imgur.com/ZnoCx4D.jpg
+dtReleased: "2018-11-01"
+dtModified: ""
+fancy_name: Long-Lost Daughter
+aetherPower: attack_up
+lb1:
+  power: 819
+  attack: 770
+  defense: 734
+  health: 1567
+lb2:
+  power: 919
+  attack: 881
+  defense: 840
+  health: 1793
 costume:
   hero_id: fire_god_zimkitha_costume_adventurer
   design: costume1
@@ -44,4 +58,18 @@ costume:
   - 'Dispel on Special Skill: When this character casts their Special Skill, they
     dispel the newest status effect buff from all enemies.'
   image: https://i.imgur.com/M65Mn9a.jpg
+  dtReleased: "2023-03-20"
+  dtModified: ""
+  fancy_name: Long-Lost Adventurer
+  aetherPower: special_boost
+  lb1:
+    power: 1046
+    attack: 980
+    defense: 945
+    health: 2243
+  lb2:
+    power: 1179
+    attack: 1121
+    defense: 1081
+    health: 2567
 ...

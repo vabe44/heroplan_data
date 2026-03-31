@@ -26,4 +26,18 @@ passives:
 - 'Resist mana reduction: This character is immune to mana reduction.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/ByQ3x5M.jpg
+dtReleased: "2024-06-10"
+dtModified: ""
+fancy_name: Happy-Go-Lucky Halfling
+aetherPower: special_armor
+lb1:
+  power: 1169
+  attack: 1236
+  defense: 1181
+  health: 2006
+lb2:
+  power: 1319
+  attack: 1414
+  defense: 1351
+  health: 2296
 ...

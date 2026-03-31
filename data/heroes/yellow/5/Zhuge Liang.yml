@@ -24,8 +24,20 @@ types:
 - Counterattack Minion Summoner All
 - Fiend Summoner All
 image: https://i.imgur.com/jjSBiGT.jpg
-dtReleased: ""
+dtReleased: "2022-03-14"
 dtModified: "2026-03-20"
+fancy_name: Master Strategist
+aetherPower: fiend_resist
+lb1:
+  power: 891
+  attack: 765
+  defense: 947
+  health: 1665
+lb2:
+  power: 1001
+  attack: 876
+  defense: 1084
+  health: 1905
 costume:
   hero_id: kingdom_zhuge_liang_costume_crane
   design: costume1
@@ -55,6 +67,18 @@ costume:
   - ' * Can''t be prevented from receiving Minions.'
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/zdjoPv7.jpg
-  dtReleased: ""
+  dtReleased: "2024-05-28"
   dtModified: "2026-03-20"
+  fancy_name: Strategist Supreme
+  aetherPower: mana_boost
+  lb1:
+    power: 1181
+    attack: 1024
+    defense: 1282
+    health: 2423
+  lb2:
+    power: 1334
+    attack: 1172
+    defense: 1467
+    health: 2773
 ...

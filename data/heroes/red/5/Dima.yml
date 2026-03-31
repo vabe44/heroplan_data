@@ -27,4 +27,18 @@ passives:
 - 'Resist mana reduction: This character is immune to mana reduction.'
 - 'Guard Rally: Every 4 turns, removes all Wither effects from all allies.'
 image: https://i.imgur.com/z5rjaIR.jpg
+dtReleased: "2024-09-29"
+dtModified: ""
+fancy_name: The Hogmaster
+aetherPower: attack_up
+lb1:
+  power: 1199
+  attack: 1265
+  defense: 1198
+  health: 2115
+lb2:
+  power: 1354
+  attack: 1447
+  defense: 1371
+  health: 2420
 ...

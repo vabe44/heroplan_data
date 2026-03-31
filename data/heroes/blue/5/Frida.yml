@@ -24,4 +24,18 @@ passives:
 - 'Resist Attack Ailments: This character is immune to status ailments that affect
   attack.'
 image: https://i.imgur.com/vGjHyB4.jpg
+dtReleased: "2019-03-01"
+dtModified: ""
+fancy_name: Arctic Menace
+aetherPower: attack_up
+lb1:
+  power: 820
+  attack: 790
+  defense: 779
+  health: 1434
+lb2:
+  power: 920
+  attack: 904
+  defense: 891
+  health: 1640
 ...

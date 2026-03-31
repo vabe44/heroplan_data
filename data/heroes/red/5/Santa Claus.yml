@@ -22,6 +22,20 @@ types:
 - Attack Debuff All
 - Defense Debuff All
 image: https://i.imgur.com/gDDhARF.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: The Gift-Bringer
+aetherPower: mana_boost
+lb1:
+  power: 825
+  attack: 666
+  defense: 894
+  health: 1549
+lb2:
+  power: 926
+  attack: 762
+  defense: 1023
+  health: 1772
 costume:
   hero_id: christmas_santa_costume_metal
   design: costume1
@@ -47,4 +61,18 @@ costume:
   - 'Frost on Minion Hit: Each hit from the Minions owned by the Hero inflicts 332
     Frost damage over 4 turns.'
   image: https://i.imgur.com/3zbVEXc.jpg
+  dtReleased: "2021-12-01"
+  dtModified: ""
+  fancy_name: Hard Rock Santa
+  aetherPower: regen
+  lb1:
+    power: 1087
+    attack: 942
+    defense: 1210
+    health: 2098
+  lb2:
+    power: 1225
+    attack: 1078
+    defense: 1384
+    health: 2401
 ...

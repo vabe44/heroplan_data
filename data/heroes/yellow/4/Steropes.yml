@@ -9,7 +9,7 @@ power: 685
 attack: 616
 defense: 737
 health: 1272
-skill: Midnight Moon
+skill: Mending Masterpiece
 effects:
 - 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
 - '1x Mana Charge:'
@@ -34,6 +34,18 @@ passives:
 - 'Resist Defense Ailments: This character is immune to status ailments that affect
   defense. Applies also to status ailments that affect elemental defense.'
 image: https://i.imgur.com/JQkhZ6P.jpg
-dtReleased: ""
+dtReleased: "2022-09-21"
 dtModified: "2026-03-20"
+fancy_name: Artist Cyclops
+aetherPower: heal_increase
+lb1:
+  power: 737
+  attack: 669
+  defense: 801
+  health: 1383
+lb2:
+  power: 840
+  attack: 776
+  defense: 928
+  health: 1603
 ...

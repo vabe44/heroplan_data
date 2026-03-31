@@ -19,4 +19,16 @@ types:
 image: https://i.imgur.com/L668UQC.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Lantern Yokai
+aetherPower: special_boost
+lb1:
+  power: 500
+  attack: 468
+  defense: 581
+  health: 776
+lb2:
+  power: 602
+  attack: 579
+  defense: 718
+  health: 958
 ...

@@ -30,8 +30,20 @@ passives:
 - ' * Deals 80% damage to all enemies.'
 - ' * All allies get +19% mana generation for 2 turns.'
 image: https://i.imgur.com/b7HL0wq.jpg
-dtReleased: ""
+dtReleased: "2023-06-07"
 dtModified: "2026-03-22"
+fancy_name: Fishman Marauder
+aetherPower: attack_up
+lb1:
+  power: 740
+  attack: 780
+  defense: 699
+  health: 1334
+lb2:
+  power: 845
+  attack: 904
+  defense: 811
+  health: 1547
 costume:
   hero_id: tales1_mulgog_costume_bard
   design: costume1
@@ -63,6 +75,18 @@ costume:
   - ' * All allies get +19% mana generation for 2 turns.'
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/X5IVjtR.jpg
-  dtReleased: ""
+  dtReleased: "2025-03-31"
   dtModified: "2026-03-22"
+  fancy_name: Fishman Bard
+  aetherPower: defense_up
+  lb1:
+    power: 758
+    attack: 725
+    defense: 793
+    health: 1411
+  lb2:
+    power: 866
+    attack: 841
+    defense: 920
+    health: 1637
 ...

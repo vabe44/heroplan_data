@@ -29,4 +29,18 @@ passives:
 - 'Resist Attack Ailments: This character is immune to status ailments that affect
   attack.'
 image: https://i.imgur.com/sj8AKxx.jpg
+dtReleased: "2024-12-31"
+dtModified: ""
+fancy_name: Charismatic Faun Champion
+aetherPower: defense_up
+lb1:
+  power: 1234
+  attack: 1276
+  defense: 1205
+  health: 2326
+lb2:
+  power: 1394
+  attack: 1460
+  defense: 1379
+  health: 2661
 ...

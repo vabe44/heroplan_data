@@ -31,4 +31,18 @@ passives:
 - 'Resist Attack Reduction: This character is immune to status ailments, stacks and
   Wither effects that affect attack.'
 image: https://imgur.com/zZJxSMo.jpg
+dtReleased: "2025-04-18"
+dtModified: ""
+fancy_name: Mesmerizing Faun Minstrel
+aetherPower: attack_up
+lb1:
+  power: 1256
+  attack: 1351
+  defense: 1201
+  health: 2302
+lb2:
+  power: 1419
+  attack: 1546
+  defense: 1374
+  health: 2633
 ...

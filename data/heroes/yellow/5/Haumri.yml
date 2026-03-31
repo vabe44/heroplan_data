@@ -29,4 +29,18 @@ passives:
   effects and damage from Minions and Mega Minions.'
 - 'Perfect Accuracy: This character''s Special Skill never misses its targets.'
 image: https://imgur.com/VuxizwX.jpg
+dtReleased: "2025-06-04"
+dtModified: ""
+fancy_name: Astral Dwarf Augur
+aetherPower: special_boost
+lb1:
+  power: 1275
+  attack: 1367
+  defense: 1272
+  health: 2253
+lb2:
+  power: 1440
+  attack: 1564
+  defense: 1455
+  health: 2578
 ...

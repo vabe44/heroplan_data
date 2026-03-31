@@ -22,6 +22,20 @@ passives:
 - 'Special Skill Damage Reduction: Received damage from Special Skills is reduced
   by -20% for this character.'
 image: https://i.imgur.com/fpP6oo2.jpg
+dtReleased: "2021-03-25"
+dtModified: ""
+fancy_name: Devious Scientist
+aetherPower: attack_up
+lb1:
+  power: 860
+  attack: 834
+  defense: 810
+  health: 1551
+lb2:
+  power: 967
+  attack: 955
+  defense: 927
+  health: 1775
 costume:
   hero_id: s4_doctor_moreau_costume_scribe
   design: costume1
@@ -47,4 +61,18 @@ costume:
     normal attacks and Special Skills deal +70% damage against targets with boosted
     health for 4 turns.'
   image: https://i.imgur.com/WWxEz6I.jpg
+  dtReleased: "2023-04-27"
+  dtModified: ""
+  fancy_name: Devious Scribe
+  aetherPower: special_boost
+  lb1:
+    power: 1091
+    attack: 1064
+    defense: 1070
+    health: 2103
+  lb2:
+    power: 1231
+    attack: 1218
+    defense: 1225
+    health: 2407
 ...

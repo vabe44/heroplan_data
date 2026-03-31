@@ -21,8 +21,20 @@ passives:
 - 'Increased Specail Skill Damage: This first time this character cast a  Special
   Skill that deals damage an additional 30% is added to its power.'
 image: https://i.imgur.com/pxiscDG.jpg
-dtReleased: ""
+dtReleased: "2021-03-25"
 dtModified: "2026-03-20"
+fancy_name: Halfling Arbalist
+aetherPower: attack_up
+lb1:
+  power: 533
+  attack: 563
+  defense: 514
+  health: 912
+lb2:
+  power: 644
+  attack: 696
+  defense: 635
+  health: 1126
 costume:
   hero_id: s4_poppy_costume_lodger
   design: costume1
@@ -44,6 +56,18 @@ costume:
   - 'Increased Special Skill Damage: The first time this character casts a Special
     Skill that deals damage, an additional 30% is added to its power.'
   image: https://i.imgur.com/nCfovhZ.jpg
-  dtReleased: ""
+  dtReleased: "2024-02-29"
   dtModified: "2026-03-20"
+  fancy_name: Halfling Lodger
+  aetherPower: damage_reduction
+  lb1:
+    power: 545
+    attack: 578
+    defense: 522
+    health: 944
+  lb2:
+    power: 659
+    attack: 715
+    defense: 645
+    health: 1166
 ...

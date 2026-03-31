@@ -23,8 +23,20 @@ passives:
 - 'Increase Buff Duration: Duration of the first 3 buffs this character receives from
   Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/hsqxizP.jpg
-dtReleased: ""
+dtReleased: "2021-12-02"
 dtModified: "2026-03-20"
+fancy_name: Myriapod Prince
+aetherPower: dodge
+lb1:
+  power: 865
+  attack: 863
+  defense: 814
+  health: 1505
+lb2:
+  power: 972
+  attack: 988
+  defense: 932
+  health: 1722
 costume:
   hero_id: s4_zekena_costume_vines
   design: costume1
@@ -51,6 +63,18 @@ costume:
     Skill cast, all allies deal +70% increased normal attacks and Special Skills damage
     against targets with boosted health for 4 turns .'
   image: https://i.imgur.com/KswtgYH.jpg
-  dtReleased: ""
+  dtReleased: "2024-06-20"
   dtModified: "2026-03-20"
+  fancy_name: Apocynacid Prince
+  aetherPower: special_armor
+  lb1:
+    power: 1098
+    attack: 1128
+    defense: 1044
+    health: 2049
+  lb2:
+    power: 1239
+    attack: 1291
+    defense: 1195
+    health: 2345
 ...

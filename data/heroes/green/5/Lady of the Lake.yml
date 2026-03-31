@@ -20,6 +20,20 @@ types:
 - Summoner 3
 - Mana Reduction Minion
 image: https://i.imgur.com/hlRFlMx.jpg
+dtReleased: ""
+dtModified: ""
+fancy_name: Sorceress of Avalon
+aetherPower: special_armor
+lb1:
+  power: 831
+  attack: 814
+  defense: 799
+  health: 1414
+lb2:
+  power: 933
+  attack: 932
+  defense: 914
+  health: 1617
 costume:
   hero_id: knights_lady_of_the_lake_costume_blades
   design: costume1
@@ -42,4 +56,18 @@ costume:
   - Summoner 3
   - Mana Generation Debuff Minion
   image: https://i.imgur.com/T9XV0yp.jpg
+  dtReleased: "2021-12-15"
+  dtModified: ""
+  fancy_name: Lady of Blades
+  aetherPower: heal_increase
+  lb1:
+    power: 1044
+    attack: 1020
+    defense: 1010
+    health: 1995
+  lb2:
+    power: 1176
+    attack: 1167
+    defense: 1155
+    health: 2282
 ...

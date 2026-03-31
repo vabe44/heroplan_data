@@ -35,6 +35,18 @@ passives:
 image: https://i.imgur.com/3R1f8Vh.jpg
 dtReleased: "2023-09-27"
 dtModified: "2026-03-22"
+fancy_name: Elemental Hoplite
+aetherPower: damage_reduction
+lb1:
+  power: 741
+  attack: 734
+  defense: 748
+  health: 1357
+lb2:
+  power: 845
+  attack: 851
+  defense: 867
+  health: 1574
 costume:
   hero_id: tales1_aqualith_costume_purple
   design: costume1
@@ -69,6 +81,18 @@ costume:
   - ' * All allies get +21% critical chance for 2 turns.'
   - 'Resist Insanity: This character is immune to Insanity.'
   image: https://imgur.com/Dkny5By.jpg
-  dtReleased: ""
+  dtReleased: "2025-05-28"
   dtModified: "2026-03-22"
+  fancy_name: Elemental Colossus
+  aetherPower: dodge
+  lb1:
+    power: 758
+    attack: 734
+    defense: 777
+    health: 1421
+  lb2:
+    power: 865
+    attack: 851
+    defense: 901
+    health: 1648
 ...

@@ -27,4 +27,18 @@ passives:
 - 'Increased Special Skill Damage: The first time this character cast a Special Skill
   that deals damage, an additional 50% is added to its power.'
 image: https://imgur.com/Jkdn2z3.jpg
+dtReleased: "2025-09-01"
+dtModified: ""
+fancy_name: The Radiant Berserker
+aetherPower: rage
+lb1:
+  power: 1211
+  attack: 1316
+  defense: 1292
+  health: 1887
+lb2:
+  power: 1368
+  attack: 1506
+  defense: 1478
+  health: 2159
 ...

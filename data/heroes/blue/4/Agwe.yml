@@ -19,6 +19,18 @@ types:
 image: https://i.imgur.com/cTx7oHb.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
+fancy_name: Chameleon Shaman
+aetherPower: boosted_regen
+lb1:
+  power: 697
+  attack: 745
+  defense: 669
+  health: 1172
+lb2:
+  power: 794
+  attack: 864
+  defense: 776
+  health: 1359
 costume:
   hero_id: s2_chameleon_mage_costume_alchemist
   design: costume1
@@ -36,6 +48,18 @@ costume:
   - Hit All
   - DoT All Nature
   image: https://i.imgur.com/1q4qwgL.jpg
-  dtReleased: ""
+  dtReleased: "2023-03-06"
   dtModified: "2026-03-20"
+  fancy_name: Chameleon Alchemist
+  aetherPower: damage_reduction
+  lb1:
+    power: 719
+    attack: 715
+    defense: 772
+    health: 1204
+  lb2:
+    power: 821
+    attack: 829
+    defense: 896
+    health: 1396
 ...

@@ -39,4 +39,18 @@ passives:
 - 'Beautiful Inside: Whenever this character would take damage from a status ailment,
   they will recover that much health instead.'
 image: https://imgur.com/XgPwLFu.jpg
+dtReleased: "2025-11-12"
+dtModified: ""
+fancy_name: Bloom of the Bewitched Castle
+aetherPower: fiend_resist
+lb1:
+  power: 1342
+  attack: 1389
+  defense: 1394
+  health: 2433
+lb2:
+  power: 1517
+  attack: 1590
+  defense: 1595
+  health: 2783
 ...

@@ -21,4 +21,18 @@ passives:
   Special Skills or in place of a character in Cover, there''s a 60% chance to deal
   20% of the received damage to all enemies.'
 image: https://i.imgur.com/cnURK1S.jpg
+dtReleased: "2023-09-20"
+dtModified: ""
+fancy_name: Ruthless Miscreant
+aetherPower: attack_up
+lb1:
+  power: 991
+  attack: 952
+  defense: 916
+  health: 1978
+lb2:
+  power: 1116
+  attack: 1089
+  defense: 1049
+  health: 2263
 ...
