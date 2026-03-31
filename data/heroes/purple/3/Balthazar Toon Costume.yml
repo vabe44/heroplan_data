@@ -1,5 +1,6 @@
 ---
 name: Balthazar Toon Costume
+hero_id: cultist_mage_costume_cute
 is_costume: true
 design: toon
 source: season1

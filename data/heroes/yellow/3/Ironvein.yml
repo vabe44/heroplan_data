@@ -1,5 +1,6 @@
 ---
 name: Ironvein
+hero_id: construct_ironvein
 source: covenant
 family: construct
 speed: Average

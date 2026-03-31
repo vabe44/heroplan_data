@@ -1,5 +1,6 @@
 ---
 name: Deadboot
+hero_id: goblin_deadboot
 source: goblinvillage
 family: goblin
 speed: Very Fast

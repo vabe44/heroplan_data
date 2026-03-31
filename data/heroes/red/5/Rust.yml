@@ -1,4 +1,5 @@
 name: Rust
+hero_id: fox_rust
 source: harvest
 family: fox
 speed: Slow

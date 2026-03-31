@@ -1,5 +1,6 @@
 ---
 name: Hathor
+hero_id: s5_hathor
 source: season5
 family: moon
 speed: Fast
@@ -24,6 +25,7 @@ image: https://i.imgur.com/sV7BVbk.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s5_hathor_costume_starlit
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

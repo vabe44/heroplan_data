@@ -1,5 +1,6 @@
 ---
 name: Hannah
+hero_id: s4_hannah
 source: season4
 family: underwild
 speed: Fast
@@ -25,6 +26,7 @@ passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/adxVUbU.jpg
 costume:
+  hero_id: s4_hannah_costume_drover
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

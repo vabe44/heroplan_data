@@ -1,5 +1,6 @@
 ---
 name: Elizabeth
+hero_id: s4_elizabeth
 source: season4
 family: underwild
 speed: Average
@@ -26,6 +27,7 @@ passives:
   Skills is increased by 1 turn'
 image: https://i.imgur.com/5redygr.jpg
 costume:
+  hero_id: s4_elizabeth_costume_bride
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

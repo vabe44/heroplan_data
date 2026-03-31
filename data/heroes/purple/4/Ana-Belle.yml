@@ -1,4 +1,5 @@
 name: Ana-Belle
+hero_id: halloween_ana_belle
 source: morlovia
 family: morlovia
 speed: Average
@@ -21,6 +22,7 @@ passives:
     Steal Buff: When this character casts their Special Skill, they have a 65% chance to steal the newest dispellable buff from a random enemy that has buffs. If no enemy has buffs, deals 150% damage to all enemies.
 image: https://i.imgur.com/FvJxtPO.jpg
 costume:
+  hero_id: halloween_ana_belle_costume_mafia
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

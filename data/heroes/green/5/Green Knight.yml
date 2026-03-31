@@ -1,5 +1,6 @@
 ---
 name: Green Knight
+hero_id: knights_green_knight
 source: avalon
 family: avalon
 speed: Average

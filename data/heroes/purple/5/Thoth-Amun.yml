@@ -1,5 +1,6 @@
 ---
 name: Thoth-Amun
+hero_id: witch_king
 source: hotm
 family: "2017"
 speed: Fast
@@ -20,6 +21,7 @@ types:
 - Summoner 3
 image: https://i.imgur.com/qJmJu2G.jpg
 costume:
+  hero_id: witch_king_costume_cosmic
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

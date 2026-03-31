@@ -1,5 +1,6 @@
 ---
 name: Bubbles
+hero_id: mighty_pet_bubbles
 source: pets
 family: pets
 speed: Fast

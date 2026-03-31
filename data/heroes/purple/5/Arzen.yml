@@ -1,5 +1,6 @@
 ---
 name: Arzen
+hero_id: construct_arzen
 source: covenant
 family: construct
 speed: Fast

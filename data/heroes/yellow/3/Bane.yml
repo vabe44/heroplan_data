@@ -1,5 +1,6 @@
 ---
 name: Bane
+hero_id: oriental_brawler
 source: season1
 family: classic
 speed: Fast
@@ -18,6 +19,7 @@ types:
 - Blind 1
 image: https://i.imgur.com/9aCbPHu.jpg
 costume:
+  hero_id: oriental_brawler_costume_egypt
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger

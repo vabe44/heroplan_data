@@ -1,5 +1,6 @@
 ---
 name: Quenell
+hero_id: castle_wolf_quenell
 source: knights
 family: wolf
 speed: Fast
@@ -20,6 +21,7 @@ types:
 - Self HoT
 image: https://i.imgur.com/iWwRJlT.jpg
 costume:
+  hero_id: castle_wolf_quenell_costume_wood
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

@@ -1,5 +1,6 @@
 ---
 name: Zhuge Liang
+hero_id: kingdom_zhuge_liang
 source: kingdom
 family: kingdom
 speed: Slow
@@ -26,6 +27,7 @@ image: https://i.imgur.com/jjSBiGT.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: kingdom_zhuge_liang_costume_crane
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

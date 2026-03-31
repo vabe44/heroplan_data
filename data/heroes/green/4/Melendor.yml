@@ -1,5 +1,6 @@
 ---
 name: Melendor
+hero_id: forest_mage
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Dispeller All
 image: https://i.imgur.com/3rwM4W7.jpg
 costume:
+  hero_id: forest_mage_costume_white
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard
@@ -35,6 +37,7 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/5gxdGVM.jpg
 costume2:
+  hero_id: forest_mage_costume_party
   design: costume2
   bonuses: 5/5/10/5
   class: Sorcerer

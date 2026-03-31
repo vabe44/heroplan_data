@@ -1,5 +1,6 @@
 ---
 name: Helo
+hero_id: s4_helo
 source: season4
 family: underwild
 speed: Average
@@ -22,6 +23,7 @@ image: https://i.imgur.com/e1OFOms.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
 costume:
+  hero_id: s4_helo_costume_baker
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

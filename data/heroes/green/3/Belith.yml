@@ -1,5 +1,6 @@
 ---
 name: Belith
+hero_id: forest_female_spirit
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Dispeller All
 image: https://i.imgur.com/aLWFiS9.jpg
 costume:
+  hero_id: forest_female_spirit_costume_autumn
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

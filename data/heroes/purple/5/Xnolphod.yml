@@ -1,5 +1,6 @@
 ---
 name: Xnolphod
+hero_id: s4_xnolphod
 source: season4
 family: underwild
 speed: Average
@@ -24,6 +25,7 @@ passives:
   receives from Special Skills is decreased by 1 turn.'
 image: https://i.imgur.com/RF7rniv.jpg
 costume:
+  hero_id: s4_xnolphod_costume_jailer
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

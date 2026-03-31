@@ -1,5 +1,6 @@
 ---
 name: Cao Cao
+hero_id: kingdom_cao_cao
 source: kingdom
 family: kingdom
 speed: Slow
@@ -22,6 +23,7 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/U1AQZ8U.jpg
 costume:
+  hero_id: kingdom_cao_cao_costume_ice
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger

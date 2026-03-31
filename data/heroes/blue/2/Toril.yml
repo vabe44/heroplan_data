@@ -1,4 +1,5 @@
 name: Toril
+hero_id: dwarven_scout
 class: Barbarian
 source: season1
 speed: Average

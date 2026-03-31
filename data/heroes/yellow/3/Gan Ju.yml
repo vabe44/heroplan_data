@@ -1,5 +1,6 @@
 ---
 name: Gan Ju
+hero_id: oriental_panda_berserker
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - Mana Reduction 1
 image: https://i.imgur.com/Eor4cBc.jpg
 costume:
+  hero_id: oriental_panda_berserker_costume_farmer
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

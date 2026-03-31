@@ -1,5 +1,6 @@
 ---
 name: Senan
+hero_id: slayer_senan
 source: slayers
 family: slayer
 speed: Slow
@@ -27,6 +28,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/PYhKsHp.jpg
 costume:
+  hero_id: slayer_senan_costume_tentacles
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

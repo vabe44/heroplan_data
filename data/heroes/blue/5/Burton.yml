@@ -1,5 +1,6 @@
 ---
 name: Burton
+hero_id: shadow_burton
 source: shadow
 family: investigator
 speed: Fast

@@ -1,5 +1,6 @@
 ---
 name: Regin
+hero_id: tales2_regin
 source: untoldtales
 family: nidavellir
 speed: Fast
@@ -31,6 +32,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/IX7uDP5.jpg
 costume:
+  hero_id: tales2_regin_costume_omen
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

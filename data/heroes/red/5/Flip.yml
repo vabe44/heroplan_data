@@ -1,5 +1,6 @@
 ---
 name: Flip
+hero_id: beachparty_flip
 source: beachparty
 family: beachparty
 speed: Average
@@ -24,6 +25,7 @@ passives:
   enemies receive 200 Water damage over 2 turns.'
 image: https://i.imgur.com/VLECZaD.jpg
 costume:
+  hero_id: beachparty_flip_costume_donut
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

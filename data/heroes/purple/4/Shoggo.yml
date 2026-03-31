@@ -1,5 +1,6 @@
 ---
 name: Shoggo
+hero_id: shadow_shoggo
 source: shadow
 family: cultist
 speed: Average

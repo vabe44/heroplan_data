@@ -1,4 +1,5 @@
 name: Aqeela
+hero_id: s5_aqeela
 source: season5
 family: moon
 speed: Fast
@@ -22,6 +23,7 @@ passives:
     * Dispels the latest dispellable buff from enemies.
 image: https://i.imgur.com/N5k1s9j.jpg
 costume:
+  hero_id: s5_aqeela_costume_sorcerer
   bonuses: 5/5/10/5
   class: Sorcerer
   power: 494

@@ -1,5 +1,6 @@
 ---
 name: Aeron
+hero_id: dark_god_aeron
 source: hotm
 family: "2018"
 speed: Average
@@ -22,6 +23,7 @@ types:
 - Cleanser 3
 image: https://i.imgur.com/9AxepJ9.jpg
 costume:
+  hero_id: dark_god_aeron_costume_periwig
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

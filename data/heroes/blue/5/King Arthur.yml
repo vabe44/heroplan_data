@@ -1,5 +1,6 @@
 ---
 name: King Arthur
+hero_id: knights_king_arthur
 source: avalon
 family: avalon
 speed: Average

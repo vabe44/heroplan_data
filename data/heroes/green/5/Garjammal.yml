@@ -1,5 +1,6 @@
 ---
 name: Garjammal
+hero_id: s4_garjammal
 source: season4
 family: underwild
 speed: Fast
@@ -21,6 +22,7 @@ passives:
   receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/kz19bRj.jpg
 costume:
+  hero_id: s4_garjammal_costume_kite
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

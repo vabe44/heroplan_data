@@ -1,5 +1,6 @@
 ---
 name: Zavolt
+hero_id: construct_zavok
 source: covenant
 family: construct
 speed: Slow

@@ -1,5 +1,6 @@
 ---
 name: Winifred
+hero_id: bard_winifred
 source: festival
 family: bard
 speed: Slow

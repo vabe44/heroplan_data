@@ -1,5 +1,6 @@
 ---
 name: Delilah
+hero_id: holy_god_delilah
 source: hotm
 family: "2018"
 speed: Average
@@ -22,6 +23,7 @@ image: https://i.imgur.com/gbHdhVI.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: holy_god_delilah_costume_guardian
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

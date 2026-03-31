@@ -1,5 +1,6 @@
 ---
 name: Xandrella
+hero_id: elemental_xandrella
 source: superelemental
 family: superelemental
 speed: Average
@@ -32,6 +33,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/KaW9HIP.jpg
 costume:
+  hero_id: elemental_xandrella_costume_idol
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

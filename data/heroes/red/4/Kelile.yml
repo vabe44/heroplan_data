@@ -1,5 +1,6 @@
 ---
 name: Kelile
+hero_id: nomad_female_berserker
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - DoT 1
 image: https://i.imgur.com/g0FkZzQ.jpg
 costume:
+  hero_id: nomad_female_berserker_costume_shaman
   design: costume1
   bonuses: 5/5/10/5
   class: Druid
@@ -31,6 +33,7 @@ costume:
   - DoT All
   image: https://i.imgur.com/EFoCGqV.jpg
 costume2:
+  hero_id: nomad_female_berserker_costume_sorceress
   design: costume2
   bonuses: 5/5/10/5
   class: Sorcerer

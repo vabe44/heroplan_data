@@ -1,5 +1,6 @@
 ---
 name: Aegir
+hero_id: ice_god_october
 source: hotm
 family: "2018"
 speed: Average
@@ -24,6 +25,7 @@ image: https://i.imgur.com/BzRTcqJ.jpg
 dtReleased: "2018-10-01"
 dtModified: ""
 costume:
+  hero_id: ice_god_october_costume_farmer
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

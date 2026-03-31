@@ -1,5 +1,6 @@
 ---
 name: Bramble
+hero_id: faun_bramble
 source: wilderness
 family: woodlandfaun
 speed: Average

@@ -1,5 +1,6 @@
 ---
 name: Lysanor
+hero_id: castle_stag_lysanor
 source: knights
 family: stag
 speed: Slow

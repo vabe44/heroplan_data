@@ -1,5 +1,6 @@
 ---
 name: Glacivolt
+hero_id: construct_glacivolt
 source: covenant
 family: construct
 speed: Fast

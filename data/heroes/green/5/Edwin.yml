@@ -1,5 +1,6 @@
 ---
 name: Edwin
+hero_id: halloween_edwin
 source: morlovia
 family: morlovia
 speed: Fast
@@ -24,6 +25,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/NshfXdy.jpg
 costume:
+  hero_id: halloween_edwin_costume_mafia
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

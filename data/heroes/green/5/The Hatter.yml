@@ -1,5 +1,6 @@
 ---
 name: The Hatter
+hero_id: wonderland_hatter
 source: wonderland
 family: wonderland
 speed: Average
@@ -18,6 +19,7 @@ types:
 - Buff Stealer All
 image: https://i.imgur.com/Fs3u4wr.jpg
 costume:
+  hero_id: wonderland_hatter_costume_tea
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

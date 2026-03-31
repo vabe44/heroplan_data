@@ -1,5 +1,6 @@
 ---
 name: Troop Mimic Ice
+hero_id: mimic_troop_blue
 source: secretsummon
 family: mimic
 speed: Average

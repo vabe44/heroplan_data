@@ -1,5 +1,6 @@
 ---
 name: Friar Tuck
+hero_id: forest_friar
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Mana Generation Buff 3
 image: https://i.imgur.com/nprqffe.jpg
 costume:
+  hero_id: forest_friar_costume_explorer
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

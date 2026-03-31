@@ -1,5 +1,6 @@
 ---
 name: Kageburado
+hero_id: s2_cursed_samurai
 source: season2
 family: sakura
 speed: Very Fast
@@ -18,6 +19,7 @@ types:
 - Hit 1
 image: https://i.imgur.com/OUhEZUJ.jpg
 costume:
+  hero_id: s2_cursed_samurai_costume_beetle
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

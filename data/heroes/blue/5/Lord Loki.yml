@@ -1,5 +1,6 @@
 ---
 name: Lord Loki
+hero_id: s3_loki_male
 source: season3
 family: jotunheim
 speed: Average
@@ -21,6 +22,7 @@ types:
 - Hit 1
 image: https://i.imgur.com/eGy2uqe.jpg
 costume:
+  hero_id: s3_loki_male_costume_shapeshifter
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

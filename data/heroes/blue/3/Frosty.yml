@@ -1,5 +1,6 @@
 ---
 name: Frosty
+hero_id: christmas_frosty
 source: christmas
 family: christmas
 speed: Average

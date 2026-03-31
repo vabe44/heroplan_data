@@ -1,5 +1,6 @@
 ---
 name: Alberich
+hero_id: forest_god_oberon
 source: hotm
 family: "2017"
 speed: Slow
@@ -21,6 +22,7 @@ types:
 - MoT All
 image: https://i.imgur.com/0IebpZg.jpg
 costume:
+  hero_id: forest_god_oberon_costume_everoak
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

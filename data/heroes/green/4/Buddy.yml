@@ -1,4 +1,5 @@
 name: Buddy
+hero_id: christmas_elf
 source: christmas
 family: christmas
 speed: Average
@@ -20,6 +21,7 @@ types:
   - Defense Debuff 3
 image: https://i.imgur.com/fZWbFxH.jpg
 costume:
+  hero_id: christmas_elf_costume_gift_bookkeper
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

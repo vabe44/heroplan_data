@@ -1,5 +1,6 @@
 ---
 name: Sizzleomatic
+hero_id: construct_sizzleomatic
 source: covenant
 family: construct
 speed: Slow

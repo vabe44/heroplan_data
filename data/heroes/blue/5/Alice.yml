@@ -1,5 +1,6 @@
 ---
 name: Alice
+hero_id: wonderland_alice
 source: wonderland
 family: wonderland
 speed: Fast

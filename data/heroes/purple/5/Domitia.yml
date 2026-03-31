@@ -1,5 +1,6 @@
 ---
 name: Domitia
+hero_id: magitech_sniper
 source: season1
 family: classic
 speed: Average
@@ -19,6 +20,7 @@ types:
 - Dispeller 3
 image: https://i.imgur.com/t244Fcr.jpg
 costume:
+  hero_id: magitech_sniper_costume_steampunk
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger
@@ -37,6 +39,7 @@ costume:
   - Cleanser 3
   image: https://i.imgur.com/mpRxFeU.jpg
 costume2:
+  hero_id: magitech_sniper_costume_undead
   design: costume2
   bonuses: 5/5/10/5
   class: Barbarian

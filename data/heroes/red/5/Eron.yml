@@ -1,5 +1,6 @@
 ---
 name: Eron
+hero_id: owl_eron
 source: owltower
 family: owl
 speed: Fast

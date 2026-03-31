@@ -1,5 +1,6 @@
 ---
 name: Kvasir
+hero_id: s3_kvasir
 source: season3
 family: alfheim
 speed: Fast
@@ -23,6 +24,7 @@ image: https://i.imgur.com/iXRJ2NZ.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s3_kvasir_costume_captain
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

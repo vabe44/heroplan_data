@@ -1,5 +1,6 @@
 ---
 name: Timius
+hero_id: owl_timius
 source: owltower
 family: owl
 speed: Fast

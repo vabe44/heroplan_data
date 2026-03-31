@@ -1,5 +1,6 @@
 ---
 name: Planchet
+hero_id: musketeer_planchet
 source: musketeer
 family: musketeer
 speed: Fast
@@ -25,6 +26,7 @@ image: https://i.imgur.com/Hw45iGe.jpg
 dtReleased: "2023-03-08"
 dtModified: ""
 costume:
+  hero_id: musketeer_planchet_costume_adventurer
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

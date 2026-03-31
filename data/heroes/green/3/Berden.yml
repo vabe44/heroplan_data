@@ -1,5 +1,6 @@
 ---
 name: Berden
+hero_id: forest_archer
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - Attack Debuff 1
 image: https://i.imgur.com/VjExjHL.jpg
 costume:
+  hero_id: forest_archer_costume_warrior
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

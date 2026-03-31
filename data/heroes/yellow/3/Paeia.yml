@@ -1,5 +1,6 @@
 ---
 name: Paeia
+hero_id: owl_paeia
 source: owltower
 family: owl
 speed: Very Slow

@@ -1,5 +1,6 @@
 ---
 name: Captain Nemo
+hero_id: s4_captain_nemo
 source: season4
 family: underwild
 speed: Fast
@@ -18,6 +19,7 @@ passives:
 - This character receives 20% mana at the start of the battle.
 image: https://i.imgur.com/lNl4PPg.jpg
 costume:
+  hero_id: s4_captain_nemo_costume_machinist
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

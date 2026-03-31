@@ -1,5 +1,6 @@
 ---
 name: Queen of Hearts
+hero_id: wonderland_queen
 source: wonderland
 family: wonderland
 speed: Average
@@ -22,6 +23,7 @@ types:
 - SS Defense Buff Self
 image: https://i.imgur.com/12RLqSK.jpg
 costume:
+  hero_id: wonderland_queen_costume_benefactor
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

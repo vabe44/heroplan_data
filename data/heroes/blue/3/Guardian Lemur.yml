@@ -1,5 +1,6 @@
 ---
 name: Guardian Lemur
+hero_id: guardian_lemur
 source: teltoc
 family: guardiansteltoc
 speed: Average

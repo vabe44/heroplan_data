@@ -1,4 +1,5 @@
 name: Junaid
+hero_id: s5_junaid
 source: season5
 family: moon
 speed: Fast
@@ -21,6 +22,7 @@ passives:
   - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/9XxU54s.jpg
 costume:
+  hero_id: s5_junaid_costume_champion
   bonuses: 5/5/10/5
   class: Paladin
   power: 700

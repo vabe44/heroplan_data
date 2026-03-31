@@ -1,5 +1,6 @@
 ---
 name: D'Artagnan
+hero_id: musketeer_dartagnan
 source: musketeer
 family: musketeer
 speed: Fast
@@ -25,6 +26,7 @@ passives:
 image: https://i.imgur.com/cwvEsxY.jpg
 costume:
   design: costume1
+  hero_id: musketeer_dartagnan_costume_chimney_sweeper
   bonuses: 5/5/10/5
   class: Wizard
   power: 1280

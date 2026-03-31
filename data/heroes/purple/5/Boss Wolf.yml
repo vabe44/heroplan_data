@@ -1,5 +1,6 @@
 ---
 name: Boss Wolf
+hero_id: fables_boss_wolf
 source: fables
 family: grimforest
 speed: Very Slow

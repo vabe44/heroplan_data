@@ -1,5 +1,6 @@
 ---
 name: Thorne
+hero_id: royal_knight_commander
 source: season1
 family: classic
 speed: Average
@@ -15,6 +16,7 @@ types:
 - Hit 3
 image: https://i.imgur.com/9CT7f6V.jpg
 costume:
+  hero_id: royal_knight_commander_costume_king
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -31,6 +33,7 @@ costume:
   - Self Mana Gen Buff
   image: https://i.imgur.com/YX5GVdv.jpg
 costume2:
+  hero_id: royal_knight_commander_costume_gryphon
   design: costume2
   bonuses: 5/5/10/5
   class: Barbarian

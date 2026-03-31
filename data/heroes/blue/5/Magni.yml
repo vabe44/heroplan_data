@@ -1,5 +1,6 @@
 ---
 name: Magni
+hero_id: exalted_warrior
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - Defense Buff 3
 image: https://i.imgur.com/JpMZ0xh.jpg
 costume:
+  hero_id: exalted_warrior_costume_ice
   design: costume1
   bonuses: 5/5/10/5
   class: Druid
@@ -33,6 +35,7 @@ costume:
   - Defense Debuff 3
   image: https://i.imgur.com/A0jPrh9.jpg
 costume2:
+  hero_id: exalted_warrior_costume_underworld
   design: costume2
   bonuses: 5/5/10/5
   class: Rogue

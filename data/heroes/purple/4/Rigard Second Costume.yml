@@ -1,5 +1,6 @@
 ---
 name: Rigard Second Costume
+hero_id: blackguard_knight_costume_healer
 is_costume: true
 design: costume2
 source: season1

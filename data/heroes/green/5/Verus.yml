@@ -1,5 +1,6 @@
 ---
 name: Verus
+hero_id: owl_verus
 source: owltower
 family: owl
 speed: Average

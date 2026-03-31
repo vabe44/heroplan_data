@@ -1,5 +1,6 @@
 ---
 name: Kadilen
+hero_id: forest_female_elf
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - SS Defense Buff All
 image: https://i.imgur.com/Gjh3PRB.jpg
 costume:
+  hero_id: forest_female_elf_costume_mage
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -35,6 +37,7 @@ costume:
   - SS Dodge Chance Buff All
   image: https://i.imgur.com/N7LZ2EP.jpg
 costume2:
+  hero_id: forest_female_elf_costume_fairy
   design: costume2
   bonuses: 5/5/10/5
   class: Cleric

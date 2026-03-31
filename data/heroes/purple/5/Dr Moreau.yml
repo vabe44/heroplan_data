@@ -1,5 +1,6 @@
 ---
 name: Dr Moreau
+hero_id: s4_doctor_moreau
 source: season4
 family: underwild
 speed: Fast
@@ -22,6 +23,7 @@ passives:
   by -20% for this character.'
 image: https://i.imgur.com/fpP6oo2.jpg
 costume:
+  hero_id: s4_doctor_moreau_costume_scribe
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

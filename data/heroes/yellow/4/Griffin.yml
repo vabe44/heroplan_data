@@ -1,4 +1,5 @@
 name: Griffin
+hero_id: s4_griffin
 class: Rogue
 source: season4
 family: underwild
@@ -19,6 +20,7 @@ passives:
     Increased Special Skill Damage: The first time this character casts a Special Skill that deals damage, an additional 30% is added to its power.
 image: https://i.imgur.com/MRV1QX0.jpg
 costume:
+  hero_id: s4_griffin_costume_priest
   bonuses: 5/5/10/5
   class: Cleric
   power: 692

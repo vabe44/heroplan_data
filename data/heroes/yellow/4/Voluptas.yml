@@ -1,4 +1,5 @@
 name: Voluptas
+hero_id: valentines_voluptas
 source: love
 family: cupid
 speed: Average
@@ -19,6 +20,7 @@ passives:
     Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/FUJWm4U.jpg
 costume:
+  hero_id: valentines_voluptas_costume_paint
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

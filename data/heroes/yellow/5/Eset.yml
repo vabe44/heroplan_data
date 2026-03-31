@@ -1,5 +1,6 @@
 ---
 name: Eset
+hero_id: s5_eset
 source: season5
 family: sun
 speed: Slow
@@ -26,6 +27,7 @@ passives:
 - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/0YdsTMt.jpg
 costume:
+  hero_id: s5_eset_costume_goldensun
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

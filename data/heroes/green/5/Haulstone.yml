@@ -1,5 +1,6 @@
 ---
 name: Haulstone
+hero_id: construct_haulstone
 source: covenant
 family: construct
 speed: Average

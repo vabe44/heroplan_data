@@ -1,5 +1,6 @@
 ---
 name: Kitty
+hero_id: musketeer_kitty
 source: musketeer
 family: musketeer
 speed: Average
@@ -25,6 +26,7 @@ passives:
   damage to all enemies.'
 image: https://i.imgur.com/2nOJ3dV.jpg
 costume:
+  hero_id: musketeer_kitty_costume_harvester
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

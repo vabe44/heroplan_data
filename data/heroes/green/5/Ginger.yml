@@ -1,5 +1,6 @@
 ---
 name: Ginger
+hero_id: christmas_ginger
 source: christmas
 family: christmas
 speed: Fast
@@ -23,6 +24,7 @@ types:
 - SS Damage Buff 4
 image: https://i.imgur.com/U9fsiDu.jpg
 costume:
+  hero_id: christmas_ginger_costume_gift_wrapper
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

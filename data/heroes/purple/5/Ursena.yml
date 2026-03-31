@@ -1,5 +1,6 @@
 ---
 name: Ursena
+hero_id: s2_ursena
 source: season2
 family: atlantis
 speed: Average
@@ -24,6 +25,7 @@ image: https://i.imgur.com/OQ8iQcf.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s2_ursena_costume_reef
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

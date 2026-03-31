@@ -1,5 +1,6 @@
 ---
 name: Fulvia
+hero_id: owl_fulvia
 source: owltower
 family: owl
 speed: Average

@@ -1,4 +1,5 @@
 name: Julius
+hero_id: blackguard_scout
 class: Fighter
 source: season1
 speed: Fast

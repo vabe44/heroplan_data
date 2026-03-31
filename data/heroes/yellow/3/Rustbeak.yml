@@ -1,5 +1,6 @@
 ---
 name: Rustbeak
+hero_id: construct_rustbeak
 source: covenant
 family: construct
 speed: Average

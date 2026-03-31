@@ -1,5 +1,6 @@
 ---
 name: Kemeny
+hero_id: gargoyle_kemeny
 source: gargoyle
 family: gargoyle
 speed: Average

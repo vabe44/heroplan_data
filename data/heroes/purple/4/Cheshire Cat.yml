@@ -1,4 +1,5 @@
 name: Cheshire Cat
+hero_id: wonderland_cheshire_cat
 class: Sorcerer
 source: wonderland
 family: wonderland
@@ -17,6 +18,7 @@ types:
   - DoT All
 image: https://i.imgur.com/Js5mqAr.jpg
 costume:
+  hero_id: wonderland_cheshire_cat_costume_malicious
   bonuses: 5/5/10/5
   class: Rogue
   power: 684

@@ -1,5 +1,6 @@
 ---
 name: Jarif
+hero_id: s5_jarif
 source: season5
 family: moon
 speed: Average
@@ -25,6 +26,7 @@ image: https://i.imgur.com/ntCu0sS.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
 costume:
+  hero_id: s5_jarif_costume_curator
   design: costume1
   bonuses: 2/2/4/1
   class: Cleric

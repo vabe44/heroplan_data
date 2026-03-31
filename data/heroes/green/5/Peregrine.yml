@@ -1,5 +1,6 @@
 ---
 name: Peregrine
+hero_id: faun_peregrine
 source: wilderness
 family: woodlandfaun
 speed: Average

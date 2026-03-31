@@ -1,5 +1,6 @@
 ---
 name: Nemesis
+hero_id: styx_nemesis
 source: styx
 family: styx
 speed: Charge

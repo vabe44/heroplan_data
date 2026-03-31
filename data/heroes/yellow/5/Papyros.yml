@@ -1,5 +1,6 @@
 ---
 name: Papyros
+hero_id: s5_papyros
 source: season5
 family: moon
 speed: Average
@@ -27,6 +28,7 @@ image: https://i.imgur.com/cV84mq0.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s5_papyros_costume_colossus
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

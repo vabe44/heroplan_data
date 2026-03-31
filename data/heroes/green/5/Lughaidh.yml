@@ -1,5 +1,6 @@
 ---
 name: Lughaidh
+hero_id: s4_lughaidh
 source: season4
 family: underwild
 speed: Slow
@@ -32,6 +33,7 @@ passives:
   by -20% for this character.'
 image: https://i.imgur.com/RFjr7Fi.jpg
 costume:
+  hero_id: s4_lughaidh_costume_deathless
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

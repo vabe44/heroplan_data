@@ -1,5 +1,6 @@
 ---
 name: Troop Mimic Fire
+hero_id: mimic_troop_red
 source: secretsummon
 family: mimic
 speed: Average

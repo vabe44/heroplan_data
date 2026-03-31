@@ -1,5 +1,6 @@
 ---
 name: Hulda
+hero_id: s4_hulda
 source: season4
 family: underwild
 speed: Average
@@ -25,6 +26,7 @@ passives:
   Special Skill is increased by 1 turn.'
 image: https://i.imgur.com/J9OOPtS.jpg
 costume:
+  hero_id: s4_hulda_costume_nurse
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

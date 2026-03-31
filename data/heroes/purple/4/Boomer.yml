@@ -1,5 +1,6 @@
 ---
 name: Boomer
+hero_id: pirate_first_mate
 source: pirates
 family: corellia
 speed: Average

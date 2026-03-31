@@ -1,5 +1,6 @@
 ---
 name: Ott
+hero_id: tales2_ott
 source: untoldtales
 family: nidavellir
 speed: Fast
@@ -32,6 +33,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/XIyQFXu.jpg
 costume:
+  hero_id: tales2_ott_costume_herbalist
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

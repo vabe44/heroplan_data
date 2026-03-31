@@ -1,5 +1,6 @@
 ---
 name: Goseck
+hero_id: gargoyle_goseck
 source: gargoyle
 family: gargoyle
 speed: Slow

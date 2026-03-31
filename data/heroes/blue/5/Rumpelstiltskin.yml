@@ -1,5 +1,6 @@
 ---
 name: Rumpelstiltskin
+hero_id: fables_rumpelstiltskin
 source: fables
 family: grimforest
 speed: Average
@@ -24,6 +25,7 @@ types:
 - Gambler
 image: https://i.imgur.com/v7aCbsm.jpg
 costume:
+  hero_id: fables_rumpelstiltskin_costume_eternal
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

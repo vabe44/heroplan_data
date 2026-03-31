@@ -1,5 +1,6 @@
 ---
 name: Guan Yu
+hero_id: kingdom_guan_yu
 source: kingdom
 family: kingdom
 speed: Average
@@ -21,6 +22,7 @@ types:
 - Defense Debuff 3
 image: https://i.imgur.com/nDiRoqi.jpg
 costume:
+  hero_id: kingdom_guan_yu_costume_dragon
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

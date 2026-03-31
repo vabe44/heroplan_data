@@ -1,5 +1,6 @@
 ---
 name: Hawkmoon
+hero_id: nomad_female_shaman
 source: season1
 family: classic
 speed: Average
@@ -15,6 +16,7 @@ types:
 - Healer All
 image: https://i.imgur.com/6ZyfSsX.jpg
 costume:
+  hero_id: nomad_female_shaman_costume_native
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

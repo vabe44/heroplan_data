@@ -1,5 +1,6 @@
 ---
 name: Rigard
+hero_id: blackguard_knight
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/epzxGwy.jpg
 costume:
+  hero_id: blackguard_knight_costume_elegant
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger
@@ -35,6 +37,7 @@ costume:
   - Cleanser All
   image: https://i.imgur.com/9nzkBMP.jpg
 costume2:
+  hero_id: blackguard_knight_costume_healer
   design: costume2
   bonuses: 5/5/10/5
   class: Monk

@@ -1,5 +1,6 @@
 ---
 name: Ray
+hero_id: magic_ray
 source: magic
 family: magic
 speed: Magic
@@ -36,6 +37,7 @@ passives:
   chance is 100%.'
 image: https://i.imgur.com/0vSBWSh.jpg
 costume:
+  hero_id: magic_ray_costume_spiky
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

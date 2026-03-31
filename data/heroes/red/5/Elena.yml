@@ -1,5 +1,6 @@
 ---
 name: Elena
+hero_id: nomad_female_lord
 source: season1
 family: classic
 speed: Slow
@@ -18,6 +19,7 @@ types:
 - Counterattack 3
 image: https://i.imgur.com/DJkMDg0.jpg
 costume:
+  hero_id: nomad_female_lord_costume_flame
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue
@@ -35,6 +37,7 @@ costume:
   - Counterattack 3
   image: https://i.imgur.com/rs8S0na.jpg
 costume2:
+  hero_id: nomad_female_lord_costume_wicked
   design: costume2
   bonuses: 5/5/10/5
   class: Paladin

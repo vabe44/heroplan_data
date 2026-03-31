@@ -1,5 +1,6 @@
 ---
 name: Gregorion
+hero_id: forest_god_gregorion
 source: hotm
 family: "2018"
 speed: Average
@@ -19,6 +20,7 @@ types:
 - Critical Chance Buff All
 image: https://i.imgur.com/Vz5Hvbn.jpg
 costume:
+  hero_id: forest_god_gregorion_costume_alchemist
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

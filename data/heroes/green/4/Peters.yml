@@ -1,4 +1,5 @@
 name: Peters
+hero_id: pirate_cabin_boy
 source: pirates
 family: corellia
 speed: Fast
@@ -16,6 +17,7 @@ types:
   - Silence
 image: https://i.imgur.com/aPVBzpo.jpg
 costume:
+  hero_id: pirate_cabin_boy_costume_paper
   bonuses: 5/5/10/5
   class: Wizard
   power: 681

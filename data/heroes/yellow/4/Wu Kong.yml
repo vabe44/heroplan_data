@@ -1,5 +1,6 @@
 ---
 name: Wu Kong
+hero_id: oriental_monkey_captain
 source: season1
 family: classic
 speed: Average
@@ -16,6 +17,7 @@ types:
 - Titan Attack Buff All
 image: https://i.imgur.com/EZfzNHv.jpg
 costume:
+  hero_id: oriental_monkey_captain_costume_warrior
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin
@@ -32,6 +34,7 @@ costume:
   - Defense Buff Self
   image: https://i.imgur.com/Xt9qUWm.jpg
 costume2:
+  hero_id: oriental_monkey_captain_costume_reveller
   design: costume2
   bonuses: 5/5/10/5
   class: Rogue

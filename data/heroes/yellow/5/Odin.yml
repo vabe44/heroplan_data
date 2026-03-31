@@ -1,5 +1,6 @@
 ---
 name: Odin
+hero_id: s3_odin
 source: season3
 family: midgard
 speed: Fast
@@ -20,6 +21,7 @@ types:
 - Mana Generation Buff All
 image: https://i.imgur.com/WpdZnYI.jpg
 costume:
+  hero_id: s3_odin_costume_champion
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

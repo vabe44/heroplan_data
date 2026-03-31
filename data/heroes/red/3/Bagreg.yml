@@ -1,5 +1,6 @@
 ---
 name: Bagreg
+hero_id: tales1_bagreg
 source: untoldtales
 family: nightmaresofatlantis
 speed: Changing Tides
@@ -29,6 +30,7 @@ image: https://i.imgur.com/rzvavLk.jpg
 dtReleased: ""
 dtModified: "2026-03-22"
 costume:
+  hero_id: tales1_bagreg_costume_scout
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

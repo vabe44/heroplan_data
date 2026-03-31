@@ -1,5 +1,6 @@
 ---
 name: Winnie
+hero_id: castle_bear_winnie
 source: knights
 family: stag
 speed: Slow

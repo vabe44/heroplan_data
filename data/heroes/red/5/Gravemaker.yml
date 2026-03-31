@@ -1,5 +1,6 @@
 ---
 name: Gravemaker
+hero_id: fire_god_doom
 source: hotm
 family: "2018"
 speed: Very Fast
@@ -20,6 +21,7 @@ types:
 - DoT 3
 image: https://i.imgur.com/pPTSbFy.jpg
 costume:
+  hero_id: fire_god_doom_costume_avenger
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

@@ -1,5 +1,6 @@
 ---
 name: Puss in Boots
+hero_id: fables_puss_in_boots
 source: fables
 family: grimforest
 speed: Average
@@ -21,6 +22,7 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/H73nb1h.jpg
 costume:
+  hero_id: fables_puss_in_boots_costume_highwaycat
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

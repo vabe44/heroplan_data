@@ -1,4 +1,5 @@
 name: Ahhotep
+hero_id: s5_ahhotep
 source: season5
 family: moon
 speed: Average
@@ -20,6 +21,7 @@ passives:
      * Dispels the latest dispellable buff from enemies.
 image: https://i.imgur.com/MLXGUOi.jpg
 costume:
+  hero_id: s5_ahhotep_costume_champion
   bonuses: 5/5/10/5
   class: Fighter
   power: 699

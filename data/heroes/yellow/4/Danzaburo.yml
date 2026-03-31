@@ -1,4 +1,5 @@
 name: Danzaburo
+hero_id: s2_tanuki_raccoon
 source: season2
 family: sakura
 speed: Average
@@ -23,6 +24,7 @@ types:
   - Gambler
 image: https://i.imgur.com/jP1BF2A.jpg
 costume:
+  hero_id: s2_tanuki_raccoon_costume_merchant
   bonuses: 3/3/6/1
   class: Sorcerer
   power: 674

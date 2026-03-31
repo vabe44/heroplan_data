@@ -1,5 +1,6 @@
 ---
 name: Ulmer Glass Costume
+hero_id: nordic_mage_costume_glass
 is_costume: true
 design: glass
 source: season1

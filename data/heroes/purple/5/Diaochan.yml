@@ -1,5 +1,6 @@
 ---
 name: Diaochan
+hero_id: kingdom_diaochan
 source: kingdom
 family: kingdom
 speed: Fast
@@ -21,6 +22,7 @@ types:
 - Buff Stealing Minion
 image: https://i.imgur.com/PBEksgr.jpg
 costume:
+  hero_id: kingdom_diaochan_costume_flowers
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

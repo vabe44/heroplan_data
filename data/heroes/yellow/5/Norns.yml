@@ -1,5 +1,6 @@
 ---
 name: Norns
+hero_id: s3_norns
 source: season3
 family: vanaheim
 speed: Average
@@ -18,6 +19,7 @@ types:
 - Weaker Defense 3
 image: https://i.imgur.com/evikfGP.jpg
 costume:
+  hero_id: s3_norns_costume_puppeteers
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

@@ -1,5 +1,6 @@
 ---
 name: Omen
+hero_id: shadow_omen
 source: secretsummon
 family: cultist
 speed: Fast

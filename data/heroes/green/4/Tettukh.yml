@@ -1,4 +1,5 @@
 name: Tettukh
+hero_id: s4_tettukh
 source: season4
 family: underwild
 speed: Average
@@ -22,6 +23,7 @@ passives:
     reduced by -20% for this character.
 image: https://i.imgur.com/OZiH56V.jpg
 costume:
+  hero_id: s4_tettukh_costume_cheerleader
   bonuses: 5/5/10/5
   class: Barbarian
   power: 692

@@ -1,5 +1,6 @@
 ---
 name: Shale
+hero_id: ninja_shale
 source: ninja
 family: ninja
 speed: Charge

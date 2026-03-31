@@ -1,5 +1,6 @@
 ---
 name: Octros
+hero_id: s4_octros
 source: season4
 family: underwild
 speed: Average
@@ -22,6 +23,7 @@ passives:
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/zGSnaa1.jpg
 costume:
+  hero_id: s4_octros_costume_suitor
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

@@ -1,5 +1,6 @@
 ---
 name: Fergus
+hero_id: garrison_fergus
 source: goblinvillage
 family: garrisonguard
 speed: Slow

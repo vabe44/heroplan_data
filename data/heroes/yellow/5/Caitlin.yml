@@ -1,5 +1,6 @@
 ---
 name: Caitlin
+hero_id: slayer_caitlin
 source: slayers
 family: slayer
 speed: Slow
@@ -27,6 +28,7 @@ image: https://i.imgur.com/ERb7z96.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: slayer_caitlin_costume_crusader
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

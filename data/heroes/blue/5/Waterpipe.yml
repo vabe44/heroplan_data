@@ -1,5 +1,6 @@
 ---
 name: Waterpipe
+hero_id: monster_hunter_waterpipe
 source: covenant
 family: plainshunter
 speed: Average

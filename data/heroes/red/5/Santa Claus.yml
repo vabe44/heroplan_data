@@ -1,5 +1,6 @@
 ---
 name: Santa Claus
+hero_id: christmas_santa
 source: christmas
 family: christmas
 speed: Slow
@@ -22,6 +23,7 @@ types:
 - Defense Debuff All
 image: https://i.imgur.com/gDDhARF.jpg
 costume:
+  hero_id: christmas_santa_costume_metal
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

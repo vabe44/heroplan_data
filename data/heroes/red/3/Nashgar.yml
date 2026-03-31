@@ -1,5 +1,6 @@
 ---
 name: Nashgar
+hero_id: orc_warrior
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - DoT 1
 image: https://i.imgur.com/DrsAnEe.jpg
 costume:
+  hero_id: orc_warrior_costume_urukhai
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

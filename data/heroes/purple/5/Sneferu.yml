@@ -1,5 +1,6 @@
 ---
 name: Sneferu
+hero_id: s5_sneferu
 source: season5
 family: moon
 speed: Slow
@@ -25,6 +26,7 @@ passives:
 - ' * Dispels the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/xRHanch.jpg
 costume:
+  hero_id: s5_sneferu_costume_vanquisher
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

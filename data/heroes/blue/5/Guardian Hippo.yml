@@ -1,5 +1,6 @@
 ---
 name: Guardian Hippo
+hero_id: guardian_hippo
 source: teltoc
 family: guardiansteltoc
 speed: Fast

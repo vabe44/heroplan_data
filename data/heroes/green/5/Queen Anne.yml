@@ -1,5 +1,6 @@
 ---
 name: Queen Anne
+hero_id: musketeer_queen_anne
 source: musketeer
 family: musketeer
 speed: Slow

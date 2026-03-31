@@ -1,5 +1,6 @@
 ---
 name: Carta
+hero_id: construct_carta
 source: covenant
 family: construct
 speed: Average

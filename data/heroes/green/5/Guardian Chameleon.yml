@@ -1,5 +1,6 @@
 ---
 name: Guardian Chameleon
+hero_id: guardian_chameleon
 source: teltoc
 family: guardiansteltoc
 speed: Average

@@ -1,5 +1,6 @@
 ---
 name: Ares
+hero_id: fire_god_ares
 source: hotm
 family: "2017"
 speed: Average
@@ -21,6 +22,7 @@ types:
 - HoT 3
 image: https://i.imgur.com/KvZBThZ.jpg
 costume:
+  hero_id: fire_god_ares_costume_keymaster
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

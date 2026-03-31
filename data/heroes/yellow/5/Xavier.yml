@@ -1,5 +1,6 @@
 ---
 name: Xavier
+hero_id: elemental_xavier
 source: superelemental
 family: superelemental
 speed: Average
@@ -29,6 +30,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/DZtGVoI.jpg
 costume:
+  hero_id: elemental_xavier_costume_arthropod
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger

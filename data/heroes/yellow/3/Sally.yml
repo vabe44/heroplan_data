@@ -1,5 +1,6 @@
 ---
 name: Sally
+hero_id: pirate_sally
 source: pirates
 family: corellia
 speed: Slow

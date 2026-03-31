@@ -1,5 +1,6 @@
 ---
 name: Zeline
+hero_id: forest_god_zeline
 source: hotm
 family: "2018"
 speed: Fast
@@ -22,6 +23,7 @@ types:
 - Dispeller All
 image: https://i.imgur.com/lrpsqzO.jpg
 costume:
+  hero_id: forest_god_zeline_costume_avian
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

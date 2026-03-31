@@ -1,5 +1,6 @@
 ---
 name: Cennius
+hero_id: owl_cennius
 source: owltower
 family: owl
 speed: Average

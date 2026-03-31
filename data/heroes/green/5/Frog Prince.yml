@@ -1,5 +1,6 @@
 ---
 name: Frog Prince
+hero_id: fables_frog_prince
 source: fables
 family: grimforest
 speed: Slow

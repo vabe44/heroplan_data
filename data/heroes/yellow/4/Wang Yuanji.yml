@@ -1,5 +1,6 @@
 ---
 name: Wang Yuanji
+hero_id: kingdom_wang_yuanji
 source: kingdom
 family: kingdom
 speed: Slow
@@ -19,6 +20,7 @@ image: https://i.imgur.com/SwBxlgF.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: kingdom_wang_yuanji_costume_artisan
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

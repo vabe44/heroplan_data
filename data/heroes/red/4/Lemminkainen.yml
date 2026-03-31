@@ -1,4 +1,5 @@
 name: Lemminkainen
+hero_id: kalevala_lemminkainen
 class: Barbarian
 speed: Average
 family: kalevala
@@ -22,6 +23,7 @@ passives:
     Power of Sisu: When this character starts a turn with low health for the first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/f4cHfqp.jpg
 costume:
+  hero_id: kalevala_lemminkainen_costume_swan
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

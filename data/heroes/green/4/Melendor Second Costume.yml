@@ -1,5 +1,6 @@
 ---
 name: Melendor Second Costume
+hero_id: forest_mage_costume_party
 is_costume: true
 design: costume2
 source: season1

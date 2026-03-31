@@ -1,5 +1,6 @@
 ---
 name: Lady Loki
+hero_id: s3_loki_female
 source: season3
 family: helheim
 speed: Average
@@ -20,6 +21,7 @@ types:
 - Hit All
 image: https://i.imgur.com/NzRPKjE.jpg
 costume:
+  hero_id: s3_loki_female_costume_mother
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

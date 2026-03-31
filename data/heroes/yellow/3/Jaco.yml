@@ -1,5 +1,6 @@
 ---
 name: Jaco
+hero_id: tales1_jaco
 source: untoldtales
 family: defendersofatlantis
 speed: Changing Tides
@@ -29,6 +30,7 @@ image: https://i.imgur.com/ne5YJve.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: tales1_jaco_costume_alchemist
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

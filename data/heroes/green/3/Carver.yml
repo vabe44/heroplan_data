@@ -1,5 +1,6 @@
 ---
 name: Carver
+hero_id: goblin_fighter
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Mana Reduction All
 image: https://i.imgur.com/DfWafQ3.jpg
 costume:
+  hero_id: goblin_fighter_costume_evil
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

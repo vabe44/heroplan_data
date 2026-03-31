@@ -1,5 +1,6 @@
 ---
 name: White Rabbit
+hero_id: wonderland_white_rabbit
 source: wonderland
 family: wonderland
 speed: Fast
@@ -18,6 +19,7 @@ types:
 - Defense Debuff 1
 image: https://i.imgur.com/00qNGOk.jpg
 costume:
+  hero_id: wonderland_white_rabbit_costume_mask
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

@@ -1,5 +1,6 @@
 ---
 name: Zengar
+hero_id: elemental_zengar
 source: superelemental
 family: superelemental
 speed: Fast
@@ -30,6 +31,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/DQY3Orp.jpg
 costume:
+  hero_id: elemental_zengar_costume_farmer
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

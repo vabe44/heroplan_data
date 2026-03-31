@@ -1,5 +1,6 @@
 ---
 name: Hetepheres
+hero_id: s5_hetepheres
 source: season5
 family: sun
 speed: Average
@@ -26,6 +27,7 @@ passives:
 - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/wdaa6Lv.jpg
 costume:
+  hero_id: s5_hetepheres_costume_spa
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

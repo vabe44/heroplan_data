@@ -1,5 +1,6 @@
 ---
 name: Mistweaver
+hero_id: monster_hunter_mistweaver
 source: covenant
 family: junglehunter
 speed: Fast

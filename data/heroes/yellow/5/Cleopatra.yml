@@ -1,5 +1,6 @@
 ---
 name: Cleopatra
+hero_id: s5_cleopatra
 source: season5
 family: sun
 speed: Average
@@ -26,6 +27,7 @@ image: https://i.imgur.com/pyEHRBi.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s5_cleopatra_costume_feline
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

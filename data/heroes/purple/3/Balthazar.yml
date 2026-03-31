@@ -1,5 +1,6 @@
 ---
 name: Balthazar
+hero_id: cultist_mage
 source: season1
 family: classic
 speed: Fast
@@ -15,6 +16,7 @@ types:
 - Hit 1
 image: https://i.imgur.com/OSefjqG.jpg
 costume:
+  hero_id: cultist_mage_costume_voodoo
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

@@ -1,5 +1,6 @@
 ---
 name: Ilmarinen
+hero_id: kalevala_ilmarinen
 source: kalevala
 family: kalevala
 speed: Slow
@@ -25,6 +26,7 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/WriV7pU.jpg
 costume:
+  hero_id: kalevala_ilmarinen_costume_gold
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

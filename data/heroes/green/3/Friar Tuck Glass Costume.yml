@@ -1,5 +1,6 @@
 ---
 name: Friar Tuck Glass Costume
+hero_id: forest_friar_costume_glass
 is_costume: true
 design: glass
 source: season1

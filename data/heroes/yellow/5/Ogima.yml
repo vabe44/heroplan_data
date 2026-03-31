@@ -1,5 +1,6 @@
 ---
 name: Ogima
+hero_id: bard_ogima
 source: festival
 family: bard
 speed: Fast

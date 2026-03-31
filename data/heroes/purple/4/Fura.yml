@@ -1,5 +1,6 @@
 ---
 name: Fura
+hero_id: s3_fura
 source: season3
 family: svartalfheim
 speed: Average
@@ -23,6 +24,7 @@ image: https://i.imgur.com/RvN7nUK.jpg
 dtReleased: ""
 dtModified: "2026-03-23"
 costume:
+  hero_id: s3_fura_costume_herbalist
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

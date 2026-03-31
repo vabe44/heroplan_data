@@ -1,5 +1,6 @@
 ---
 name: Xiaotu
+hero_id: lunar_new_year_xiaotu
 source: lunaryear
 family: lunaryear
 speed: Average
@@ -24,6 +25,7 @@ dtReleased: ""
 dtModified: "2026-03-20"
 zodiacAnimal: rabbit
 costume:
+  hero_id: lunar_new_year_xiaotu_costume_golden
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

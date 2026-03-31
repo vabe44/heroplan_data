@@ -1,5 +1,6 @@
 ---
 name: Relius
+hero_id: owl_relius
 source: owltower
 family: owl
 speed: Average

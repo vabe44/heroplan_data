@@ -1,5 +1,6 @@
 ---
 name: Tenebrae
+hero_id: construct_tenebrae
 source: covenant
 family: construct
 speed: Fast

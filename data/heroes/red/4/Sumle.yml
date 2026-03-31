@@ -1,4 +1,5 @@
 name: Sumle
+hero_id: s3_sumle
 class: Monk
 source: season3
 family: muspelheim
@@ -15,6 +16,7 @@ types:
   - Hit All
 image: https://i.imgur.com/yxQi63p.jpg
 costume:
+  hero_id: s3_sumle_costume_unhallowed
   bonuses: 3/3/6/1
   class: Druid
   power: 683

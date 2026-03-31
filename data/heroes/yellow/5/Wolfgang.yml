@@ -1,5 +1,6 @@
 ---
 name: Wolfgang
+hero_id: castle_wolf_wolfgang
 source: knights
 family: wolf
 speed: Average
@@ -22,6 +23,7 @@ image: https://i.imgur.com/8Qu4qUF.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: castle_wolf_wolfgang_costume_treasure
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

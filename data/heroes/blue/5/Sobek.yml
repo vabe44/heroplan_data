@@ -1,5 +1,6 @@
 ---
 name: Sobek
+hero_id: s5_sobek
 source: season5
 family: sun
 speed: Average
@@ -22,6 +23,7 @@ passives:
 - ' * All enemies receive 255 Sand damage over 3 turns.'
 image: https://i.imgur.com/3Y3v4bs.jpg
 costume:
+  hero_id: s5_sobek_costume_guardian
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

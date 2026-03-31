@@ -1,5 +1,6 @@
 ---
 name: Black Caesar
+hero_id: pirate_boatswain
 source: pirates
 family: corellia
 speed: Average

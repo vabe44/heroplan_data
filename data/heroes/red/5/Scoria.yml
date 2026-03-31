@@ -1,5 +1,6 @@
 ---
 name: Scoria
+hero_id: construct_scoria
 source: covenant
 family: construct
 speed: Average

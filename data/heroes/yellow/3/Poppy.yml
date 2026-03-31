@@ -1,5 +1,6 @@
 ---
 name: Poppy
+hero_id: s4_poppy
 source: season4
 family: underwild
 speed: Fast
@@ -23,6 +24,7 @@ image: https://i.imgur.com/pxiscDG.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s4_poppy_costume_lodger
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

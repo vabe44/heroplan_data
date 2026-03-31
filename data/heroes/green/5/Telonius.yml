@@ -1,5 +1,6 @@
 ---
 name: Telonius
+hero_id: magic_telonius
 source: magic
 family: magic
 speed: Magic
@@ -33,6 +34,7 @@ passives:
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/WMPKV4S.jpg
 costume:
+  hero_id: magic_telonius_costume_brew
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

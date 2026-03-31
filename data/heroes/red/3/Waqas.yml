@@ -1,4 +1,5 @@
 name: Waqas
+hero_id: s5_waqas
 source: season5
 family: sun
 speed: Slow
@@ -21,6 +22,7 @@ passives:
   - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/CWQ9rw6.jpg
 costume:
+  hero_id: s5_waqas_costume_blade
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

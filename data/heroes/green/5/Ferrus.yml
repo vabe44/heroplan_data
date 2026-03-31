@@ -1,5 +1,6 @@
 ---
 name: Ferrus
+hero_id: construct_ferrus
 source: covenant
 family: construct
 speed: Average

@@ -1,5 +1,6 @@
 ---
 name: Musashi
+hero_id: holy_god_musashi
 source: hotm
 family: "2017"
 speed: Fast
@@ -19,6 +20,7 @@ types:
 - Heal Self
 image: https://i.imgur.com/1PxVmlq.jpg
 costume:
+  hero_id: holy_god_musashi_costume_prisoner
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

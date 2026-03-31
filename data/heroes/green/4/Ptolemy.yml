@@ -1,4 +1,5 @@
 name: Ptolemy
+hero_id: s5_ptolemy
 source: season5
 family: sun
 speed: Average
@@ -21,6 +22,7 @@ passives:
   - ' * Cleanses the latest cleansable status ailments from all allies.'
 image: https://i.imgur.com/3gaWwFG.jpg
 costume:
+  hero_id: s5_ptolemy_costume_log
   bonuses: 5/5/10/5
   class: Druid
   power: 699

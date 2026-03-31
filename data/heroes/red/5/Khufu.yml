@@ -1,5 +1,6 @@
 ---
 name: Khufu
+hero_id: s5_khafre
 source: season5
 family: sun
 speed: Slow
@@ -25,6 +26,7 @@ passives:
 - ' * All enemies receive 243 Sand damage over 3 turns.'
 image: https://i.imgur.com/waF0HXl.jpg
 costume:
+  hero_id: s5_khafre_costume_aquatic
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

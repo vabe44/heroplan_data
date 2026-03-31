@@ -1,5 +1,6 @@
 ---
 name: Karil
+hero_id: dwarven_smasher
 source: season1
 family: classic
 speed: Average
@@ -15,6 +16,7 @@ types:
 - Hit 3
 image: https://i.imgur.com/Upbhrq6.jpg
 costume:
+  hero_id: dwarven_smasher_costume_smith
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

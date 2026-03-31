@@ -1,5 +1,6 @@
 ---
 name: Faiez
+hero_id: s5_faiez
 source: season5
 family: sun
 speed: Slow
@@ -24,6 +25,7 @@ passives:
 - ' * Cleanses the latest cleansable status ailments from all allies.'
 image: https://i.imgur.com/vZiyZG9.jpg
 costume:
+  hero_id: s5_faiez_costume_miner
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

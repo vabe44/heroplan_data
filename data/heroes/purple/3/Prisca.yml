@@ -1,5 +1,6 @@
 ---
 name: Prisca
+hero_id: blackguard_female_captain
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Heal Self
 image: https://i.imgur.com/IoRPZNA.jpg
 costume:
+  hero_id: blackguard_female_captain_costume_musketeer
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

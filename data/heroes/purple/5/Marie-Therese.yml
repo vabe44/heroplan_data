@@ -1,5 +1,6 @@
 ---
 name: Marie-Therese
+hero_id: pirate_marie_therese
 source: pirates
 family: corellia
 speed: Slow
@@ -26,6 +27,7 @@ types:
 - Zombie Blessing Buff All
 image: https://i.imgur.com/sKXoFnG.jpg
 costume:
+  hero_id: pirate_marie_therese_costume_priestess
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

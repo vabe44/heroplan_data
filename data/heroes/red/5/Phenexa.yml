@@ -1,5 +1,6 @@
 ---
 name: Phenexa
+hero_id: bard_phenexa
 source: festival
 family: bard
 speed: Average

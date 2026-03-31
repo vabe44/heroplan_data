@@ -1,5 +1,6 @@
 ---
 name: Max
+hero_id: mighty_pet_toto
 source: pets
 family: pets
 speed: Slow

@@ -1,5 +1,6 @@
 ---
 name: Milena
+hero_id: magic_milena
 source: magic
 family: magic
 speed: Magic
@@ -29,6 +30,7 @@ passives:
   chance is 100%.'
 image: https://i.imgur.com/30AXxJs.jpg
 costume:
+  hero_id: magic_milena_costume_ice
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

@@ -1,5 +1,6 @@
 ---
 name: Justice
+hero_id: exalted_female_statue
 source: season1
 family: classic
 speed: Slow
@@ -18,6 +19,7 @@ types:
 - Blind All
 image: https://i.imgur.com/nIFbFrG.jpg
 costume:
+  hero_id: exalted_female_statue_costume_sungoddess
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard
@@ -35,6 +37,7 @@ costume:
   - Self Mana Gen Buff
   image: https://i.imgur.com/KCL7Y0s.jpg
 costume2:
+  hero_id: exalted_female_statue_costume_thorns
   design: costume2
   bonuses: 5/5/10/5
   class: Sorcerer

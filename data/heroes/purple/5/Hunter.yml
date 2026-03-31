@@ -1,5 +1,6 @@
 ---
 name: Hunter
+hero_id: shadow_hunter
 source: secretsummon
 family: investigator
 speed: Fast

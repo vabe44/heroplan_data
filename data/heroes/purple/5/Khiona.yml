@@ -1,5 +1,6 @@
 ---
 name: Khiona
+hero_id: dark_god_september
 source: hotm
 family: "2018"
 speed: Average
@@ -20,6 +21,7 @@ types:
 - Attack Buff 3
 image: https://i.imgur.com/1C4Lajq.jpg
 costume:
+  hero_id: dark_god_september_costume_engineer
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

@@ -1,4 +1,5 @@
 name: Rokkamush
+hero_id: s4_rokkamush
 source: season4
 family: underwild
 speed: Fast
@@ -19,6 +20,7 @@ passives:
     Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/dOWSQgd.jpg
 costume:
+  hero_id: s4_rokkamush_costume_mason
   bonuses: 2/2/4/1
   class: Fighter
   power: 692

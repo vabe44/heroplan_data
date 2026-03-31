@@ -1,5 +1,6 @@
 ---
 name: Lady of the Lake
+hero_id: knights_lady_of_the_lake
 source: avalon
 family: avalon
 speed: Slow
@@ -20,6 +21,7 @@ types:
 - Mana Reduction Minion
 image: https://i.imgur.com/hlRFlMx.jpg
 costume:
+  hero_id: knights_lady_of_the_lake_costume_blades
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

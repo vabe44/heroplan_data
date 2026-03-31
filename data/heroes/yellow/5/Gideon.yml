@@ -1,5 +1,6 @@
 ---
 name: Gideon
+hero_id: faun_gideon
 source: wilderness
 family: woodlandfaun
 speed: Slow

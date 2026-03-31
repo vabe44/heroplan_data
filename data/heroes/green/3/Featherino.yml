@@ -1,5 +1,6 @@
 ---
 name: Featherino
+hero_id: owl_featherino
 source: owltower
 family: owl
 speed: Average

@@ -1,5 +1,6 @@
 ---
 name: Hotspin
+hero_id: construct_hotspin
 source: covenant
 family: construct
 speed: Average

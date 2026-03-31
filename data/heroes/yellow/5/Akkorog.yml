@@ -1,5 +1,6 @@
 ---
 name: Akkorog
+hero_id: s4_akkorog
 source: season4
 family: underwild
 speed: Fast
@@ -20,6 +21,7 @@ passives:
   that deals damage, an additional 30% is added to its power.'
 image: https://i.imgur.com/gMyh86R.jpg
 costume:
+  hero_id: s4_akkorog_costume_football
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

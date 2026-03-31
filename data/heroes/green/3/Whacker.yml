@@ -1,4 +1,5 @@
 name: Whacker
+hero_id: circus_whacker
 class: Barbarian
 source: starfall
 speed: Fast

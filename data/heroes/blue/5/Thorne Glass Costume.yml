@@ -1,5 +1,6 @@
 ---
 name: Thorne Glass Costume
+hero_id: royal_knight_commander_costume_glass
 is_costume: true
 design: glass
 source: season1

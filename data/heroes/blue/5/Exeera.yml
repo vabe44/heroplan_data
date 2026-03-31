@@ -1,5 +1,6 @@
 ---
 name: Exeera
+hero_id: s4_exeera
 source: season4
 family: underwild
 speed: Average
@@ -20,6 +21,7 @@ passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/UnO1gz8.jpg
 costume:
+  hero_id: s4_exeera_costume_hierophant
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

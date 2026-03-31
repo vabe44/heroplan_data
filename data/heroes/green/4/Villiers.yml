@@ -1,5 +1,6 @@
 ---
 name: Villiers
+hero_id: musketeer_villiers
 source: musketeer
 family: musketeer
 speed: Average
@@ -28,6 +29,7 @@ passives:
   damage on all enemies.'
 image: https://i.imgur.com/bq60wfg.jpg
 costume:
+  hero_id: musketeer_villiers_costume_jester
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

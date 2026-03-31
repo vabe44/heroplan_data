@@ -1,5 +1,6 @@
 ---
 name: Athos
+hero_id: musketeer_athos
 source: musketeer
 family: musketeer
 speed: Very Fast
@@ -27,6 +28,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/HvsiBgn.jpg
 costume:
+  hero_id: musketeer_athos_costume_farrier
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

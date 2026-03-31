@@ -1,5 +1,6 @@
 ---
 name: Lianna
+hero_id: elven_archer
 source: season1
 family: classic
 speed: Fast
@@ -15,6 +16,7 @@ types:
 - Hit 1
 image: https://i.imgur.com/uJj6MQb.jpg
 costume:
+  hero_id: elven_archer_costume_moon
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric
@@ -31,6 +33,7 @@ costume:
   - Mana Generation Debuff 1
   image: https://i.imgur.com/ieaiSor.jpg
 costume2:
+  hero_id: elven_archer_costume_raven
   design: costume2
   bonuses: 5/5/10/5
   class: Druid

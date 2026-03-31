@@ -1,5 +1,6 @@
 ---
 name: Finley
+hero_id: pirate_commodore_finley
 source: pirates
 family: corellia
 speed: Fast
@@ -21,6 +22,7 @@ types:
 - Defense Debuff on hit
 image: https://i.imgur.com/RIPu5ha.jpg
 costume:
+  hero_id: pirate_commodore_finley_costume_bleak
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

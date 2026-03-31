@@ -1,5 +1,6 @@
 ---
 name: Guardian Kong
+hero_id: guardian_gorilla_chieftain
 source: teltoc
 family: guardiansteltoc
 speed: Average
@@ -19,6 +20,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/4n0L387.jpg
 costume:
+  hero_id: guardian_gorilla_chieftain_costume_conqueror
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

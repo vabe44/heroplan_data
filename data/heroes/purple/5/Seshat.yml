@@ -1,5 +1,6 @@
 ---
 name: Seshat
+hero_id: dark_god_seshat
 source: hotm
 family: "2019"
 speed: Fast
@@ -25,6 +26,7 @@ passives:
 - 'Resist mana reduction: This character is immune to mana reduction.'
 image: https://i.imgur.com/FioNeBy.jpg
 costume:
+  hero_id: dark_god_seshat_costume_revenant
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

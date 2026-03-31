@@ -1,5 +1,6 @@
 ---
 name: Eiora & Fluffy
+hero_id: circus_eiora_and_fluffy
 source: starfall
 family: starfall
 speed: Average
@@ -20,6 +21,7 @@ types:
 - Health reduction on each Minion owner
 image: https://i.imgur.com/ISxaSzG.jpg
 costume:
+  hero_id: circus_eiora_and_fluffy_costume_dark
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

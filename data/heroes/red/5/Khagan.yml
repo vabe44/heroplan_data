@@ -1,5 +1,6 @@
 ---
 name: Khagan
+hero_id: tribal_chief
 source: season1
 family: classic
 speed: Slow
@@ -19,6 +20,7 @@ types:
 - Defense Buff 3
 image: https://i.imgur.com/Qk5TZ17.jpg
 costume:
+  hero_id: tribal_chief_costume_conqueror
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
@@ -37,6 +39,7 @@ costume:
   - Defense Buff All
   image: https://i.imgur.com/Wuav96d.jpg
 costume2:
+  hero_id: tribal_chief_costume_leopard
   design: costume2
   bonuses: 5/5/10/5
   class: Druid

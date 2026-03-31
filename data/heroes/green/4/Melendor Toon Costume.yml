@@ -1,5 +1,6 @@
 ---
 name: Melendor Toon Costume
+hero_id: forest_mage_costume_cute
 is_costume: true
 design: toon
 source: season1

@@ -1,5 +1,6 @@
 ---
 name: Dancrag
+hero_id: construct_dancrag
 source: covenant
 family: construct
 speed: Average

@@ -1,5 +1,6 @@
 ---
 name: Morel
+hero_id: s4_morel
 source: season4
 family: underwild
 speed: Fast
@@ -20,6 +21,7 @@ passives:
   that does damage, an additional 30% is added to its power.'
 image: https://i.imgur.com/BbpdvD9.jpg
 costume:
+  hero_id: s4_morel_costume_sage
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

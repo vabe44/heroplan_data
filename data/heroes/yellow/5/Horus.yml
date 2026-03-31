@@ -1,5 +1,6 @@
 ---
 name: Horus
+hero_id: s5_horus
 source: season5
 family: sun
 speed: Very Fast
@@ -27,6 +28,7 @@ image: https://i.imgur.com/0Yedhet.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s5_horus_costume_golden
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

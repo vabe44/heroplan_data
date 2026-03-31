@@ -1,5 +1,6 @@
 ---
 name: Krampus
+hero_id: christmas_krampus
 source: christmas
 family: christmas
 speed: Average
@@ -24,6 +25,7 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/9L71cZ8.jpg
 costume:
+  hero_id: christmas_krampus_costume_eager_devil
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

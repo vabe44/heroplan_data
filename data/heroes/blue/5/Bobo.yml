@@ -1,5 +1,6 @@
 ---
 name: Bobo
+hero_id: circus_bobo
 source: starfall
 family: starfall
 speed: Slow

@@ -1,5 +1,6 @@
 ---
 name: Guardian Jackal
+hero_id: guardian_jackal_assassin
 source: teltoc
 family: guardiansteltoc
 speed: Very Fast
@@ -19,6 +20,7 @@ image: https://i.imgur.com/yQuuDkU.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: guardian_jackal_assassin_costume_bones
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

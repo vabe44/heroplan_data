@@ -1,5 +1,6 @@
 ---
 name: Mr Pengi
+hero_id: christmas_mr_pengi
 source: christmas
 family: christmas
 speed: Fast
@@ -23,6 +24,7 @@ types:
 - Summoner 3
 image: https://i.imgur.com/BbxUIy4.jpg
 costume:
+  hero_id: christmas_mr_pengi_costume_snowboarder
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

@@ -1,5 +1,6 @@
 ---
 name: Laohu
+hero_id: lunar_new_year_laohu
 source: lunaryear
 family: lunaryear
 speed: Fast
@@ -22,6 +23,7 @@ dtReleased: ""
 dtModified: "2026-03-20"
 zodiacAnimal: tiger
 costume:
+  hero_id: lunar_new_year_laohu_costume_golden
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

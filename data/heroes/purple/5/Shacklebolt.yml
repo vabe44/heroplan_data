@@ -1,5 +1,6 @@
 ---
 name: Shacklebolt
+hero_id: construct_shacklebolt
 source: covenant
 family: construct
 speed: Average

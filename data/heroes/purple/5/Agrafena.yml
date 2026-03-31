@@ -1,5 +1,6 @@
 ---
 name: Agrafena
+hero_id: magic_agrafena
 source: magic
 family: magic
 speed: Magic
@@ -35,6 +36,7 @@ passives:
   the chance is 100%.'
 image: https://i.imgur.com/19jbbwr.jpg
 costume:
+  hero_id: magic_agrafena_costume_dark
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

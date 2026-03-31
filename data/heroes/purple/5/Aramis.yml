@@ -1,5 +1,6 @@
 ---
 name: Aramis
+hero_id: musketeer_aramis
 source: musketeer
 family: musketeer
 speed: Average
@@ -25,6 +26,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/7DRTWTb.jpg
 costume:
+  hero_id: musketeer_aramis_costume_boulanger
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

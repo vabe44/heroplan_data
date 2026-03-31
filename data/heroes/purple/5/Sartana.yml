@@ -1,5 +1,6 @@
 ---
 name: Sartana
+hero_id: cultist_sorceress
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - DoT 1
 image: https://i.imgur.com/YBEHGb0.jpg
 costume:
+  hero_id: cultist_sorceress_costume_shaman
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter
@@ -31,6 +33,7 @@ costume:
   - Hit 1
   image: https://i.imgur.com/gwzMUaT.jpg
 costume2:
+  hero_id: cultist_sorceress_costume_snake
   design: costume2
   bonuses: 5/5/10/5
   class: Rogue

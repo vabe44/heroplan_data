@@ -1,5 +1,6 @@
 ---
 name: Frigg
+hero_id: s3_frigg
 source: season3
 family: alfheim
 speed: Fast
@@ -22,6 +23,7 @@ image: https://i.imgur.com/UMxFVGq.jpg
 dtReleased: ""
 dtModified: "2026-03-23"
 costume:
+  hero_id: s3_frigg_costume_clairvoyance
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

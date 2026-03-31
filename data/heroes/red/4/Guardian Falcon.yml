@@ -1,4 +1,5 @@
 name: Guardian Falcon
+hero_id: guardian_falcon_priest
 class: Paladin
 source: teltoc
 speed: Average

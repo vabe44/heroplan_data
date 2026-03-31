@@ -1,5 +1,6 @@
 ---
 name: Arco
+hero_id: gargoyle_arco
 source: gargoyle
 family: gargoyle
 speed: Average

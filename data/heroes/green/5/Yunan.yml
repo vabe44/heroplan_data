@@ -1,5 +1,6 @@
 ---
 name: Yunan
+hero_id: sand_king
 source: sand
 family: sand
 speed: Slow
@@ -22,6 +23,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/jUayUm6.jpg
 costume:
+  hero_id: sand_king_costume_lifeguard
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

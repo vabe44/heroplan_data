@@ -1,5 +1,6 @@
 ---
 name: Sabina
+hero_id: undead_female_warrior
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Dispeller All
 image: https://i.imgur.com/G6mmZNN.jpg
 costume:
+  hero_id: undead_female_warrior_costume_princess
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric
@@ -35,6 +37,7 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/flsZEGB.jpg
 costume2:
+  hero_id: undead_female_warrior_costume_rococo
   design: costume2
   bonuses: 5/5/10/5
   class: Monk

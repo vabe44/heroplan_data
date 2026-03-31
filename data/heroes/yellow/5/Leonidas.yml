@@ -1,5 +1,6 @@
 ---
 name: Leonidas
+hero_id: oriental_warrior_king
 source: season1
 family: classic
 speed: Average
@@ -19,6 +20,7 @@ types:
 - Self Heal
 image: https://i.imgur.com/SPyWzYD.jpg
 costume:
+  hero_id: oriental_warrior_king_costume_roman
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
@@ -37,6 +39,7 @@ costume:
   - Attack Debuff All Dark
   image: https://i.imgur.com/c7cvRg8.jpg
 costume2:
+  hero_id: oriental_warrior_king_costume_mage
   design: costume2
   bonuses: 5/5/10/5
   class: Ranger

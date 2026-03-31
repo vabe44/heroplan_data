@@ -1,5 +1,6 @@
 ---
 name: Scoratek
+hero_id: s5_scoratek
 source: season5
 family: moon
 speed: Fast
@@ -29,6 +30,7 @@ image: https://i.imgur.com/cEv4g9a.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s5_scoratek_costume_sentinel
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

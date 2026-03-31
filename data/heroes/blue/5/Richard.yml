@@ -1,5 +1,6 @@
 ---
 name: Richard
+hero_id: nordic_male_lord
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Attack Debuff 3
 image: https://i.imgur.com/G5NAe4a.jpg
 costume:
+  hero_id: nordic_male_lord_costume_senior
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
@@ -33,6 +35,7 @@ costume:
   - Attack Debuff 3
   image: https://i.imgur.com/WKQthMP.jpg
 costume2:
+  hero_id: nordic_male_lord_costume_injustice
   design: costume2
   bonuses: 5/5/10/5
   class: Fighter

@@ -1,5 +1,6 @@
 ---
 name: Sif
+hero_id: s3_sif
 source: season3
 family: midgard
 speed: Average
@@ -20,6 +21,7 @@ types:
 - Mana Generation Buff 3
 image: https://i.imgur.com/IEuL57g.jpg
 costume:
+  hero_id: s3_sif_costume_golden
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

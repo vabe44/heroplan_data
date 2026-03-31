@@ -1,4 +1,5 @@
 name: Mielikki
+hero_id: kalevala_mielikki
 class: Druid
 speed: Average
 family: kalevala
@@ -28,6 +29,7 @@ passives:
     first time during a battle, they recover 15% health and receive 15% mana.
 image: https://i.imgur.com/tts9FVU.jpg
 costume:
+  hero_id: kalevala_mielikki_costume_bear_protector
   bonuses: 3/3/6/1
   class: Paladin
   power: 706

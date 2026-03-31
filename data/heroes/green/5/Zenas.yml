@@ -1,5 +1,6 @@
 ---
 name: Zenas
+hero_id: institute_zenas
 source: shadow
 family: theinstitute
 speed: Fast

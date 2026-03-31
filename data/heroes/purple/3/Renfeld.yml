@@ -1,5 +1,6 @@
 ---
 name: Renfeld
+hero_id: blackguard_skulker
 source: season1
 family: classic
 speed: Average
@@ -17,6 +18,7 @@ types:
 - Heal Self
 image: https://i.imgur.com/6HwABCg.jpg
 costume:
+  hero_id: blackguard_skulker_costume_doctor
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

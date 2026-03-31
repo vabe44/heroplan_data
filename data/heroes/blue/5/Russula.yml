@@ -1,5 +1,6 @@
 ---
 name: Russula
+hero_id: s4_russula
 source: season4
 family: underwild
 speed: Very Fast
@@ -24,6 +25,7 @@ passives:
   receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/MqnrIZ3.jpg
 costume:
+  hero_id: s4_russula_costume_painter
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger

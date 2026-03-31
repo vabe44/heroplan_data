@@ -1,5 +1,6 @@
 ---
 name: Ratatoskr
+hero_id: s3_ratatoskr
 source: season3
 family: alfheim
 speed: Average
@@ -19,6 +20,7 @@ types:
 - Board Alterer
 image: https://i.imgur.com/IwBPUx4.jpg
 costume:
+  hero_id: s3_ratatoskr_costume_architect
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

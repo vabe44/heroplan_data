@@ -1,5 +1,6 @@
 ---
 name: Chao
+hero_id: oriental_falconer
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - Mana Reduction 1
 image: https://i.imgur.com/akseq6D.jpg
 costume:
+  hero_id: oriental_falconer_costume_dodo
   design: costume1
   bonuses: 5/5/10/5
   class: Druid
@@ -35,6 +37,7 @@ costume:
   - Mana Steal 1
   image: https://i.imgur.com/iiLBfC1.jpg
 costume2:
+  hero_id: oriental_falconer_costume_cub
   design: costume2
   bonuses: 5/5/10/5
   class: Barbarian

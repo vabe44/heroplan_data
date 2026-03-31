@@ -1,5 +1,6 @@
 ---
 name: Azmia
+hero_id: s5_azmia
 source: season5
 family: sun
 speed: Average
@@ -26,6 +27,7 @@ image: https://i.imgur.com/VnnI4Om.jpg
 dtReleased: "2022-04-21"
 dtModified: ""
 costume:
+  hero_id: s5_azmia_costume_dancing
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

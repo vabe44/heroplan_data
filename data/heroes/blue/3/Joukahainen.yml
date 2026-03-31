@@ -1,5 +1,6 @@
 ---
 name: Joukahainen
+hero_id: kalevala_joukahainen
 source: kalevala
 family: kalevala
 speed: Average
@@ -25,6 +26,7 @@ image: https://i.imgur.com/MfQu0Jd.jpg
 dtReleased: "2022-06-20"
 dtModified: ""
 costume:
+  hero_id: kalevala_joukahainen_costume_frozen
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

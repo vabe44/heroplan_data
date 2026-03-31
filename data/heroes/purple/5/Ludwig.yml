@@ -1,5 +1,6 @@
 ---
 name: Ludwig
+hero_id: castle_wolf_ludwig
 source: knights
 family: wolf
 speed: Slow

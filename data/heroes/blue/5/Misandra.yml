@@ -1,5 +1,6 @@
 ---
 name: Misandra
+hero_id: s2_mercenary_woman
 source: season2
 family: lagoon
 speed: Fast
@@ -20,6 +21,7 @@ types:
 - Mana Boost All on hit
 image: https://i.imgur.com/YC2DFg3.jpg
 costume:
+  hero_id: s2_mercenary_woman_costume_dancer
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

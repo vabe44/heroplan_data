@@ -1,5 +1,6 @@
 ---
 name: Joon
+hero_id: oriental_enchanted_monk
 source: season1
 family: classic
 speed: Fast
@@ -18,6 +19,7 @@ types:
 - Blind 1
 image: https://i.imgur.com/d5mevmf.jpg
 costume:
+  hero_id: oriental_enchanted_monk_costume_tiger
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter
@@ -35,6 +37,7 @@ costume:
   - Blind 1
   image: https://i.imgur.com/YXbYHIl.jpg
 costume2:
+  hero_id: oriental_enchanted_monk_costume_stoneguard
   design: costume2
   bonuses: 5/5/10/5
   class: Barbarian

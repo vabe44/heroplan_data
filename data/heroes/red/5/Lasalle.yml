@@ -1,5 +1,6 @@
 ---
 name: Lasalle
+hero_id: tales1_lasalle
 source: untoldtales
 family: defendersofatlantis
 speed: Changing Tides
@@ -41,6 +42,7 @@ image: https://i.imgur.com/bpyUqBe.jpg
 dtReleased: ""
 dtModified: "2026-03-22"
 costume:
+  hero_id: tales1_lasalle_costume_jockey
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

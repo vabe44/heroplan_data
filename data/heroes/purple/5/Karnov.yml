@@ -1,5 +1,6 @@
 ---
 name: Karnov
+hero_id: villain_karnov
 source: villains
 family: villains
 speed: Slow
@@ -19,6 +20,7 @@ types:
 - Board Alterer
 image: https://i.imgur.com/uCM3DQT.jpg
 costume:
+  hero_id: villain_karnov_costume_jammies
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

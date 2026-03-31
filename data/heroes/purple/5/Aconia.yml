@@ -1,5 +1,6 @@
 ---
 name: Aconia
+hero_id: elemental_aconia
 source: superelemental
 family: superelemental
 speed: Fast
@@ -29,6 +30,7 @@ passives:
 - ' * Received elemental damage -10%'
 image: https://i.imgur.com/VT78aoB.jpg
 costume:
+  hero_id: elemental_aconia_costume_courier
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

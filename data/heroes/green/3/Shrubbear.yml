@@ -1,4 +1,5 @@
 name: Shrubbear
+hero_id: wonderland_bear
 class: Monk
 source: wonderland
 speed: Slow

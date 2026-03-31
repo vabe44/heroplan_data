@@ -1,5 +1,6 @@
 ---
 name: Lu Bu
+hero_id: kingdom_lu_bu
 source: kingdom
 family: kingdom
 speed: Slow
@@ -24,6 +25,7 @@ types:
 - Buff Immunity Fiend
 image: https://i.imgur.com/pOnV8Et.jpg
 costume:
+  hero_id: kingdom_lu_bu_costume_tiger_lord
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

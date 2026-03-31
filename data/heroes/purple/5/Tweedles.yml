@@ -1,5 +1,6 @@
 ---
 name: Tweedles
+hero_id: wonderland_tweedles
 source: wonderland
 family: wonderland
 speed: Slow

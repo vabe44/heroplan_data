@@ -1,5 +1,6 @@
 ---
 name: Ulius
+hero_id: magic_ulius
 source: magic
 family: magic
 speed: Magic
@@ -38,6 +39,7 @@ passives:
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/rdw7YpR.jpg
 costume:
+  hero_id: magic_ulius_costume_buccaneer
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

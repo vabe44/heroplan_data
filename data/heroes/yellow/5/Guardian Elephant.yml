@@ -1,5 +1,6 @@
 ---
 name: Guardian Elephant
+hero_id: guardian_elephant
 source: teltoc
 family: guardiansteltoc
 speed: Slow

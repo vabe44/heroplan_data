@@ -1,5 +1,6 @@
 ---
 name: Cupido
+hero_id: valentines_cupido
 source: love
 family: cupid
 speed: Average
@@ -23,6 +24,7 @@ passives:
   prevent the use of Special Skills.'
 image: https://i.imgur.com/4hhCXCA.jpg
 costume:
+  hero_id: valentines_cupido_costume_flame
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

@@ -1,4 +1,5 @@
 name: Zudak
+hero_id: orc_skirmisher
 class: Barbarian
 source: season1
 speed: Average

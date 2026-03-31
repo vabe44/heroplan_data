@@ -1,4 +1,5 @@
 name: Mack
+hero_id: s4_mack
 source: season4
 family: underwild
 speed: Average
@@ -19,6 +20,7 @@ passives:
     Increase Buff Duration: Duration of the first 3 buff this hero receives from Special Skills is increased by 1 turn.
 image: https://i.imgur.com/nafpwvj.jpg
 costume:
+  hero_id: s4_mack_costume_novelist
   bonuses: 2/2/4/1
   class: Monk
   power: 692

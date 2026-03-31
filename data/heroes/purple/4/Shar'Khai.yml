@@ -1,5 +1,6 @@
 ---
 name: Shar'Khai
+hero_id: tales1_sharkhai
 source: untoldtales
 family: nightmaresofatlantis
 speed: Changing Tides
@@ -35,6 +36,7 @@ image: https://i.imgur.com/pCqXNHO.jpg
 dtReleased: ""
 dtModified: "2026-03-22"
 costume:
+  hero_id: tales1_sharkhai_costume_butcher
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

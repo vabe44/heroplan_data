@@ -1,5 +1,6 @@
 ---
 name: Vivica
+hero_id: oriental_female_mystic
 source: season1
 family: classic
 speed: Slow
@@ -19,6 +20,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/aHsNbej.jpg
 costume:
+  hero_id: oriental_female_mystic_costume_magician
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -37,6 +39,7 @@ costume:
   - Dispeller All
   image: https://i.imgur.com/pm7wcbP.jpg
 costume2:
+  hero_id: oriental_female_mystic_costume_scribe
   design: costume2
   bonuses: 5/5/10/5
   class: Fighter

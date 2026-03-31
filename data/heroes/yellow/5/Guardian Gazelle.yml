@@ -1,5 +1,6 @@
 ---
 name: Guardian Gazelle
+hero_id: guardian_gazelle
 source: teltoc
 family: guardiansteltoc
 speed: Average
@@ -29,6 +30,7 @@ types:
 - Mana Reduction if caster Defeated while Dancing
 image: https://i.imgur.com/B2LpVrC.jpg
 costume:
+  hero_id: guardian_gazelle_costume_bandalore
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

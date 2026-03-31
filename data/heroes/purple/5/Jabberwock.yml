@@ -1,5 +1,6 @@
 ---
 name: Jabberwock
+hero_id: wonderland_jabberwocky
 source: wonderland
 family: wonderland
 speed: Fast
@@ -19,6 +20,7 @@ types:
 - DoT 2
 image: https://i.imgur.com/ODUCn9s.jpg
 costume:
+  hero_id: wonderland_jabberwocky_costume_moth
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

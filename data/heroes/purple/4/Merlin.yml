@@ -1,4 +1,5 @@
 name: Merlin
+hero_id: knights_merlin
 source: avalon
 family: avalon
 speed: Average
@@ -17,6 +18,7 @@ types:
   - Mindless attack
 image: https://i.imgur.com/z8mBTci.jpg
 costume:
+  hero_id: knights_merlin_costume_astrology
   bonuses: 5/5/10/5
   class: Cleric
   power: 679

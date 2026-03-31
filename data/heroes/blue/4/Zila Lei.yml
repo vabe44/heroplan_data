@@ -1,5 +1,6 @@
 ---
 name: Zila Lei
+hero_id: s4_zila_lei
 source: season4
 family: underwild
 speed: Fast
@@ -23,6 +24,7 @@ image: https://i.imgur.com/AZ3KQGe.jpg
 dtReleased: "2021-03-25"
 dtModified: ""
 costume:
+  hero_id: s4_zila_lei_costume_dancer
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

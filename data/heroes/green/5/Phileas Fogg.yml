@@ -1,5 +1,6 @@
 ---
 name: Phileas Fogg
+hero_id: s4_phileas_fogg
 source: season4
 family: underwild
 speed: Fast
@@ -22,6 +23,7 @@ passives:
   by -20% for this character.'
 image: https://i.imgur.com/L3xRyB9.jpg
 costume:
+  hero_id: s4_phileas_fogg_costume_engineer
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

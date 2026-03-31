@@ -1,5 +1,6 @@
 ---
 name: Doxan
+hero_id: elemental_doxan
 source: superelemental
 family: superelemental
 speed: Fast
@@ -27,6 +28,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/aM5vSU2.jpg
 costume:
+  hero_id: elemental_doxan_costume_hacker
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

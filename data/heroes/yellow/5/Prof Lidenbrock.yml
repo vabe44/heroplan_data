@@ -1,5 +1,6 @@
 ---
 name: Prof Lidenbrock
+hero_id: s4_professor_lidenbrock
 source: season4
 family: underwild
 speed: Slow
@@ -22,6 +23,7 @@ passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/1q7ZFV3.jpg
 costume:
+  hero_id: s4_professor_lidenbrock_costume_jeweler
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

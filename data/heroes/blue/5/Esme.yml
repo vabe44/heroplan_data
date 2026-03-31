@@ -1,5 +1,6 @@
 ---
 name: Esme
+hero_id: castle_wolf_esme
 source: knights
 family: wolf
 speed: Average

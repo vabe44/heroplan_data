@@ -1,5 +1,6 @@
 ---
 name: Mulgog
+hero_id: tales1_mulgog
 source: untoldtales
 family: nightmaresofatlantis
 speed: Changing Tides
@@ -32,6 +33,7 @@ image: https://i.imgur.com/b7HL0wq.jpg
 dtReleased: ""
 dtModified: "2026-03-22"
 costume:
+  hero_id: tales1_mulgog_costume_bard
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

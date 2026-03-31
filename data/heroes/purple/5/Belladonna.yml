@@ -1,5 +1,6 @@
 ---
 name: Belladonna
+hero_id: bard_belladonna
 source: festival
 family: bard
 speed: Average

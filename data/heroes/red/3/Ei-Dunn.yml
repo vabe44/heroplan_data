@@ -1,5 +1,6 @@
 ---
 name: Ei-Dunn
+hero_id: s3_ei_dunn
 source: season3
 family: niflheim
 speed: Average
@@ -19,6 +20,7 @@ image: https://i.imgur.com/RabUqBI.jpg
 dtReleased: ""
 dtModified: "2026-03-23"
 costume:
+  hero_id: s3_ei_dunn_costume_shield
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

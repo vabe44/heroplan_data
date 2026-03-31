@@ -1,4 +1,5 @@
 name: Rocket
+hero_id: goblin_rocket
 source: goblinvillage
 family: goblin
 speed: Fast

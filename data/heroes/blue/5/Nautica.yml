@@ -1,5 +1,6 @@
 ---
 name: Nautica
+hero_id: construct_nautica
 source: covenant
 family: construct
 speed: Average

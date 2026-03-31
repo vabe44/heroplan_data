@@ -1,5 +1,6 @@
 ---
 name: Lepiota
+hero_id: s4_lepiota
 source: season4
 family: underwild
 speed: Fast
@@ -29,6 +30,7 @@ passives:
   by -20% for this character.'
 image: https://i.imgur.com/eea7u0v.jpg
 costume:
+  hero_id: s4_lepiota_costume_undying
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

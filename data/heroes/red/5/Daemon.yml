@@ -1,5 +1,6 @@
 ---
 name: Daemon
+hero_id: castle_stag_daemon
 source: knights
 family: stag
 speed: Very Fast

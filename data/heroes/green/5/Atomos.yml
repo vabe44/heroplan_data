@@ -1,5 +1,6 @@
 ---
 name: Atomos
+hero_id: s2_skyllaros
 source: season2
 family: atlantis
 speed: Average
@@ -20,6 +21,7 @@ types:
 - Self Resurrection
 image: https://i.imgur.com/DAUb4SR.jpg
 costume:
+  hero_id: s2_skyllaros_costume_reef
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

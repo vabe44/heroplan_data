@@ -1,5 +1,6 @@
 ---
 name: Jack O'Hare
+hero_id: rabbit_green
 source: springvale
 family: springvale
 speed: Fast
@@ -19,6 +20,7 @@ image: https://i.imgur.com/KJoqPtw.jpg
 dtReleased: ""
 dtModified: "2026-03-31"
 costume:
+  hero_id: rabbit_green_costume_egg_hunter
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

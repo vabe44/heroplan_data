@@ -1,5 +1,6 @@
 ---
 name: Vanya
+hero_id: garrison_vanya
 source: goblinvillage
 family: garrisonguard
 speed: Slow

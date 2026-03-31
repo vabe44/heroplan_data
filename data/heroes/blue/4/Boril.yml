@@ -1,5 +1,6 @@
 ---
 name: Boril
+hero_id: dwarven_guard
 source: season1
 family: classic
 speed: Average
@@ -16,6 +17,7 @@ types:
 - Counterattack 3
 image: https://i.imgur.com/jFkMrWZ.jpg
 costume:
+  hero_id: dwarven_guard_costume_ram
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin
@@ -30,6 +32,7 @@ costume:
   - Counterattack All
   image: https://i.imgur.com/p8PKYHQ.jpg
 costume2:
+  hero_id: dwarven_guard_costume_tavern
   design: costume2
   bonuses: 5/5/10/5
   class: Fighter

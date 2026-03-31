@@ -1,5 +1,6 @@
 ---
 name: Lady Woolerton
+hero_id: easter_lady_woolerton
 source: springvale
 family: springvale
 speed: Fast
@@ -19,6 +20,7 @@ image: https://i.imgur.com/qf9ikj1.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: easter_lady_woolerton_costume_coiffeuse
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

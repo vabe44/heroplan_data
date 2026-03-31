@@ -1,5 +1,6 @@
 ---
 name: Bertha
+hero_id: magic_carpet_bertha
 source: magic
 family: magiccarpet
 speed: Slow

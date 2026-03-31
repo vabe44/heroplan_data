@@ -1,5 +1,6 @@
 ---
 name: Dawa
+hero_id: oriental_female_guard
 source: season1
 family: classic
 speed: Average
@@ -15,6 +16,7 @@ types:
 - Hit 3
 image: https://i.imgur.com/p1FG8Av.jpg
 costume:
+  hero_id: oriental_female_guard_costume_soldier
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

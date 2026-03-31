@@ -1,5 +1,6 @@
 ---
 name: Tyrum
+hero_id: undead_running_skeleton
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - Dispeller All
 image: https://i.imgur.com/HKuMtXT.jpg
 costume:
+  hero_id: undead_running_skeleton_costume_roman
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

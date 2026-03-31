@@ -1,5 +1,6 @@
 ---
 name: Cristobal
+hero_id: magic_cristobal
 source: magic
 family: magic
 speed: Magic
@@ -27,6 +28,7 @@ passives:
   Special Skill is fully charged, the chance is 100%.'
 image: https://i.imgur.com/H1Awz0g.jpg
 costume:
+  hero_id: magic_cristobal_costume_emerald
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

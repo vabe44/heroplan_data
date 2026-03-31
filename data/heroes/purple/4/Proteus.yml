@@ -1,5 +1,6 @@
 ---
 name: Proteus
+hero_id: s2_proteus
 source: season2
 family: atlantis
 speed: Average
@@ -19,6 +20,7 @@ image: https://i.imgur.com/m2PmJmo.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s2_proteus_costume_farseer
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

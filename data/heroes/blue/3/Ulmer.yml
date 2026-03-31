@@ -1,5 +1,6 @@
 ---
 name: Ulmer
+hero_id: nordic_mage
 source: season1
 family: classic
 speed: Slow
@@ -17,6 +18,7 @@ types:
 - Defense Debuff All
 image: https://i.imgur.com/8fr1xWV.jpg
 costume:
+  hero_id: nordic_mage_costume_hermit
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

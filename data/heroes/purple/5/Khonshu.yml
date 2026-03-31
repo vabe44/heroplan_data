@@ -1,5 +1,6 @@
 ---
 name: Khonshu
+hero_id: s5_khonshu
 source: season5
 family: moon
 speed: Very Fast
@@ -22,6 +23,7 @@ passives:
 - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/qiCq8Jo.jpg
 costume:
+  hero_id: s5_khonshu_costume_knight
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

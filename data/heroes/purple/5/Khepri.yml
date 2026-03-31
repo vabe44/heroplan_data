@@ -1,5 +1,6 @@
 ---
 name: Khepri
+hero_id: s5_khepri
 source: season5
 family: moon
 speed: Average
@@ -27,6 +28,7 @@ passives:
 - ' * All enemies get -24% mana generation for 3 turns.'
 image: https://i.imgur.com/Z6trZDL.jpg
 costume:
+  hero_id: s5_khepri_costume_overlord
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

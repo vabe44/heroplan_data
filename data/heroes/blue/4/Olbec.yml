@@ -1,5 +1,6 @@
 ---
 name: Olbec
+hero_id: owl_olbec
 source: owltower
 family: owl
 speed: Fast

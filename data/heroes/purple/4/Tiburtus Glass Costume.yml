@@ -1,5 +1,6 @@
 ---
 name: Tiburtus Glass Costume
+hero_id: blackguard_commander_costume_glass
 is_costume: true
 design: glass
 source: season1

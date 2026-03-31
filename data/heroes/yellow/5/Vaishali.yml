@@ -1,5 +1,6 @@
 ---
 name: Vaishali
+hero_id: magic_vaishali
 source: magic
 family: magic
 speed: Magic
@@ -36,6 +37,7 @@ passives:
   chance is 100%.'
 image: https://i.imgur.com/Ssu3ay2.jpg
 costume:
+  hero_id: magic_vaishali_costume_chef
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

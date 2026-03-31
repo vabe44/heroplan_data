@@ -1,4 +1,5 @@
 name: Gramps
+hero_id: s4_gramps
 class: Cleric
 source: season4
 family: underwild
@@ -20,6 +21,7 @@ passives:
     reduced by -20% for this character.
 image: https://i.imgur.com/QGwMonb.jpg
 costume:
+  hero_id: s4_gramps_costume_gardener
   bonuses: 5/5/10/5
   class: Druid
   power: 488

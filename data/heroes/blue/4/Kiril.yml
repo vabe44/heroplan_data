@@ -1,5 +1,6 @@
 ---
 name: Kiril
+hero_id: dwarwen_brewmaster
 source: season1
 family: classic
 speed: Average
@@ -19,6 +20,7 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/OnjIJvT.jpg
 costume:
+  hero_id: dwarwen_brewmaster_costume_guitarist
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -37,6 +39,7 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/BwPG5qR.jpg
 costume2:
+  hero_id: dwarwen_brewmaster_costume_wood_carver
   design: costume2
   bonuses: 5/5/10/5
   class: Barbarian

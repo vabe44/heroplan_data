@@ -1,5 +1,6 @@
 ---
 name: Hu Tao
+hero_id: oriental_panda_warrior
 source: season1
 family: classic
 speed: Slow
@@ -18,6 +19,7 @@ types:
 - Blind All
 image: https://i.imgur.com/uyASMQ6.jpg
 costume:
+  hero_id: oriental_panda_warrior_costume_armor
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin
@@ -38,6 +40,7 @@ costume:
   - Healing Debuff All
   image: https://i.imgur.com/vPJgzTp.jpg
 costume2:
+  hero_id: oriental_panda_warrior_costume_dueller
   design: costume2
   bonuses: 5/5/10/5
   class: Monk

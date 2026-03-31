@@ -1,5 +1,6 @@
 ---
 name: Sun Quan
+hero_id: kingdom_sun_quan
 source: kingdom
 family: kingdom
 speed: Average
@@ -20,6 +21,7 @@ types:
 - Minions with DoT
 image: https://i.imgur.com/EShG44Z.jpg
 costume:
+  hero_id: kingdom_sun_quan_costume_fire_bat
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

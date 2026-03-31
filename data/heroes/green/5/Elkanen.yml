@@ -1,5 +1,6 @@
 ---
 name: Elkanen
+hero_id: forest_male_elf
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - Self Heal
 image: https://i.imgur.com/gkqoNuc.jpg
 costume:
+  hero_id: forest_male_elf_costume_dark
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian
@@ -34,6 +36,7 @@ costume:
   - Healing Steal 3
   image: https://i.imgur.com/r8h2KIN.jpg
 costume2:
+  hero_id: forest_male_elf_costume_king
   design: costume2
   bonuses: 5/5/10/5
   class: Paladin

@@ -1,5 +1,6 @@
 ---
 name: Penelope
+hero_id: shadow_penelope
 source: shadow
 family: investigator
 speed: Slow

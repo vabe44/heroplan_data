@@ -1,5 +1,6 @@
 ---
 name: Bonecrusher
+hero_id: monster_hunter_bonecrusher
 source: covenant
 family: junglehunter
 speed: Fast

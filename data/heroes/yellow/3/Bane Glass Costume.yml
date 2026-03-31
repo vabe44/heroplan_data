@@ -1,5 +1,6 @@
 ---
 name: Bane Glass Costume
+hero_id: oriental_brawler_costume_glass
 is_costume: true
 design: glass
 source: season1

@@ -1,5 +1,6 @@
 ---
 name: Sartana Glass Costume
+hero_id: cultist_sorceress_costume_glass
 is_costume: true
 design: glass
 source: season1

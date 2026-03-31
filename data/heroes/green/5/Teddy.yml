@@ -1,5 +1,6 @@
 ---
 name: Teddy
+hero_id: castle_bear_teddy
 source: knights
 family: bear
 speed: Average

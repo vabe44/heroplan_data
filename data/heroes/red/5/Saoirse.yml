@@ -1,5 +1,6 @@
 ---
 name: Saoirse
+hero_id: slayer_saoirse
 source: slayers
 family: slayer
 speed: Slow
@@ -24,6 +25,7 @@ passives:
   from status effects and stacks.'
 image: https://i.imgur.com/pHj3rld.jpg
 costume:
+  hero_id: slayer_saoirse_costume_knight
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

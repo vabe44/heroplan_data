@@ -1,5 +1,6 @@
 ---
 name: Kullervo
+hero_id: kalevala_kullervo
 source: kalevala
 family: kalevala
 speed: Average
@@ -26,6 +27,7 @@ image: https://i.imgur.com/tmvOfKK.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: kalevala_kullervo_costume_battle_scarred
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

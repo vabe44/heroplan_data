@@ -1,5 +1,6 @@
 ---
 name: Anubis
+hero_id: s5_anubis
 source: season5
 family: moon
 speed: Average
@@ -25,6 +26,7 @@ passives:
 - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/QQQGz6W.jpg
 costume:
+  hero_id: s5_anubis_costume_dancefloor
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

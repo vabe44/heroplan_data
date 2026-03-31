@@ -1,5 +1,6 @@
 ---
 name: Passepartout
+hero_id: s4_passepartout
 source: season4
 family: underwild
 speed: Average
@@ -24,6 +25,7 @@ passives:
   Skills is increased by 1 turn.'
 image: https://i.imgur.com/6D1hJ1P.jpg
 costume:
+  hero_id: s4_passepartout_costume_artist
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

@@ -1,5 +1,6 @@
 ---
 name: Louhi
+hero_id: kalevala_louhi
 source: kalevala
 family: kalevala
 speed: Average
@@ -23,6 +24,7 @@ passives:
   time during a battle, they recover 15% health and receive 15% mana.'
 image: https://i.imgur.com/RQWKyOA.jpg
 costume:
+  hero_id: kalevala_louhi_costume_mistress
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

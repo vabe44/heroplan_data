@@ -1,5 +1,6 @@
 ---
 name: Guardian Panther
+hero_id: guardian_cat_warrior
 source: teltoc
 family: guardiansteltoc
 speed: Fast
@@ -19,6 +20,7 @@ types:
 - Dispeller 3
 image: https://i.imgur.com/DIjmjpT.jpg
 costume:
+  hero_id: guardian_cat_warrior_costume_fierce
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

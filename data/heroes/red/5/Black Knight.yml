@@ -1,5 +1,6 @@
 ---
 name: Black Knight
+hero_id: knights_black_knight
 source: avalon
 family: avalon
 speed: Average
@@ -21,6 +22,7 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/6so0gHz.jpg
 costume:
+  hero_id: knights_black_knight_costume_negative
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

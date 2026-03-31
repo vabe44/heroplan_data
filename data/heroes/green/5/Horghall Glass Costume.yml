@@ -1,5 +1,6 @@
 ---
 name: Horghall Glass Costume
+hero_id: forest_titan_costume_glass
 is_costume: true
 design: glass
 source: season1

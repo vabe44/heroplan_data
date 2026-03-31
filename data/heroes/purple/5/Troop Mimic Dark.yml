@@ -1,5 +1,6 @@
 ---
 name: Troop Mimic Dark
+hero_id: mimic_troop_purple
 source: secretsummon
 family: mimic
 speed: Average

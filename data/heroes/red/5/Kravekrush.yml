@@ -1,5 +1,6 @@
 ---
 name: Kravekrush
+hero_id: s4_kravekrush
 source: season4
 family: underwild
 speed: Average
@@ -20,6 +21,7 @@ passives:
 - 'Start Battle with Mana: This character receives 20% mana at the start of the battle.'
 image: https://i.imgur.com/xMJYpsy.jpg
 costume:
+  hero_id: s4_kravekrush_costume_grillmaster
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

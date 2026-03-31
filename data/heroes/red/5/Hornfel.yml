@@ -1,5 +1,6 @@
 ---
 name: Hornfel
+hero_id: construct_hornfel
 source: covenant
 family: construct
 speed: Fast

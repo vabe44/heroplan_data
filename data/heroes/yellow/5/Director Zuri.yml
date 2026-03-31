@@ -1,5 +1,6 @@
 ---
 name: Director Zuri
+hero_id: circus_director_zuri
 source: starfall
 family: starfall
 speed: Average
@@ -21,6 +22,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/NrSrxkV.jpg
 costume:
+  hero_id: circus_director_zuri_costume_clown
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

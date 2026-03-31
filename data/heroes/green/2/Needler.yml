@@ -1,4 +1,5 @@
 name: Needler
+hero_id: goblin_archer
 class: Ranger
 source: season1
 speed: Fast

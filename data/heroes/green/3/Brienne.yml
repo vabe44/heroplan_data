@@ -1,5 +1,6 @@
 ---
 name: Brienne
+hero_id: forest_female_druid
 source: season1
 family: classic
 speed: Average
@@ -16,6 +17,7 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/sdXIZmv.jpg
 costume:
+  hero_id: forest_female_druid_costume_native
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

@@ -1,5 +1,6 @@
 ---
 name: Quintus
+hero_id: cultist_inventor
 source: season1
 family: classic
 speed: Slow
@@ -15,6 +16,7 @@ types:
 - Hit All
 image: https://i.imgur.com/250UPh4.jpg
 costume:
+  hero_id: cultist_inventor_costume_steam
   design: costume1
   bonuses: 5/5/10/5
   class: Monk
@@ -31,6 +33,7 @@ costume:
   - Attack Debuff All
   image: https://i.imgur.com/TBwlwOC.jpg
 costume2:
+  hero_id: cultist_inventor_costume_love_doctor
   design: costume2
   bonuses: 5/5/10/5
   class: Druid

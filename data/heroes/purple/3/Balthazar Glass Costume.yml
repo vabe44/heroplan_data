@@ -1,5 +1,6 @@
 ---
 name: Balthazar Glass Costume
+hero_id: cultist_mage_costume_glass
 is_costume: true
 design: glass
 source: season1

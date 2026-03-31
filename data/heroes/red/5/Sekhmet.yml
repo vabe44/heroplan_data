@@ -1,5 +1,6 @@
 ---
 name: Sekhmet
+hero_id: s5_sekhmet
 source: season5
 family: sun
 speed: Fast
@@ -22,6 +23,7 @@ passives:
 - ' * All enemies get -34% attack for 3 turns.'
 image: https://i.imgur.com/8oISZes.jpg
 costume:
+  hero_id: s5_sekhmet_costume_warden
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

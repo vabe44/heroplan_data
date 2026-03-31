@@ -1,5 +1,6 @@
 ---
 name: Victor
+hero_id: vampire_king
 source: morlovia
 family: morlovia
 speed: Very Fast
@@ -27,6 +28,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/Trss5zi.jpg
 costume:
+  hero_id: vampire_king_costume_mafia
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

@@ -1,5 +1,6 @@
 ---
 name: Natalya
+hero_id: fire_god_natalya
 source: hotm
 family: "2018"
 speed: Fast
@@ -20,6 +21,7 @@ types:
 - Mana Generation Debuff 1
 image: https://i.imgur.com/vuOEJDC.jpg
 costume:
+  hero_id: fire_god_natalya_costume_seamstress
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

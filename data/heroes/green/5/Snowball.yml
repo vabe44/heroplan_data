@@ -1,5 +1,6 @@
 ---
 name: Snowball
+hero_id: mighty_pet_snowball
 source: pets
 family: pets
 speed: Fast

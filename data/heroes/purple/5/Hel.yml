@@ -1,5 +1,6 @@
 ---
 name: Hel
+hero_id: dark_god_hel
 source: hotm
 family: "2017"
 speed: Average
@@ -20,6 +21,7 @@ types:
 - Mana Gain Freeze 3
 image: https://i.imgur.com/5oaRVxv.jpg
 costume:
+  hero_id: dark_god_hel_costume_omen
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

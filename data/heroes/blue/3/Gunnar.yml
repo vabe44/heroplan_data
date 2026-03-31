@@ -1,5 +1,6 @@
 ---
 name: Gunnar
+hero_id: royal_knight
 source: season1
 family: classic
 speed: Slow
@@ -18,6 +19,7 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/ra4Iv0M.jpg
 costume:
+  hero_id: royal_knight_costume_blacksmith
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

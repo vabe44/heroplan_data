@@ -1,4 +1,5 @@
 name: Zarola
+hero_id: valentines_zarola
 source: love
 family: cupid
 speed: Fast
@@ -18,6 +19,7 @@ passives:
     Resist Special Skill Blocking: This character is immune to status ailments that prevent the use of Special Skills.
 image: https://i.imgur.com/07KHMD9.jpg
 costume:
+  hero_id: valentines_zarola_costume_cowboy
   design: costume1
   bonuses: 5/5/10/5
   class: Cleric

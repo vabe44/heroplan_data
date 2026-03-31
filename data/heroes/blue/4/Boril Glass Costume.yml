@@ -1,5 +1,6 @@
 ---
 name: Boril Glass Costume
+hero_id: dwarven_guard_costume_glass
 is_costume: true
 design: glass
 source: season1

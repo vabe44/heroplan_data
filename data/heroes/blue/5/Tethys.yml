@@ -1,5 +1,6 @@
 ---
 name: Tethys
+hero_id: s2_tethys
 source: season2
 family: atlantis
 speed: Fast
@@ -20,6 +21,7 @@ types:
 - Attack Buff All
 image: https://i.imgur.com/LPmQIgT.jpg
 costume:
+  hero_id: s2_tethys_costume_steel
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

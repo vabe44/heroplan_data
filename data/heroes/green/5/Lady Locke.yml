@@ -1,5 +1,6 @@
 ---
 name: Lady Locke
+hero_id: pirate_lady
 source: pirates
 family: corellia
 speed: Average
@@ -18,6 +19,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/rSEO0Xi.jpg
 costume:
+  hero_id: pirate_lady_costume_queen
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

@@ -1,5 +1,6 @@
 ---
 name: Francine
+hero_id: halloween_francine
 source: morlovia
 family: morlovia
 speed: Fast
@@ -22,6 +23,7 @@ passives:
   has buffs, deals 150% damage to all enemies.'
 image: https://i.imgur.com/jBtXWpz.jpg
 costume:
+  hero_id: halloween_francine_costume_mafia
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

@@ -1,4 +1,5 @@
 name: Vollermork
+hero_id: s4_vollermork
 source: season4
 family: underwild
 speed: Slow
@@ -18,6 +19,7 @@ passives:
     Start Battle with Mana: This character receives 20% mana at the start of the battle.
 image: https://i.imgur.com/mAw3KL3.jpg
 costume:
+  hero_id: s4_vollermork_costume_bartender
   bonuses: 2/2/4/1
   class: Druid
   power: 488

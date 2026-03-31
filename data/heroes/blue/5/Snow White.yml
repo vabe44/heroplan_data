@@ -1,5 +1,6 @@
 ---
 name: Snow White
+hero_id: fables_snow_white
 source: fables
 family: grimforest
 speed: Slow
@@ -19,6 +20,7 @@ types:
 - Hit All
 image: https://i.imgur.com/EVw3AO1.jpg
 costume:
+  hero_id: fables_snow_white_costume_slayer
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger

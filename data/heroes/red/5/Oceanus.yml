@@ -1,5 +1,6 @@
 ---
 name: Oceanus
+hero_id: s2_oceanus
 source: season2
 family: atlantis
 speed: Average
@@ -21,6 +22,7 @@ types:
 - Defense Buff All
 image: https://i.imgur.com/BZVWKzM.jpg
 costume:
+  hero_id: s2_oceanus_costume_volcano
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

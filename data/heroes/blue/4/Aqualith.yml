@@ -1,5 +1,6 @@
 ---
 name: Aqualith
+hero_id: tales1_aqualith
 source: untoldtales
 family: defendersofatlantis
 speed: Changing Tides
@@ -35,6 +36,7 @@ image: https://i.imgur.com/3R1f8Vh.jpg
 dtReleased: "2023-09-27"
 dtModified: "2026-03-22"
 costume:
+  hero_id: tales1_aqualith_costume_purple
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

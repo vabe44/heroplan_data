@@ -1,5 +1,6 @@
 ---
 name: Iron-Heart
+hero_id: construct_ironheart
 source: covenant
 family: construct
 speed: Average

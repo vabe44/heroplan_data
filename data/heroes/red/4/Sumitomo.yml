@@ -1,5 +1,6 @@
 ---
 name: Sumitomo
+hero_id: s2_demon_master
 source: season2
 family: sakura
 speed: Average
@@ -22,6 +23,7 @@ image: https://i.imgur.com/qnIyV2j.jpg
 dtReleased: ""
 dtModified: "2026-03-28"
 costume:
+  hero_id: s2_demon_master_costume_steppe
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

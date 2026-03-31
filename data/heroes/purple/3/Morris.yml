@@ -1,4 +1,5 @@
 name: Morris
+hero_id: s4_morris
 source: season4
 family: underwild
 speed: Average
@@ -26,6 +27,7 @@ passives:
     Decrease Ailment Duration: Duration of the first 3 status ailments this character receives from Special Skill is decreased by 1 turn.
 image: https://i.imgur.com/RXYQ548.jpg
 costume:
+  hero_id: s4_morris_costume_potter
   bonuses: 2/2/4/1
   class: Paladin
   power: 488

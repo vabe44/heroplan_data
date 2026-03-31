@@ -1,5 +1,6 @@
 ---
 name: Zhou Yu
+hero_id: kingdom_zhou_yu
 source: kingdom
 family: kingdom
 speed: Average
@@ -20,6 +21,7 @@ types:
 - Minion with DoT
 image: https://i.imgur.com/KiDn1jL.jpg
 costume:
+  hero_id: kingdom_zhou_yu_costume_white_raven
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

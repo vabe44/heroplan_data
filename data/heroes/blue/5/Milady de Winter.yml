@@ -1,5 +1,6 @@
 ---
 name: Milady de Winter
+hero_id: musketeer_milady_de_winter
 source: musketeer
 family: musketeer
 speed: Slow
@@ -27,6 +28,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/NEdggUL.jpg
 costume:
+  hero_id: musketeer_milady_de_winter_costume_herbalist
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

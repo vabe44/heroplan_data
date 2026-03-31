@@ -1,5 +1,6 @@
 ---
 name: Zhang Fei
+hero_id: kingdom_zhang_fei
 source: kingdom
 family: kingdom
 speed: Fast
@@ -19,6 +20,7 @@ types:
 - Defense Debuff Reflect All
 image: https://i.imgur.com/stJf0Qg.jpg
 costume:
+  hero_id: kingdom_zhang_fei_costume_bear_slayer
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

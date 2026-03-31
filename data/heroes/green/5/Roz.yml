@@ -1,5 +1,6 @@
 ---
 name: Roz
+hero_id: elemental_roz
 source: superelemental
 family: superelemental
 speed: Fast
@@ -27,6 +28,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/5xvOFq1.jpg
 costume:
+  hero_id: elemental_roz_costume_disco
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

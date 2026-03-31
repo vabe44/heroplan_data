@@ -1,5 +1,6 @@
 ---
 name: Cyprian
+hero_id: undead_captain_warrior
 source: season1
 family: classic
 speed: Average
@@ -16,6 +17,7 @@ types:
 - Counterattack 3
 image: https://i.imgur.com/wpGUug5.jpg
 costume:
+  hero_id: undead_captain_warrior_costume_prince
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -30,6 +32,7 @@ costume:
   - Counterattack All
   image: https://i.imgur.com/sJK7XXq.jpg
 costume2:
+  hero_id: undead_captain_warrior_costume_reveller
   design: costume2
   bonuses: 5/5/10/5
   class: Druid

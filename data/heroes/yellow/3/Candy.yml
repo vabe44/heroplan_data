@@ -1,5 +1,6 @@
 ---
 name: Candy
+hero_id: circus_candy
 source: starfall
 family: starfall
 speed: Average

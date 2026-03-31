@@ -1,5 +1,6 @@
 ---
 name: Hammertusk
+hero_id: monster_hunter_hammertusk
 source: covenant
 family: plainshunter
 speed: Average

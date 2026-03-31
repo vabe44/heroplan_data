@@ -1,5 +1,6 @@
 ---
 name: Ephyra
+hero_id: tales1_ephyra
 source: untoldtales
 family: defendersofatlantis
 speed: Changing Tides
@@ -31,6 +32,7 @@ passives:
 - ' * All allies get +21% critical chance for 2 turns.'
 image: https://i.imgur.com/nL4nDAx.jpg
 costume:
+  hero_id: tales1_ephyra_costume_reef
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

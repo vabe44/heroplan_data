@@ -1,5 +1,6 @@
 ---
 name: Carver Glass Costume
+hero_id: goblin_fighter_costume_glass
 is_costume: true
 design: glass
 source: season1

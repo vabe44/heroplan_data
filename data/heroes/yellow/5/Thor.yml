@@ -1,5 +1,6 @@
 ---
 name: Thor
+hero_id: s3_thor
 source: season3
 family: midgard
 speed: Very Fast
@@ -28,6 +29,7 @@ types:
 - Blind 1/3/All
 image: https://i.imgur.com/Cls9o26.jpg
 costume:
+  hero_id: s3_thor_costume_conduit
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

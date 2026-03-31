@@ -1,5 +1,6 @@
 ---
 name: Experience Mimic Holy
+hero_id: mimic_training_hero_yellow
 source: secretsummon
 family: mimic
 speed: Average

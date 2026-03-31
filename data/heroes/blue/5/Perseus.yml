@@ -1,5 +1,6 @@
 ---
 name: Perseus
+hero_id: ice_god_perseus
 source: hotm
 family: "2017"
 speed: Fast
@@ -22,6 +23,7 @@ types:
 - Elemental Defense Buff 3
 image: https://i.imgur.com/AMhR92j.jpg
 costume:
+  hero_id: ice_god_perseus_costume_frozen
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

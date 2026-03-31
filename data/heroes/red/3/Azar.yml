@@ -1,5 +1,6 @@
 ---
 name: Azar
+hero_id: nomad_female_swordmaster
 source: season1
 family: classic
 speed: Fast
@@ -17,6 +18,7 @@ types:
 - Mana Reduction 1
 image: https://i.imgur.com/sizxBDX.jpg
 costume:
+  hero_id: nomad_female_swordmaster_costume_native
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger

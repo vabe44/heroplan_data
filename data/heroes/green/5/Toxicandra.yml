@@ -1,5 +1,6 @@
 ---
 name: Toxicandra
+hero_id: villain_toxicandra
 source: villains
 family: villains
 speed: Fast
@@ -19,6 +20,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/m5DCDHL.jpg
 costume:
+  hero_id: villain_toxicandra_costume_rose
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

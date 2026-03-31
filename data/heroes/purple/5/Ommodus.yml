@@ -1,5 +1,6 @@
 ---
 name: Ommodus
+hero_id: owl_ommodus
 source: owltower
 family: owl
 speed: Slow

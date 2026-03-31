@@ -1,5 +1,6 @@
 ---
 name: Guinevere
+hero_id: knights_guinevere
 source: avalon
 family: avalon
 speed: Average
@@ -19,6 +20,7 @@ types:
 - Elemental Defense Buff 3
 image: https://i.imgur.com/dYjW9Xa.jpg
 costume:
+  hero_id: knights_guinevere_costume_rider
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

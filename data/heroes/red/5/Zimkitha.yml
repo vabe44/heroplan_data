@@ -1,5 +1,6 @@
 ---
 name: Zimkitha
+hero_id: fire_god_zimkitha
 source: hotm
 family: "2018"
 speed: Fast
@@ -21,6 +22,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/ZnoCx4D.jpg
 costume:
+  hero_id: fire_god_zimkitha_costume_adventurer
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

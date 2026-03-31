@@ -1,5 +1,6 @@
 ---
 name: Pixie
+hero_id: fables_pixie
 source: fables
 family: grimforest
 speed: Average

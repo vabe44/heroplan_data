@@ -1,5 +1,6 @@
 ---
 name: Becky
+hero_id: magic_becky
 source: magic
 family: magic
 speed: Magic
@@ -34,6 +35,7 @@ passives:
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/xqlrby4.jpg
 costume:
+  hero_id: magic_becky_costume_gothic
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

@@ -1,5 +1,6 @@
 ---
 name: Drake Fong
+hero_id: holy_god_drake_lee
 source: hotm
 family: "2018"
 speed: Fast
@@ -20,6 +21,7 @@ types:
 - Blind 3
 image: https://i.imgur.com/DfnVeiC.jpg
 costume:
+  hero_id: holy_god_drake_lee_costume_serene
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

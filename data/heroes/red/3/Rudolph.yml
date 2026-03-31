@@ -1,4 +1,5 @@
 name: Rudolph
+hero_id: christmas_reindeer
 source: christmas
 family: christmas
 speed: Fast
@@ -18,6 +19,7 @@ types:
   - Summoner
 image: https://i.imgur.com/mEYb8Ac.jpg
 costume:
+  hero_id: christmas_reindeer_costume_knightly_steed
   design: costume1
   bonuses: 5/5/10/5
   class: Barbarian

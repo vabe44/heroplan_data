@@ -1,5 +1,6 @@
 ---
 name: Rigard Glass Costume
+hero_id: blackguard_knight_costume_glass
 is_costume: true
 design: glass
 source: season1

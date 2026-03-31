@@ -1,5 +1,6 @@
 ---
 name: Alasie
+hero_id: ice_god_eskimo
 source: hotm
 family: "2018"
 speed: Fast
@@ -22,6 +23,7 @@ image: https://i.imgur.com/xx3qiK5.jpg
 dtReleased: "2018-05-01"
 dtModified: ""
 costume:
+  hero_id: ice_god_eskimo_costume_champion
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue

@@ -1,5 +1,6 @@
 ---
 name: Waddles
+hero_id: mighty_pet_waddles
 source: pets
 family: pets
 speed: Fast

@@ -1,5 +1,6 @@
 ---
 name: Captain Kestrel
+hero_id: pirate_swashbuckler
 source: pirates
 family: corellia
 speed: Fast

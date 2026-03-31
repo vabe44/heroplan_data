@@ -1,5 +1,6 @@
 ---
 name: Grimsteel
+hero_id: goblin_grimsteel
 source: goblinvillage
 family: goblin
 speed: Slow

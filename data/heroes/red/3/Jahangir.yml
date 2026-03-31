@@ -1,5 +1,6 @@
 ---
 name: Jahangir
+hero_id: nomad_mage
 source: season1
 family: classic
 speed: Slow
@@ -17,6 +18,7 @@ types:
 - DoT All
 image: https://i.imgur.com/7oZTOqz.jpg
 costume:
+  hero_id: nomad_mage_costume_goggles
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

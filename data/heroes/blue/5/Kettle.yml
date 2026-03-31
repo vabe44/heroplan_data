@@ -1,5 +1,6 @@
 ---
 name: Kettle
+hero_id: goblin_kettle
 source: goblinvillage
 family: goblin
 speed: Slow

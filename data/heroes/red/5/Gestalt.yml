@@ -1,5 +1,6 @@
 ---
 name: Gestalt
+hero_id: tales1_gestalt
 source: untoldtales
 family: nightmaresofatlantis
 speed: Changing Tides
@@ -36,6 +37,7 @@ image: https://i.imgur.com/vMt41XY.jpg
 dtReleased: ""
 dtModified: "2026-03-22"
 costume:
+  hero_id: tales1_gestalt_costume_pearls
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

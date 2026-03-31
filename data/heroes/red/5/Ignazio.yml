@@ -1,5 +1,6 @@
 ---
 name: Ignazio
+hero_id: elemental_ignazio
 source: superelemental
 family: superelemental
 speed: Fast
@@ -29,6 +30,7 @@ passives:
 - ' * Received elemental damage: -10%'
 image: https://i.imgur.com/y6oi4Yq.jpg
 costume:
+  hero_id: elemental_ignazio_costume_medic
   design: costume1
   bonuses: 5/5/10/5
   class: Paladin

@@ -1,5 +1,6 @@
 ---
 name: Mariol
+hero_id: owl_mariol
 source: owltower
 family: owl
 speed: Fast

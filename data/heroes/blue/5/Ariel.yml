@@ -1,5 +1,6 @@
 ---
 name: Ariel
+hero_id: s2_ariel
 source: season2
 family: atlantis
 speed: Average
@@ -19,6 +20,7 @@ types:
 - Cleanser All
 image: https://i.imgur.com/WWzsu8l.jpg
 costume:
+  hero_id: s2_ariel_costume_enchanter
   design: costume1
   bonuses: 5/5/10/5
   class: Sorcerer

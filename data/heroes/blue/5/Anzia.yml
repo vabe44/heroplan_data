@@ -1,5 +1,6 @@
 ---
 name: Anzia
+hero_id: elemental_anzia
 source: superelemental
 family: superelemental
 speed: Average
@@ -29,6 +30,7 @@ image: https://i.imgur.com/9igBdFq.jpg
 dtReleased: "2023-01-30"
 dtModified: ""
 costume:
+  hero_id: elemental_anzia_costume_jailer
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

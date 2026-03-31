@@ -1,5 +1,6 @@
 ---
 name: Bastet
+hero_id: s5_bastet
 source: season5
 family: moon
 speed: Fast
@@ -23,6 +24,7 @@ passives:
 - ' * Dispells the latest dispellable buff from all enemies.'
 image: https://i.imgur.com/4N9tjf5.jpg
 costume:
+  hero_id: s5_bastet_costume_forest
   design: costume1
   bonuses: 5/5/10/5
   class: Druid

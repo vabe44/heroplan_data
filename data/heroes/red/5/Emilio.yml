@@ -1,5 +1,6 @@
 ---
 name: Emilio
+hero_id: circus_emilio
 source: starfall
 family: starfall
 speed: Very Fast
@@ -26,6 +27,7 @@ types:
 - Status Ailments Immunity All
 image: https://i.imgur.com/iAnFGWC.jpg
 costume:
+  hero_id: circus_emilio_costume_frog
   design: costume1
   bonuses: 5/5/10/5
   class: Wizard

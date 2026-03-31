@@ -1,5 +1,6 @@
 ---
 name: Porthos
+hero_id: musketeer_porthos
 source: musketeer
 family: musketeer
 speed: Slow
@@ -26,6 +27,7 @@ passives:
   20% of the received damage on all enemies.'
 image: https://i.imgur.com/BwYaSTj.jpg
 costume:
+  hero_id: musketeer_porthos_costume_merchant
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

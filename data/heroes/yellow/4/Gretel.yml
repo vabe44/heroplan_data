@@ -1,5 +1,6 @@
 ---
 name: Gretel
+hero_id: fables_gretel
 source: fables
 family: grimforest
 speed: Average

@@ -1,5 +1,6 @@
 ---
 name: Myrtle
+hero_id: faun_myrtle
 source: wilderness
 family: woodlandfaun
 speed: Fast

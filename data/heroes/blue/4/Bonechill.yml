@@ -1,5 +1,6 @@
 ---
 name: Bonechill
+hero_id: construct_bonechill
 source: covenant
 family: construct
 speed: Fast

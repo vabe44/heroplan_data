@@ -1,5 +1,6 @@
 ---
 name: Rhineglow
+hero_id: construct_rhineglow
 source: covenant
 family: construct
 speed: Slow

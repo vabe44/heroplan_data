@@ -1,5 +1,6 @@
 ---
 name: Mitsuko
+hero_id: s2_noble_lady
 source: season2
 family: sakura
 speed: Average
@@ -22,6 +23,7 @@ types:
 - Elemental Counterattack All
 image: https://i.imgur.com/xMxFVwW.jpg
 costume:
+  hero_id: s2_noble_lady_costume_warrior
   design: costume1
   bonuses: 5/5/10/5
   class: Fighter

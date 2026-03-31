@@ -1,5 +1,6 @@
 ---
 name: Liu Bei
+hero_id: kingdom_liu_bei
 source: kingdom
 family: kingdom
 speed: Average
@@ -22,6 +23,7 @@ types:
 - Counterattack Minion
 image: https://i.imgur.com/Uq8cKe7.jpg
 costume:
+  hero_id: kingdom_liu_bei_costume_nature
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

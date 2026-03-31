@@ -1,5 +1,6 @@
 ---
 name: Red Hood
+hero_id: fables_red_hood
 source: fables
 family: grimforest
 speed: Average

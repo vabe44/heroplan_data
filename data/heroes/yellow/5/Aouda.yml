@@ -1,5 +1,6 @@
 ---
 name: Aouda
+hero_id: s4_aouda
 source: season4
 family: underwild
 speed: Fast
@@ -19,6 +20,7 @@ passives:
   damage, additional 30% is added to its power.'
 image: https://i.imgur.com/Ri4pkcS.jpg
 costume:
+  hero_id: s4_aouda_costume_lotus
   design: costume1
   bonuses: 5/5/10/5
   class: Ranger

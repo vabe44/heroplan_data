@@ -1,5 +1,6 @@
 ---
 name: Scrollbeast
+hero_id: goblin_scrollbeast
 source: goblinvillage
 family: goblin
 speed: Slow

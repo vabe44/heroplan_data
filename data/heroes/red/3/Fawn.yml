@@ -1,4 +1,5 @@
 name: Fawn
+hero_id: castle_stag_fawn
 class: Fighter
 source: knights
 family: stag

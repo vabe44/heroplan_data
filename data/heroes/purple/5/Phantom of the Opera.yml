@@ -1,5 +1,6 @@
 ---
 name: Phantom of the Opera
+hero_id: ballerina_phantom_of_the_opera
 source: solstice
 family: opera
 speed: Average

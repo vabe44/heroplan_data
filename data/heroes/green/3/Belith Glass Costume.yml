@@ -1,5 +1,6 @@
 ---
 name: Belith Glass Costume
+hero_id: forest_female_spirit_costume_glass
 is_costume: true
 design: glass
 source: season1

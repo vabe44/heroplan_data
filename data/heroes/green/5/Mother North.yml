@@ -1,5 +1,6 @@
 ---
 name: Mother North
+hero_id: christmas_mrs_claus
 source: christmas
 family: christmas
 speed: Slow
@@ -20,6 +21,7 @@ types:
 - Summoner All
 image: https://i.imgur.com/463IXXp.jpg
 costume:
+  hero_id: christmas_mrs_claus_costume_fangirl
   design: costume1
   bonuses: 5/5/10/5
   class: Monk

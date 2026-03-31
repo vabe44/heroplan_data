@@ -1,5 +1,6 @@
 ---
 name: Quintus Glass Costume
+hero_id: cultist_inventor_costume_glass
 is_costume: true
 design: glass
 source: season1

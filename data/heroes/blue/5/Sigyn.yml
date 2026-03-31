@@ -1,5 +1,6 @@
 ---
 name: Sigyn
+hero_id: monster_hunter_sigyn
 source: covenant
 family: plainshunter
 speed: Average

@@ -1,5 +1,6 @@
 ---
 name: Gill-Ra
+hero_id: s2_fiji_mermaid
 source: season2
 family: lagoon
 speed: Slow
@@ -21,6 +22,7 @@ image: https://i.imgur.com/5yoZu18.jpg
 dtReleased: ""
 dtModified: "2026-03-20"
 costume:
+  hero_id: s2_fiji_mermaid_costume_hunter
   design: costume1
   bonuses: 5/5/10/5
   class: Rogue
