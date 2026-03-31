@@ -33,6 +33,7 @@ costume:
   - DoT All
   image: https://i.imgur.com/4wjqw3M.jpg
 costume2:
+  hero_id: cultist_mage_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Fighter
@@ -53,6 +54,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/z96lxl3.jpg
 costume3:
+  hero_id: cultist_mage_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Fighter

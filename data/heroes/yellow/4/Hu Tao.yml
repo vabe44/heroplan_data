@@ -60,6 +60,7 @@ costume2:
   - Mana Gen Debuff All
   image: https://i.imgur.com/3xo1OZT.jpg
 costume3:
+  hero_id: oriental_panda_warrior_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Fighter
@@ -80,6 +81,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/J3KLB3K.jpg
 costume4:
+  hero_id: oriental_panda_warrior_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Fighter

@@ -53,6 +53,7 @@ costume2:
   - SS Damage Buff 3
   image: https://i.imgur.com/cDO5QOd.jpg
 costume3:
+  hero_id: nordic_ancestral_warrior_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Barbarian
@@ -73,6 +74,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/3MLw0k0.jpg
 costume4:
+  hero_id: nordic_ancestral_warrior_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Barbarian

@@ -54,6 +54,7 @@ costume2:
   - Hit All
   image: https://i.imgur.com/6XbZQ2N.jpg
 costume3:
+  hero_id: orc_troopmaster_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Barbarian
@@ -74,6 +75,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/WFeaXms.jpg
 costume4:
+  hero_id: orc_troopmaster_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Barbarian

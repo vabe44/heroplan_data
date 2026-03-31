@@ -34,6 +34,7 @@ costume:
   - Hit Random 1
   image: https://i.imgur.com/4JD88JW.jpg
 costume2:
+  hero_id: oriental_brawler_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Rogue
@@ -52,6 +53,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/O05gU50.jpg
 costume3:
+  hero_id: oriental_brawler_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Rogue

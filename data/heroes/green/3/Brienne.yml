@@ -33,6 +33,7 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/ig1RoGx.jpg
 costume2:
+  hero_id: forest_female_spirit_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Druid
@@ -52,6 +53,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/0PzrzM8.jpg
 costume3:
+  hero_id: forest_female_spirit_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Druid
@@ -73,6 +75,7 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/Z7YMKIU.jpg
 costume4:
+  hero_id: forest_female_druid_costume_stylish
   design: stylish
   bonuses: 5/5/10/5
   class: Druid

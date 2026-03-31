@@ -38,6 +38,7 @@ costume:
   - Attack Buff Self
   image: https://i.imgur.com/zH4VZaJ.jpg
 costume2:
+  hero_id: nordic_chained_werewolf_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -58,6 +59,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/Qf69vSG.jpg
 costume3:
+  hero_id: nordic_chained_werewolf_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Sorcerer

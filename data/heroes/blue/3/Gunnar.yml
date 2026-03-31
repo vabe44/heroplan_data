@@ -37,6 +37,7 @@ costume:
   - Defense Debuff All
   image: https://i.imgur.com/MxDScRN.jpg
 costume2:
+  hero_id: royal_knight_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Paladin
@@ -58,6 +59,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/F5oS2LZ.jpg
 costume3:
+  hero_id: royal_knight_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Paladin

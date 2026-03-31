@@ -52,6 +52,7 @@ costume2:
   - Silencer 3
   image: https://i.imgur.com/kSRi1Vn.jpg
 costume3:
+  hero_id: oriental_female_templar_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Monk
@@ -72,6 +73,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/9y6lz7h.jpg
 costume4:
+  hero_id: oriental_female_templar_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Monk

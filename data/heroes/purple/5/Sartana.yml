@@ -52,6 +52,7 @@ costume2:
   - Minion Blocking 1
   image: https://i.imgur.com/I8cTetD.jpg
 costume3:
+  hero_id: cultist_sorceress_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Wizard
@@ -72,6 +73,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/V3r9sPS.jpg
 costume4:
+  hero_id: cultist_sorceress_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Wizard

@@ -57,6 +57,7 @@ costume2:
   - Mana on Counterattack
   image: https://i.imgur.com/jA79vt4.jpg
 costume3:
+  hero_id: underworld_champion_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Barbarian
@@ -77,6 +78,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/YICnCq4.jpg
 costume4:
+  hero_id: underworld_champion_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Barbarian

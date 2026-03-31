@@ -56,6 +56,7 @@ costume2:
   - SS Dodge Chance Buff All
   image: https://i.imgur.com/hEckaC5.jpg
 costume3:
+  hero_id: forest_female_elf_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Druid
@@ -76,6 +77,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/I1ETLXX.jpg
 costume4:
+  hero_id: forest_female_elf_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Druid

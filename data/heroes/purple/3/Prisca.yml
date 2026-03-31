@@ -35,6 +35,7 @@ costume:
   - Heal Self
   image: https://i.imgur.com/q3Ddqi6.jpg
 costume2:
+  hero_id: cultist_mage_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Paladin
@@ -55,6 +56,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/6mcArhg.jpg
 costume3:
+  hero_id: cultist_mage_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Paladin

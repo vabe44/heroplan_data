@@ -58,6 +58,7 @@ costume2:
   - DoT 3
   image: https://i.imgur.com/onSikNW.jpg
 costume3:
+  hero_id: nomad_female_captain_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Rogue
@@ -78,6 +79,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/CuDeIo0.jpg
 costume4:
+  hero_id: nomad_female_captain_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Rogue

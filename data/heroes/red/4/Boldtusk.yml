@@ -54,6 +54,7 @@ costume2:
   - Attack Buff All
   image: https://i.imgur.com/T4p2FAB.jpg
 costume3:
+  hero_id: orc_gladiator_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Fighter
@@ -74,6 +75,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/ufJrKaD.jpg
 costume4:
+  hero_id: orc_gladiator_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Fighter

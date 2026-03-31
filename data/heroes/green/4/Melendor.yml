@@ -56,6 +56,7 @@ costume2:
   - Dispeller All
   image: https://i.imgur.com/XVqcInX.jpg
 costume3:
+  hero_id: forest_mage_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Druid
@@ -78,6 +79,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/3swBEW4.jpg
 costume4:
+  hero_id: forest_mage_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Druid

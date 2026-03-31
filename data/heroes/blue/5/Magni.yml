@@ -52,6 +52,7 @@ costume2:
   - Defense Debuff 3
   image: https://i.imgur.com/npmSFHz.jpg
 costume3:
+  hero_id: exalted_warrior_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Fighter
@@ -72,6 +73,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/bakqHYB.jpg
 costume4:
+  hero_id: exalted_warrior_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Fighter

@@ -54,6 +54,7 @@ costume2:
   - Healing Decrease All
   image: https://i.imgur.com/45ULmYn.jpg
 costume3:
+  hero_id: forest_male_elf_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Cleric
@@ -74,6 +75,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/6SvyBu6.jpg
 costume4:
+  hero_id: forest_male_elf_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Cleric

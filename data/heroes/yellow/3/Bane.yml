@@ -37,6 +37,7 @@ costume:
   - Blind 1
   image: https://i.imgur.com/oMyq8FB.jpg
 costume2:
+  hero_id: oriental_brawler_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Monk
@@ -57,6 +58,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/IQ13bAv.jpg
 costume3:
+  hero_id: oriental_brawler_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Monk

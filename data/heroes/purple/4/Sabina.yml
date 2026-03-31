@@ -56,6 +56,7 @@ costume2:
   - Cleanser All
   image: https://i.imgur.com/EBmu86N.jpg
 costume3:
+  hero_id: undead_female_warrior_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -78,6 +79,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/8kaUg4T.jpg
 costume4:
+  hero_id: undead_female_warrior_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Sorcerer

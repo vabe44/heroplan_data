@@ -54,6 +54,7 @@ costume2:
   - Mana Generation Debuff 3
   image: https://i.imgur.com/AhEe43s.jpg
 costume3:
+  hero_id: oriental_falconer_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Ranger
@@ -74,6 +75,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/SdLEIc0.jpg
 costume4:
+  hero_id: oriental_falconer_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Ranger

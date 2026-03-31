@@ -35,6 +35,7 @@ costume:
   - DoT 1
   image: https://i.imgur.com/DZd6oKm.jpg
 costume2:
+  hero_id: nomad_female_swordmaster_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Barbarian
@@ -55,6 +56,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/SWdSWFa.jpg
 costume3:
+  hero_id: nomad_female_swordmaster_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Barbarian

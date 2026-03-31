@@ -58,6 +58,7 @@ costume2:
   - Defense Buff All
   image: https://i.imgur.com/Az13Jne.jpg
 costume3:
+  hero_id: tribal_chief_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Ranger
@@ -82,6 +83,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/tV5jaYy.jpg
 costume4:
+  hero_id: tribal_chief_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Ranger

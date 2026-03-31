@@ -33,6 +33,7 @@ costume:
   - Attack Buff All
   image: https://i.imgur.com/FY7tylo.jpg
 costume2:
+  hero_id: nomad_female_swordmaster_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Cleric
@@ -53,6 +54,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/hDOgs06.jpg
 costume3:
+  hero_id: nomad_female_swordmaster_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Cleric

@@ -35,6 +35,7 @@ costume:
   - Mana Generation Buff All
   image: https://i.imgur.com/ia9GSNJ.jpg
 costume2:
+  hero_id: forest_female_spirit_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Monk
@@ -55,6 +56,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/yE4ht6i.jpg
 costume3:
+  hero_id: forest_female_spirit_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Monk

@@ -33,6 +33,7 @@ costume:
   - DoT 1
   image: https://i.imgur.com/PBzwskK.jpg
 costume2:
+  hero_id: cultist_mage_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Wizard
@@ -51,6 +52,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/TVzeF5e.jpg
 costume3:
+  hero_id: cultist_mage_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Wizard
@@ -69,6 +71,7 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/GyPOLEn.jpg
 costume4:
+  hero_id: cultist_mage_costume_stylish
   design: stylish
   bonuses: 5/5/10/5
   class: Wizard

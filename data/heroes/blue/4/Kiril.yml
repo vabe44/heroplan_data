@@ -58,6 +58,7 @@ costume2:
   - Attack Debuff All
   image: https://i.imgur.com/s7WIRC3.jpg
 costume3:
+  hero_id: dwarwen_brewmaster_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Wizard
@@ -81,6 +82,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/PWTfo2c.jpg
 costume4:
+  hero_id: dwarwen_brewmaster_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Wizard

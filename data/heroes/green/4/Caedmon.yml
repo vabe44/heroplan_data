@@ -54,6 +54,7 @@ costume2:
   - Dispels Buffs 3
   image: https://i.imgur.com/0FiXuyI.jpg
 costume3:
+  hero_id: elven_captain_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Druid
@@ -74,6 +75,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/DR6bDUS.jpg
 costume4:
+  hero_id: elven_captain_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Druid

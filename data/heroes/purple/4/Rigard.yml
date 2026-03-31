@@ -56,6 +56,7 @@ costume2:
   - Cleanser All
   image: https://i.imgur.com/0dWPfN4.jpg
 costume3:
+  hero_id: blackguard_knight_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Cleric
@@ -78,6 +79,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/rCKWMnx.jpg
 costume4:
+  hero_id: blackguard_knight_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Cleric

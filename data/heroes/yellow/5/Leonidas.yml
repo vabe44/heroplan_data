@@ -59,6 +59,7 @@ costume2:
   - Defense Debuff All
   image: https://i.imgur.com/6haP2Yz.jpg
 costume3:
+  hero_id: oriental_warrior_king_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Monk
@@ -81,6 +82,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/PKsAK4b.jpg
 costume4:
+  hero_id: oriental_warrior_king_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Monk

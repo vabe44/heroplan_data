@@ -35,6 +35,7 @@ costume:
   - DoT All
   image: https://i.imgur.com/IPO19rX.jpg
 costume2:
+  hero_id: nomad_female_swordmaster_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -55,6 +56,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/nGXpTVa.jpg
 costume3:
+  hero_id: nomad_female_swordmaster_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Sorcerer
@@ -75,6 +77,7 @@ costume3:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/r8eT1gi.jpg
 costume4:
+  hero_id: nomad_mage_costume_stylish
   design: stylish
   bonuses: 5/5/10/5
   class: Sorcerer

@@ -52,6 +52,7 @@ costume2:
   - Buff Immunity Debuff All
   image: https://i.imgur.com/9fhb23h.jpg
 costume3:
+  hero_id: royal_female_knight_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Paladin
@@ -72,6 +73,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/k4GWNzl.jpg
 costume4:
+  hero_id: royal_female_knight_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Paladin

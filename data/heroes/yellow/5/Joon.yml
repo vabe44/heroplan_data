@@ -57,6 +57,7 @@ costume2:
   - Blind 3
   image: https://i.imgur.com/rJxyTcK.jpg
 costume3:
+  hero_id: oriental_enchanted_monk_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Monk
@@ -77,6 +78,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/6UDBHvu.jpg
 costume4:
+  hero_id: oriental_enchanted_monk_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Monk

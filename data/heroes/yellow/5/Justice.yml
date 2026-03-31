@@ -56,6 +56,7 @@ costume2:
   - Blind All
   image: https://i.imgur.com/feWdynO.jpg
 costume3:
+  hero_id: exalted_female_statue_costume_cute
   design: toon
   bonuses: 5/5/10/5
   class: Paladin
@@ -77,6 +78,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/ChEEEeb.jpg
 costume4:
+  hero_id: exalted_female_statue_costume_glass
   design: glass
   bonuses: 5/5/10/5
   class: Paladin
