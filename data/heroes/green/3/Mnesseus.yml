@@ -18,7 +18,7 @@ types:
 - Dispeller All
 image: https://i.imgur.com/psLsMhk.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-03"
 fancy_name: Merman of Atlantis
 aetherPower: attack_up
 lb1:
@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: s2_merman_costume_leutenant
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/5
   class: Paladin
   power: 462
   attack: 500
@@ -49,7 +49,7 @@ costume:
   - Cleanser All
   image: https://i.imgur.com/vAbeKFm.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-03"
   fancy_name: Lieutenant of Atlantis
   aetherPower: defense_up
   lb1:

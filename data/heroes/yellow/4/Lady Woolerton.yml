@@ -18,7 +18,7 @@ types:
 - Mana Gain Debuff Self
 image: https://i.imgur.com/qf9ikj1.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-03"
 fancy_name: Mender of Springvale
 aetherPower: defense_up
 lb1:
@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: easter_lady_woolerton_costume_coiffeuse
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 24/24/24/5
   class: Sorcerer
   power: 800
   attack: 771
@@ -54,17 +54,17 @@ costume:
     Stack (Max: 10): Recovers 10 HP each turn.'
   image: https://imgur.com/qh7po0H.jpg
   dtReleased: "2026-03-30"
-  dtModified: ""
+  dtModified: "2026-04-03"
   fancy_name: Coiffeuse of Springvale
   aetherPower: boosted_regen
   lb1:
-    power: 850
+    power: 863
     attack: 838
-    defense: 906
-    health: 1647
+    defense: 907
+    health: 1649
   lb2:
-    power: 900
+    power: 987
     attack: 972
-    defense: 1051
-    health: 1910
+    defense: 1052
+    health: 1912
 ...

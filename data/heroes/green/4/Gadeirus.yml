@@ -20,7 +20,7 @@ types:
 - HoT 3
 image: https://i.imgur.com/dGtM0Hw.jpg
 dtReleased: ""
-dtModified: "2026-03-20"
+dtModified: "2026-04-03"
 fancy_name: Watcher of Atlantis
 aetherPower: fiend_resist
 lb1:
@@ -36,7 +36,7 @@ lb2:
 costume:
   hero_id: s2_atlantean_robot_costume_sentinel
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 3/3/6/5
   class: Paladin
   power: 668
   attack: 612
@@ -54,7 +54,7 @@ costume:
   - Boosted HoT All
   image: https://i.imgur.com/MAOY5JJ.jpg
   dtReleased: "2022-05-02"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-03"
   fancy_name: Atlantean Sentinel
   aetherPower: heal_increase
   lb1:

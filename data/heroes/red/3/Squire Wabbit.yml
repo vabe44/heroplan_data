@@ -17,7 +17,7 @@ types:
 - Hit 1
 image: https://i.imgur.com/545SVXP.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-04-03"
 fancy_name: Squire of Springvale
 aetherPower: rage
 lb1:
@@ -33,7 +33,7 @@ lb2:
 costume:
   hero_id: rabbit_red_costume_knight
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 25/25/25/5
   class: Fighter
   power: 540
   attack: 678
@@ -52,17 +52,17 @@ costume:
     get: Stack (Max: 10): -5% defense.'
   image: https://imgur.com/paSL8nL.jpg
   dtReleased: "2026-03-30"
-  dtModified: ""
+  dtModified: "2026-04-03"
   fancy_name: Junior Kinght of Springvale
   aetherPower: special_boost
   lb1:
-    power: 650
-    attack: 751
-    defense: 516
+    power: 604
+    attack: 770
+    defense: 529
     health: 871
   lb2:
-    power: 750
-    attack: 928
-    defense: 638
-    health: 1076
+    power: 732
+    attack: 952
+    defense: 654
+    health: 1077
 ...
