@@ -20,7 +20,7 @@ types:
 - Defense Debuff Reflect All
 image: https://i.imgur.com/stJf0Qg.jpg
 dtReleased: "2022-03-14"
-dtModified: ""
+dtModified: "2026-04-11"
 fancy_name: Merciless General
 aetherPower: attack_up
 lb1:
@@ -36,7 +36,7 @@ lb2:
 costume:
   hero_id: kingdom_zhang_fei_costume_bear_slayer
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 35/35/45/5
   class: Barbarian
   power: 1104
   attack: 1194
@@ -59,7 +59,7 @@ costume:
   - ' * Minion attacks and abilities can''t be disabled.'
   image: https://i.imgur.com/LeENxWF.jpg
   dtReleased: "2024-10-29"
-  dtModified: ""
+  dtModified: "2026-04-11"
   fancy_name: Merciless Bear General
   aetherPower: rage
   lb1:
