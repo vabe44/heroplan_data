@@ -29,7 +29,7 @@ passives:
   damage on all enemies.'
 image: https://i.imgur.com/bq60wfg.jpg
 dtReleased: "2022-12-14"
-dtModified: ""
+dtModified: "2026-04-16"
 fancy_name: Pompous Duke
 aetherPower: fiend_resist
 lb1:
@@ -45,7 +45,7 @@ lb2:
 costume:
   hero_id: musketeer_villiers_costume_jester
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Rogue
   power: 785
   attack: 808
@@ -76,7 +76,7 @@ costume:
     to deal 50% of the received damage on all enemies.'
   image: https://imgur.com/IiNjIeR.jpg
   dtReleased: "2025-11-12"
-  dtModified: ""
+  dtModified: "2026-04-16"
   fancy_name: Pompous Jester
   aetherPower: damage_reduction
   lb1:
