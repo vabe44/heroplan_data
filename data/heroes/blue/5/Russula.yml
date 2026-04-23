@@ -25,7 +25,7 @@ passives:
   receives from Special Skill is decreased by 1 turn.'
 image: https://i.imgur.com/MqnrIZ3.jpg
 dtReleased: "2021-05-20"
-dtModified: ""
+dtModified: "2026-04-20"
 fancy_name: Eloi Rogue
 aetherPower: attack_up
 lb1:
@@ -41,7 +41,7 @@ lb2:
 costume:
   hero_id: s4_russula_costume_painter
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 30/30/35/5
   class: Ranger
   power: 1021
   attack: 1054
@@ -66,7 +66,7 @@ costume:
     targets with boosted health for 3 turns.'
   image: https://i.imgur.com/KzLvPms.jpg
   dtReleased: "2024-01-04"
-  dtModified: ""
+  dtModified: "2026-04-20"
   fancy_name: Eloi Painter
   aetherPower: rage
   lb1:
