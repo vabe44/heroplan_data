@@ -11,7 +11,7 @@ health: 2276
 skill: Severed Seal
 effects:
 - Deals 350% damage to the target.
-- Deals additional 330% damage to 2 random enemies.
+- Deals additional 350% damage to 2 random enemies.
 - All hit targets get 15 Insanity every time they are hit.
 - 'Stack (Max: 10): All damage the hit enemy receives is increased by 5%.'
 - Casting this Special Skill inflicts 35 Insanity on the caster.
@@ -31,7 +31,7 @@ passives:
   by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
 image: https://imgur.com/nOztQOp.jpg
 dtReleased: "2025-12-28"
-dtModified: "2026-04-28"
+dtModified: "2026-04-30"
 fancy_name: The Untethered
 aetherPower: dodge
 lb1:

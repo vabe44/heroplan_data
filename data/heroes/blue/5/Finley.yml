@@ -21,7 +21,7 @@ types:
 - Defense Debuff on hit
 image: https://i.imgur.com/RIPu5ha.jpg
 dtReleased: ""
-dtModified: ""
+dtModified: "2026-04-30"
 fancy_name: Commodore of Corellia
 aetherPower: revive
 lb1:
@@ -36,7 +36,7 @@ lb2:
   health: 1620
 costume:
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Fighter
   power: 978
   attack: 1000
@@ -55,10 +55,10 @@ costume:
   - Defense Debuff on hit
   passives:
   - 'Poison on Special Skill: When this character casts their Special Skill, all enemies
-    receive 528 Poison damage over 4 turns.'
+    receive 560 Poison damage over 4 turns.'
   image: https://i.imgur.com/8HdzNsi.jpg
   dtReleased: "2022-04-14"
-  dtModified: ""
+  dtModified: "2026-04-30"
   fancy_name: Bleak Commodore
   aetherPower: attack_up
   lb1:
