@@ -25,7 +25,7 @@ passives:
 - ' * Cleanses the latest cleansable status ailment from all allies.'
 image: https://i.imgur.com/pyEHRBi.jpg
 dtReleased: "2022-10-27"
-dtModified: "2026-03-20"
+dtModified: "2026-04-26"
 fancy_name: Divine Pharaoh
 aetherPower: attack_up
 lb1:
@@ -41,7 +41,7 @@ lb2:
 costume:
   hero_id: s5_cleopatra_costume_feline
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 45/45/50/5
   class: Paladin
   power: 1210
   attack: 1086
@@ -67,7 +67,7 @@ costume:
     a buff or positive stack.'
   image: https://i.imgur.com/BWI4O98.jpg
   dtReleased: "2024-04-29"
-  dtModified: "2026-03-20"
+  dtModified: "2026-04-26"
   fancy_name: Feline Pharaoh
   aetherPower: special_armor
   lb1:

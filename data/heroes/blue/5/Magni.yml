@@ -18,7 +18,7 @@ types:
 - Defense Buff 3
 image: https://i.imgur.com/JpMZ0xh.jpg
 dtReleased: "2017-03-01"
-dtModified: ""
+dtModified: "2026-04-28"
 fancy_name: Ancient of Ice
 aetherPower: attack_up
 lb1:
@@ -49,7 +49,7 @@ costume:
   - Defense Debuff 3
   image: https://i.imgur.com/A0jPrh9.jpg
   dtReleased: "2020-05-18"
-  dtModified: ""
+  dtModified: "2026-04-28"
   fancy_name: Monolith of Ice
   aetherPower: special_boost
   lb1:
@@ -65,7 +65,7 @@ costume:
 costume2:
   hero_id: exalted_warrior_costume_underworld
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 25/25/25/5
   class: Rogue
   power: 858
   attack: 852
@@ -80,7 +80,7 @@ costume2:
   - Defense Debuff 3
   image: https://i.imgur.com/npmSFHz.jpg
   dtReleased: "2022-10-31"
-  dtModified: ""
+  dtModified: "2026-04-28"
   fancy_name: Ancient of the Underworld
   aetherPower: rage
   lb1:
@@ -96,7 +96,7 @@ costume2:
 costume3:
   hero_id: exalted_warrior_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 55/55/70/5
   class: Fighter
   power: 1108
   attack: 1140
@@ -115,7 +115,7 @@ costume3:
     dispels.'
   image: https://i.imgur.com/bakqHYB.jpg
   dtReleased: "2024-01-22"
-  dtModified: ""
+  dtModified: "2026-04-28"
   fancy_name: Toon of Ice
   aetherPower: attack_up
   lb1:
@@ -131,7 +131,7 @@ costume3:
 costume4:
   hero_id: exalted_warrior_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 75/75/78/5
   class: Fighter
   power: 1236
   attack: 1351
@@ -150,7 +150,7 @@ costume4:
   - 'Glass: 60% extra chance to reflect status ailments back to the attacker.'
   image: https://i.imgur.com/EJome7K.jpg
   dtReleased: "2025-03-11"
-  dtModified: ""
+  dtModified: "2026-04-28"
   fancy_name: Vitrail of Ice
   aetherPower: attack_up
   lb1:
@@ -165,7 +165,7 @@ costume4:
     health: 2956
 costume5:
   design: stylish
-  bonuses: 5/5/10/5
+  bonuses: 90/90/95/5
   class: Fighter
   power: 1295
   attack: 1439
@@ -184,7 +184,7 @@ costume5:
     ones.'
   image: https://imgur.com/ur9mzPp.jpg
   dtReleased: "2026-03-12"
-  dtModified: ""
+  dtModified: "2026-04-28"
   fancy_name: Stylish Ancient of Ice
   aetherPower: attack_up
   lb1:

@@ -35,7 +35,7 @@ passives:
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/bHuMYnz.jpg
 dtReleased: "2023-11-15"
-dtModified: ""
+dtModified: "2026-04-28"
 fancy_name: Herald of Sacrifice
 aetherPower: attack_up
 lb1:
@@ -51,7 +51,7 @@ lb2:
 costume:
   hero_id: magic_jett_costume_eyes
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 40/40/41/1
   class: Cleric
   power: 1276
   attack: 1333
@@ -84,7 +84,7 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/byXCjvP.jpg
   dtReleased: "2026-02-10"
-  dtModified: ""
+  dtModified: "2026-04-28"
   fancy_name: Herald of Judgment
   aetherPower: counterattack
   lb1:
