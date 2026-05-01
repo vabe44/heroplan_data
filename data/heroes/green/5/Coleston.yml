@@ -1,0 +1,40 @@
+---
+name: Coleston
+source: hotm
+family: "2026"
+speed: Fast
+class: Fighter
+power: 1223
+attack: 1330
+defense: 1279
+health: 1965
+skill: Farmhand's Fury
+effects:
+- Deals 600% damage to the target.
+- The attack bypasses defensive buffs. (This includes counterattacks.)
+- 'Wither: The target gets -330 defense.'
+- Elemental Link recovers +4% health for all Nature allies for 6 turns. This effect
+  can’t be dispelled.
+types:
+- Hit 1
+- Bypass
+- Defense Wither 1
+passives:
+- 'Dodge Special Damage: This character has a 15% chance to dodge Special Skills that
+  deal damage.'
+- 'Resist Burn: This character is immune to status ailments that deal Burn damage.'
+image: https://imgur.com/jgRflbZ.jpg
+dtReleased: "2026-05-01"
+dtModified: ""
+aetherPower: attack_up
+lb1:
+  power: 1309
+  attack: 1434
+  defense: 1378
+  health: 2117
+lb2:
+  power: 1479
+  attack: 1640
+  defense: 1577
+  health: 2423
+...
