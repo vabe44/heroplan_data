@@ -95,6 +95,7 @@ costume2:
   image: https://imgur.com/hJG4009.jpg
   dtReleased: "2026-04-29"
   dtModified: ""
+  fancy_name: Toon Beekeeper
   aetherPower: defense_up
   lb1:
     power: 629

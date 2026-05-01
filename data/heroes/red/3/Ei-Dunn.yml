@@ -84,6 +84,7 @@ costume2:
   image: https://imgur.com/f7YnRCG.jpg
   dtReleased: "2026-04-29"
   dtModified: ""
+  fancy_name: Cursed Viking Toon
   aetherPower: ailment_immunity
   lb1:
     power: 633

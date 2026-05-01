@@ -82,6 +82,7 @@ costume2:
   image: https://imgur.com/dygwuFK.jpg
   dtReleased: "2026-04-29"
   dtModified: ""
+  fancy_name: Toon Mage of Atlantis
   aetherPower: damage_reduction
   lb1:
     power: 892
