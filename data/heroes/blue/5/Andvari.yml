@@ -12,7 +12,7 @@ health: 2243
 skill: Saga of Deliverance
 effects:
 - Destroys all Minions from all enemies and damages all Mega Minions.
-- Destroys all Fiends from all allies. This effect damages Mega Fiends.
+- Destroys all Fiends from all allies and damages all Mega Fiends.
 - All allies get a Firestorm Ward for 4 turns, that reduces incoming Special Skill
   damage by up to -1300. Reduces damage by additional 30% when the attacker is of
   the Nature element.
@@ -21,21 +21,21 @@ effects:
 types:
 - Minion Destroyer All
 - Fiend Destroyer All
-- Firestorm Ward
-- Mana Generation Buff
+- Firestorm Ward All
+- Mana Generation Buff All
 passives:
 - 'Empowered Resist Burn: This character is immune to status ailments that deal Burn
   damage and gains 450 boosted health and 5% mana each time they resist.'
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core,
-  the Corrosive Burn deals 309 Burn damage, and lowers the target''s defense by -12%
+  the Corrosive Burn deals 309 Burn damage and lowers the target''s defense by -12%
   each turn. Deals extra damage against heroes with Minions or Mega Minions'
 - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://i.imgur.com/MVPiXPz.jpg
 dtReleased: "2024-12-28"
-dtModified: "2026-04-28"
+dtModified: "2026-05-01"
 fancy_name: Dwarven Oracle
 aetherPower: defense_up
 lb1:
@@ -53,10 +53,10 @@ costume:
   design: costume1
   bonuses: 13/13/13/5
   class: Cleric
-  power: 1287
-  attack: 1257
-  defense: 1320
-  health: 2518
+  power: 1305
+  attack: 1280
+  defense: 1344
+  health: 2541
   skill: Saga of Restoration
   effects:
   - Destroys all Minions from all enemies and damages Mega Minions.
@@ -78,13 +78,13 @@ costume:
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
   - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
-    Core, the Corrosive Burn deals 370 Burn damage, and lowers the target''s defense
+    Core, the Corrosive Burn deals 377 Burn damage, and lowers the target''s defense
     by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/MIeBXAK.jpg
   dtReleased: "2026-03-14"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-01"
   fancy_name: Dwarven Restorer
   aetherPower: bulwark
   lb1:

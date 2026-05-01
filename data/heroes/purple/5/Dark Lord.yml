@@ -23,7 +23,7 @@ types:
 - Mana Generation Debuff 3
 image: https://i.imgur.com/ja50n6G.jpg
 dtReleased: "2021-02-11"
-dtModified: ""
+dtModified: "2026-05-01"
 fancy_name: Bane of Karemdol
 aetherPower: attack_up
 lb1:
@@ -39,7 +39,7 @@ lb2:
 costume:
   hero_id: villain_dark_lord_costume_astronomer
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 57/57/62/5
   class: Sorcerer
   power: 1205
   attack: 1334
@@ -64,10 +64,10 @@ costume:
   - Mana Generation Debuff 3
   passives:
   - 'Curse on Special Skill: When this character casts their Special Skill, all enemies
-    receive 473 Curse damage over 4 turns, starting low and increasing every turn.'
+    receive 531 Curse damage over 4 turns, starting low and increasing every turn.'
   image: https://i.imgur.com/Mz4axni.jpg
   dtReleased: "2024-11-14"
-  dtModified: ""
+  dtModified: "2026-05-01"
   fancy_name: Astronomer of Karemdol
   aetherPower: defense_up
   lb1:

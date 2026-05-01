@@ -12,12 +12,12 @@ health: 2125
 skill: Blazing Venom
 effects:
 - Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40%
-  more if the target is of the Nature element. This Special Skill never misses its
-  targets.
+  more damage if the target is of the Nature element. This Special Skill never misses
+  its targets.
 - Damage bypasses target's Minions.
 - All enemies receive 388 Poison damage over 4 turns.
-- All enemies take +50% increased damage from Burn and Poison status ailments for
-  4 turns.
+- All enemies take +50% increased damage from Burn and Poison status ailments and
+  negative stacks for 4 turns.
 types:
 - Firestorm Strike All
 - Bypass Minions
@@ -29,13 +29,13 @@ passives:
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
-  Core, the Corrosive Burn deals 330 Burn damage, and lowers the target''s defense
+  Core, the Corrosive Burn deals 330 Burn damage and lowers the target''s defense
   by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
 - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://i.imgur.com/BDzoVb0.jpg
 dtReleased: "2025-01-26"
-dtModified: ""
+dtModified: "2026-05-01"
 fancy_name: Dwarven Mountain Shaman
 aetherPower: dodge
 lb1:
@@ -48,4 +48,51 @@ lb2:
   attack: 1508
   defense: 1424
   health: 2621
+costume:
+  design: costume1
+  bonuses: 14/14/14/5
+  class: Monk
+  power: 1321
+  attack: 1409
+  defense: 1305
+  health: 2417
+  skill: Curing Venom
+  effects:
+  - Attacks all enemies with Firestorm Strike, dealing up to 1650 damage. Deals 40%
+    more damage if the target is of the Nature element. This Special Skill never misses
+    its targets.
+  - Damage bypasses target's Minions.
+  - All enemies receive 464 Poison damage over 4 turns. The caster absorbs 10% of
+    dealt Poison damage as health.
+  - All enemies take +52% increased damage from Burn and Poison status ailments and
+    negative stacks for 4 turns.
+  types:
+  - Firestorm Strike All
+  - Bypass Minions
+  - DoT All
+  - Burn and Poison Increased Damage Debuff All
+  passives:
+  - 'Empowered Resist Burn: This character is immune to status ailments that deals
+    Burn damage and gains 600 boosted health and 10% mana each time they resist.'
+  - 'Molten Core: The Molten Core activates each time this character''s Special Skill
+    is cast:'
+  - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
+    Core, the Corrosive Burn deals 415 Burn damage and lowers the target''s defense
+    by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
+  - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
+    is exhausted when the Core is activated.'
+  image: https://imgur.com/RP6dYzm.jpg
+  dtReleased: "2026-05-01"
+  dtModified: "2026-05-01"
+  aetherPower: fiend_resist
+  lb1:
+    power: 1414
+    attack: 1518
+    defense: 1406
+    health: 2606
+  lb2:
+    power: 1600
+    attack: 1737
+    defense: 1609
+    health: 2982
 ...

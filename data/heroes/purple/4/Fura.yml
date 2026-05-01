@@ -95,6 +95,7 @@ costume2:
   image: https://imgur.com/nlHwD1Y.jpg
   dtReleased: "2026-04-29"
   dtModified: ""
+  fancy_name: Poisoner Toon of Svartalfheim
   aetherPower: attack_up
   lb1:
     power: 898

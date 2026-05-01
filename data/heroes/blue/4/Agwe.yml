@@ -84,6 +84,7 @@ costume2:
   image: https://imgur.com/oQQAWgD.jpg
   dtReleased: "2026-04-29"
   dtModified: ""
+  fancy_name: Toon Chameleon Shaman
   aetherPower: boosted_regen
   lb1:
     power: 890

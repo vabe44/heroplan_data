@@ -5,10 +5,10 @@ source: shadow
 family: theinstitute
 speed: Slow
 class: Cleric
-power: 1289
-attack: 1316
-defense: 1361
-health: 2307
+power: 1314
+attack: 1341
+defense: 1384
+health: 2375
 skill: Staff of Domination
 effects:
 - All enemies succumb to Fear for 5 turns. (The target gets -40% defense. Removes
@@ -17,7 +17,7 @@ effects:
   deals 160% damage to a random ally each time any other ally casts their Special
   Skill. Each character can trigger this effect once per turn.)
 - 'Wither: All enemies get -400 attack.'
-- Deals 400% damage to all enemies and inflicts 25 Insanity on them.
+- Deals 420% damage to all enemies and inflicts 25 Insanity on them.
 - Casting this Special Skill inflicts 45 Insanity on the caster.
 types:
 - Fear Debuff All
@@ -35,7 +35,7 @@ passives:
   by this character is increased by 6% per 10 Insanity on this character, up to 60%.'
 image: https://imgur.com/QhHCnui.jpg
 dtReleased: "2026-03-22"
-dtModified: ""
+dtModified: "2026-04-30"
 fancy_name: Director of the Institute
 aetherPower: bulwark
 lb1:
