@@ -31,7 +31,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/mO16Dj6.jpg
 dtReleased: "2024-12-03"
-dtModified: "2026-04-28"
+dtModified: "2026-05-01"
 fancy_name: Dwarven Dark Seer
 aetherPower: special_armor
 lb1:
@@ -48,10 +48,10 @@ costume:
   design: costume1
   bonuses: 14/14/15/5
   class: Paladin
-  power: 1294
-  attack: 1282
-  defense: 1323
-  health: 2504
+  power: 1315
+  attack: 1305
+  defense: 1347
+  health: 2548
   skill: Night's Calibration
   effects:
   - All allies regenerate 1300 HP over 4 turns.
@@ -71,13 +71,13 @@ costume:
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
   - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
-    Core, the Corrosive Burn deals 378 Burn damage, and lowers the target''s defense
+    Core, the Corrosive Burn deals 384 Burn damage, and lowers the target''s defense
     by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/FfGsve9.jpg
   dtReleased: "2026-04-07"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-01"
   fancy_name: Dwarven Dark Engineer
   aetherPower: defense_up
   lb1:

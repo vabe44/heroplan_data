@@ -25,13 +25,13 @@ passives:
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core,
-  the Corrosive Burn deals 193 Burn damage, and lowers the target''s defense by -12%
+  the Corrosive Burn deals 193 Burn damage and lowers the target''s defense by -12%
   each turn. Deals extra damage against heroes with Minions or Mega Minions.'
 - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://i.imgur.com/iXEEsKX.jpg
 dtReleased: "2024-12-03"
-dtModified: "2026-04-07"
+dtModified: "2026-05-01"
 fancy_name: Dwarven Golden Skald
 aetherPower: defense_up
 lb1:
@@ -69,13 +69,13 @@ costume:
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
   - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
-    Core, the Corrosive Burn deals 238 Burn damage, and lowers the target''s defense
+    Core, the Corrosive Burn deals 238 Burn damage and lowers the target''s defense
     by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/e5fIPsA.jpg
   dtReleased: "2025-10-15"
-  dtModified: "2026-04-07"
+  dtModified: "2026-05-01"
   fancy_name: Dwarven Ghostly Skald
   aetherPower: special_armor
   lb1:
