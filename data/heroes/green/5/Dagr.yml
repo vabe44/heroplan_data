@@ -83,6 +83,7 @@ costume:
   image: https://imgur.com/RP6dYzm.jpg
   dtReleased: "2026-05-01"
   dtModified: "2026-05-01"
+  fancy_name: Dwarven Plague Shaman
   aetherPower: fiend_resist
   lb1:
     power: 1414
