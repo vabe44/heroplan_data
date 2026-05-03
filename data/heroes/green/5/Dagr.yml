@@ -11,12 +11,12 @@ health: 2125
 skill: Blazing Venom
 effects:
 - Attacks all enemies with Firestorm Strike, dealing up to 1500 damage. Deals 40%
-  more if the target is of the Nature element. This Special Skill never misses its
-  targets.
+  more damage if the target is of the Nature element. This Special Skill never misses
+  its targets.
 - Damage bypasses target's Minions.
 - All enemies receive 388 Poison damage over 4 turns.
-- All enemies take +50% increased damage from Burn and Poison status ailments for
-  4 turns.
+- All enemies take +50% increased damage from Burn and Poison status ailments and
+  negative stacks for 4 turns.
 types:
 - Firestorm Strike All
 - Bypass Minions
@@ -28,13 +28,13 @@ passives:
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
-  Core, the Corrosive Burn deals 330 Burn damage, and lowers the target''s defense
+  Core, the Corrosive Burn deals 330 Burn damage and lowers the target''s defense
   by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
 - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://i.imgur.com/BDzoVb0.jpg
 dtReleased: "2025-01-26"
-dtModified: ""
+dtModified: "2026-05-01"
 fancy_name: Dwarven Mountain Shaman
 aetherPower: dodge
 lb1:
@@ -82,7 +82,8 @@ costume:
     is exhausted when the Core is activated.'
   image: https://imgur.com/RP6dYzm.jpg
   dtReleased: "2026-05-01"
-  dtModified: ""
+  dtModified: "2026-05-01"
+  fancy_name: Dwarven Plague Shaman
   aetherPower: fiend_resist
   lb1:
     power: 1414

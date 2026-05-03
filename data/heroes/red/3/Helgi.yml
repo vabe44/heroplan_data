@@ -21,13 +21,13 @@ passives:
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With fully charged Molten Core,
-  the Corrosive Burn deals 147 Burn damage, and lowers the target''s defense by -12%
+  the Corrosive Burn deals 147 Burn damage and lowers the target''s defense by -12%
   each turn. Deals extra damage against heroes with Minions or Mega Minions.'
 - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://i.imgur.com/URDTarn.jpg
 dtReleased: "2024-12-03"
-dtModified: "2026-04-07"
+dtModified: "2026-05-01"
 fancy_name: Dwarven Rage Runner
 aetherPower: attack_up
 lb1:
@@ -61,13 +61,13 @@ costume:
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
   - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
-    Core, the Corrosive Burn deals 170 Burn damage, and lowers the target''s defense
+    Core, the Corrosive Burn deals 170 Burn damage and lowers the target''s defense
     by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/vPctOAj.jpg
   dtReleased: "2025-10-15"
-  dtModified: "2026-04-07"
+  dtModified: "2026-05-01"
   fancy_name: Dwarven Replenisher
   aetherPower: special_boost
   lb1:

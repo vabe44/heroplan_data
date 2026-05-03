@@ -26,13 +26,13 @@ passives:
 - 'Molten Core: The Molten Core activates each time this character''s Special Skill
   is cast:'
 - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
-  Core, the Corrosive Burn deals 305 Burn damage, and lowers the target''s defense
+  Core, the Corrosive Burn deals 305 Burn damage and lowers the target''s defense
   by -12% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
 - ' * The Burn damage is scaled by the amount of charge in the Core. All charge is
   exhausted when the Core is activated.'
 image: https://i.imgur.com/XIyQFXu.jpg
 dtReleased: "2024-12-03"
-dtModified: "2026-04-28"
+dtModified: "2026-05-01"
 fancy_name: Dwarven Merry Trickster
 aetherPower: regen
 lb1:
@@ -49,10 +49,10 @@ costume:
   design: costume1
   bonuses: 12/12/12/5
   class: Monk
-  power: 1273
-  attack: 1236
-  defense: 1315
-  health: 2483
+  power: 1290
+  attack: 1258
+  defense: 1339
+  health: 2505
   skill: Guarding Tunes
   effects:
   - Boosts health of all allies by 900. Boosted health can exceed max HP.
@@ -71,13 +71,13 @@ costume:
   - 'Molten Core: The Molten Core activates each time this character''s Special Skill
     is cast:'
   - ' * All enemies receive Corrosive Burn for 3 turns. With a fully charged Molten
-    Core, the Corrosive Burn deals 364 Burn damage, and lowers the target''s defense
+    Core, the Corrosive Burn deals 371 Burn damage and lowers the target''s defense
     by -13% each turn. Deals extra damage against heroes with Minions or a Mega Minion.'
   - ' * The Burn damage is scaled by the amount of charge in the Core. All charge
     is exhausted when the Core is activated.'
   image: https://imgur.com/xREyScg.jpg
   dtReleased: "2025-10-15"
-  dtModified: "2026-04-28"
+  dtModified: "2026-05-01"
   fancy_name: Dwarven Maestro Trickster
   aetherPower: boosted_regen
   lb1:
