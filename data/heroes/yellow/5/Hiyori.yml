@@ -1,0 +1,55 @@
+---
+name: Hiyori
+source: ninja
+family: ronin
+speed: Charge
+class: Sorcerer
+power: 1323
+attack: 1363
+defense: 1386
+health: 2381
+skill: Sensu of Immortality
+effects:
+- 'Special Skill has a different effect when charged with 100% / 200% / 300% mana:'
+- 'x1 Mana Charge:'
+- ' * Recovers 15% health for all allies.'
+- ' * Each defeated ally has 30% chance to get revived with 30% HP.'
+- ' * For the next 2 turns, all allies receive 10% mana at the end of the turn.'
+- 'x2 Mana Charge:'
+- ' * Recovers 35% health for all allies.'
+- ' * Each defeated ally has 40% chance to get revived with 40% HP.'
+- ' * Cleanses 1 status ailment from all allies. (Status ailments are cleansed in
+  the order they have been received. The latest status ailments are cleansed first.)'
+- ' * For the next 3 turns, all allies receive 10% mana at the end of the turn.'
+- 'x3 Mana Charge:'
+- ' * Recovers 55% health for all allies.'
+- ' * Each defeated ally has 60% chance to get revived with 60% HP.'
+- ' * Cleanses status ailments from all allies.'
+- ' * For the next 5 turns, all allies receive 15% mana at the end of the turn.'
+types:
+- Charge
+- Healer All
+- Reviver
+- Boost Mana All
+- Cleanse Latest/All Ailment All
+passives:
+- 'Prevent Boosted Healing: Enemies'' health cannot increase above their max health.'
+- 'Dishonorable Defeat: When this character is defeated by a Special Skill, they perform
+  the following actions'
+- ' * The attacker receives 450% damage.'
+- ' * The attacker receives 1500 Bleed damage over 3 turns.'
+image: https://imgur.com/0N0qZAI.jpg
+dtReleased: "2026-05-03"
+dtModified: ""
+aetherPower: regen
+lb1:
+  power: 1416
+  attack: 1469
+  defense: 1494
+  health: 2566
+lb2:
+  power: 1602
+  attack: 1681
+  defense: 1709
+  health: 2936
+...
