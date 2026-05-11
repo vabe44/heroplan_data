@@ -35,7 +35,7 @@ passives:
   two stacks. An enemy can have up to 10 stacks.'
 image: https://i.imgur.com/xqlrby4.jpg
 dtReleased: "2023-06-28"
-dtModified: ""
+dtModified: "2026-05-04"
 fancy_name: Starlight Conjurer
 aetherPower: attack_up
 lb1:
@@ -51,7 +51,7 @@ lb2:
 costume:
   hero_id: magic_becky_costume_gothic
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 41/41/43/1
   class: Sorcerer
   power: 1234
   attack: 1247
@@ -74,7 +74,7 @@ costume:
   - Hit 1
   - Mana Reduce 4 on Enemy SS
   - Elemental Defense Buff 3
-  - Mana Increase
+  - Mana Increase All
   - Hit All on Ally SS
   passives:
   - 'Health Recovery on Special: When this character casts their Special Skill, they
@@ -86,7 +86,7 @@ costume:
   - 'Weaker Mega Minions: Enemy Mega Minions have -75% HP.'
   image: https://imgur.com/zrbo7zD.jpg
   dtReleased: "2025-09-17"
-  dtModified: ""
+  dtModified: "2026-05-04"
   fancy_name: Twilight Conjurer
   aetherPower: special_boost
   lb1:
