@@ -40,14 +40,14 @@ fancy_name: Prince of the Eternal Deep
 aetherPower: defense_up
 lb1:
   power: 1021
-  attack: 967
+  attack: 968
   defense: 1023
   health: 1940
 lb2:
   power: 1150
   attack: 1107
   defense: 1170
-  health: 2219
+  health: 2220
 costume:
   hero_id: tales1_gestalt_costume_pearls
   design: costume1
@@ -93,12 +93,12 @@ costume:
   aetherPower: attack_up
   lb1:
     power: 1273
-    attack: 1309
-    defense: 1253
+    attack: 1308
+    defense: 1252
     health: 2426
   lb2:
-    power: 1439
-    attack: 1498
+    power: 1438
+    attack: 1497
     defense: 1433
     health: 2776
 ...
