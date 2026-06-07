@@ -1,25 +1,26 @@
 ---
-name: Arzen
-hero_id: construct_arzen
+name: Elx
 source: covenant
 family: construct
 speed: Fast
-class: Rogue
-power: 1299
-attack: 1363
-defense: 1345
-health: 2290
-skill: Vicious Strike
+class: Wizard
+power: 1330
+attack: 1365
+defense: 1404
+health: 2389
+skill: Grimoire Fatalis
 effects:
-- Deals 540% damage to the target.
-- Has a 85% chance for additional hits on random enemies up to 4 times. Additional
-  hits deal minor damage.
-- The target resists healing and receives 250 damage per each resisted healing for
-  3 turns.
+- Deals 180% damage to 6 random enemies.
+- All enemies get -45% defense against Fire for 3 turns.
+- For 3 turns, the element of all enemies is change each turn. On the first 2 turns,
+  the element is random.
+- On the last turn, enemies revert to their original element.
+- After each element change, enemies take 846 damage if their element is Nature.
 types:
-- Hit 1
-- Hit Random
-- Damage on each Resisted Healing 1
+- Hit Random 6
+- Elemental Defense Debuff All
+- Element Change All
+- Damage Nature on change
 passives:
 - 'Empowered Resist Special Skill Blocking: This character is immune to status ailments
   that prevent the use of Special Skills. They also gain 450 boosted health and 5%
@@ -34,19 +35,19 @@ passives:
   target and damages Mega Minions.'
 - ' * The Killer Bot Minion recovers 5% health for its owner at the end of each turn.'
 - ' * Wither: Each hit from a Killer Bot Minion gives its target -50 attack.'
-image: https://imgur.com/2G4QZv9.jpg
-dtReleased: "2026-02-11"
-dtModified: "2026-06-07"
-fancy_name: Vicious Overseer Construct
-aetherPower: attack_up
+image: https://imgur.com/5rDKpV1.jpg
+dtReleased: "2026-06-07"
+dtModified: ""
+fancy_name: Mage's Vessel Construct
+aetherPower: special_boost
 lb1:
-  power: 1390
-  attack: 1469
-  defense: 1449
-  health: 2468
+  power: 1423
+  attack: 1471
+  defense: 1513
+  health: 2575
 lb2:
-  power: 1572
-  attack: 1681
-  defense: 1658
-  health: 2824
+  power: 1611
+  attack: 1683
+  defense: 1731
+  health: 2946
 ...

@@ -22,15 +22,15 @@ dtModified: "2026-05-10"
 fancy_name: Lady of Windemer
 aetherPower: attack_up
 lb1:
-  power: 804
+  power: 803
   attack: 721
-  defense: 768
-  health: 1514
+  defense: 767
+  health: 1513
 lb2:
-  power: 902
+  power: 901
   attack: 825
   defense: 878
-  health: 1732
+  health: 1731
 costume:
   hero_id: nomad_female_captain_costume_pirate
   design: costume1
@@ -55,15 +55,15 @@ costume:
   fancy_name: Terror of Windemer
   aetherPower: special_boost
   lb1:
-    power: 906
-    attack: 875
-    defense: 817
-    health: 1763
+    power: 847
+    attack: 811
+    defense: 758
+    health: 1615
   lb2:
-    power: 1019
-    attack: 1001
-    defense: 935
-    health: 2017
+    power: 951
+    attack: 928
+    defense: 868
+    health: 1848
 costume2:
   hero_id: nomad_female_captain_costume_thief
   design: costume2
@@ -90,15 +90,15 @@ costume2:
   fancy_name: Master Thief of Windemer
   aetherPower: dodge
   lb1:
-    power: 1032
-    attack: 999
-    defense: 933
-    health: 2116
+    power: 915
+    attack: 889
+    defense: 831
+    health: 1762
   lb2:
-    power: 1163
-    attack: 1143
-    defense: 1068
-    health: 2421
+    power: 1029
+    attack: 1017
+    defense: 950
+    health: 2016
 costume3:
   hero_id: nomad_female_captain_costume_cute
   design: toon
@@ -125,15 +125,15 @@ costume3:
   fancy_name: Toon of Windemer
   aetherPower: attack_up
   lb1:
-    power: 1211
-    attack: 1166
-    defense: 1173
-    health: 2498
+    power: 1187
+    attack: 1128
+    defense: 1135
+    health: 2497
   lb2:
-    power: 1367
-    attack: 1334
-    defense: 1342
-    health: 2858
+    power: 1340
+    attack: 1291
+    defense: 1298
+    health: 2857
 costume4:
   hero_id: nomad_female_captain_costume_glass
   design: glass
@@ -160,15 +160,15 @@ costume4:
   fancy_name: Vitrail of Windemer
   aetherPower: attack_up
   lb1:
-    power: 1324
-    attack: 1414
-    defense: 1247
-    health: 2540
+    power: 1323
+    attack: 1412
+    defense: 1246
+    health: 2539
   lb2:
-    power: 1497
-    attack: 1617
-    defense: 1426
-    health: 2907
+    power: 1496
+    attack: 1615
+    defense: 1425
+    health: 2906
 costume5:
   design: stylish
   bonuses: 90/90/95/5
