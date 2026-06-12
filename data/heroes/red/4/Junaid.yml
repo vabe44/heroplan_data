@@ -29,13 +29,13 @@ aetherPower: special_boost
 lb1:
   power: 735
   attack: 812
-  defense: 623
+  defense: 622
   health: 1369
 lb2:
   power: 839
   attack: 942
   defense: 722
-  health: 1587
+  health: 1588
 costume:
   hero_id: s5_junaid_costume_champion
   design: costume1
@@ -69,11 +69,11 @@ costume:
   lb1:
     power: 753
     attack: 781
-    defense: 687
-    health: 1448
+    defense: 686
+    health: 1447
   lb2:
-    power: 860
+    power: 859
     attack: 906
-    defense: 797
+    defense: 796
     health: 1678
 ...

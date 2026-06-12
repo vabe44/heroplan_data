@@ -29,13 +29,13 @@ aetherPower: regen
 lb1:
   power: 728
   attack: 720
-  defense: 725
+  defense: 724
   health: 1348
 lb2:
   power: 831
   attack: 835
   defense: 840
-  health: 1563
+  health: 1564
 costume:
   hero_id: s4_tettukh_costume_cheerleader
   design: costume1
@@ -63,13 +63,13 @@ costume:
   fancy_name: Morlock Cheerleader
   aetherPower: attack_up
   lb1:
-    power: 745
-    attack: 803
-    defense: 713
-    health: 1287
+    power: 744
+    attack: 801
+    defense: 711
+    health: 1286
   lb2:
-    power: 851
-    attack: 931
-    defense: 827
+    power: 850
+    attack: 930
+    defense: 825
     health: 1492
 ...
