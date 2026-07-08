@@ -32,7 +32,7 @@ lb2:
 costume:
   hero_id: oriental_female_guard_costume_soldier
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Barbarian
   power: 463
   attack: 527
@@ -64,7 +64,7 @@ costume:
 costume2:
   hero_id: oriental_brawler_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Rogue
   power: 502
   attack: 537

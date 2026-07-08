@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: nordic_ancestral_warrior_costume_corrupted
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Rogue
   power: 678
   attack: 716
@@ -65,7 +65,7 @@ costume:
 costume2:
   hero_id: nordic_ancestral_warrior_costume_messenger
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Ranger
   power: 733
   attack: 840
@@ -97,7 +97,7 @@ costume2:
 costume3:
   hero_id: nordic_ancestral_warrior_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Barbarian
   power: 746
   attack: 827
@@ -132,7 +132,7 @@ costume3:
 costume4:
   hero_id: nordic_ancestral_warrior_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Barbarian
   power: 758
   attack: 843

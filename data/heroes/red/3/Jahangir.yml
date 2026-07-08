@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: nomad_mage_costume_goggles
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Wizard
   power: 467
   attack: 514
@@ -65,7 +65,7 @@ costume:
 costume2:
   hero_id: nomad_female_swordmaster_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Sorcerer
   power: 506
   attack: 555
@@ -100,7 +100,7 @@ costume2:
 costume3:
   hero_id: nomad_female_swordmaster_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Sorcerer
   power: 514
   attack: 566

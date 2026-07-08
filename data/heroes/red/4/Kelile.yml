@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: nomad_female_berserker_costume_shaman
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Druid
   power: 678
   attack: 746
@@ -63,7 +63,7 @@ costume:
 costume2:
   hero_id: nomad_female_berserker_costume_sorceress
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Sorcerer
   power: 734
   attack: 788
@@ -96,7 +96,7 @@ costume2:
 costume3:
   hero_id: nomad_female_berserker_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Rogue
   power: 746
   attack: 815
@@ -131,7 +131,7 @@ costume3:
 costume4:
   hero_id: nomad_female_berserker_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Rogue
   power: 758
   attack: 838

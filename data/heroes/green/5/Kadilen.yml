@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: forest_female_elf_costume_mage
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Sorcerer
   power: 797
   attack: 698
@@ -67,7 +67,7 @@ costume:
 costume2:
   hero_id: forest_female_elf_costume_fairy
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 29/29/44/5
   class: Cleric
   power: 914
   attack: 812
@@ -100,7 +100,7 @@ costume2:
 costume3:
   hero_id: forest_female_elf_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 55/55/70/5
   class: Druid
   power: 1133
   attack: 1174

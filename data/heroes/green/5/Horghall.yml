@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: forest_titan_costume_jester
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Ranger
   power: 794
   attack: 691
@@ -65,7 +65,7 @@ costume:
 costume2:
   hero_id: forest_titan_costume_nightmare
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 29/29/44/5
   class: Wizard
   power: 910
   attack: 816
@@ -101,7 +101,7 @@ costume2:
 costume3:
   hero_id: forest_titan_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 55/55/70/5
   class: Druid
   power: 1131
   attack: 940

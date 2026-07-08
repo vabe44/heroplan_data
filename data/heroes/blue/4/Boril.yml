@@ -33,7 +33,7 @@ lb2:
 costume:
   hero_id: dwarven_guard_costume_ram
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Paladin
   power: 679
   attack: 504
@@ -62,7 +62,7 @@ costume:
 costume2:
   hero_id: dwarven_guard_costume_tavern
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Fighter
   power: 735
   attack: 591
@@ -92,7 +92,7 @@ costume2:
 costume3:
   hero_id: dwarven_guard_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Cleric
   power: 747
   attack: 648

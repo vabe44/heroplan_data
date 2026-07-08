@@ -35,7 +35,7 @@ lb2:
 costume:
   hero_id: nomad_female_lord_costume_flame
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Rogue
   power: 794
   attack: 845
@@ -67,7 +67,7 @@ costume:
 costume2:
   hero_id: nomad_female_lord_costume_wicked
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 29/29/44/5
   class: Paladin
   power: 857
   attack: 823
@@ -99,7 +99,7 @@ costume2:
 costume3:
   hero_id: nomad_female_lord_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 55/55/70/5
   class: Fighter
   power: 1129
   attack: 1021

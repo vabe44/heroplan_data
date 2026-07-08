@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: orc_warrior_costume_urukhai
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Rogue
   power: 466
   attack: 567
@@ -65,7 +65,7 @@ costume:
 costume2:
   hero_id: nomad_female_swordmaster_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Barbarian
   power: 505
   attack: 623

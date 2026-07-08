@@ -36,7 +36,7 @@ lb2:
 costume:
   hero_id: tribal_chief_costume_conqueror
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Barbarian
   power: 798
   attack: 761
@@ -69,7 +69,7 @@ costume:
 costume2:
   hero_id: tribal_chief_costume_leopard
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 29/29/44/5
   class: Druid
   power: 862
   attack: 829
@@ -102,7 +102,7 @@ costume2:
 costume3:
   hero_id: tribal_chief_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 55/55/70/5
   class: Ranger
   power: 1115
   attack: 1117
@@ -141,7 +141,7 @@ costume3:
 costume4:
   hero_id: tribal_chief_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 75/75/78/5
   class: Ranger
   power: 1241
   attack: 1310

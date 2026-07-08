@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: blackguard_skulker_costume_doctor
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Cleric
   power: 468
   attack: 428
@@ -68,7 +68,7 @@ costume:
 costume2:
   hero_id: cultist_mage_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Fighter
   power: 507
   attack: 479

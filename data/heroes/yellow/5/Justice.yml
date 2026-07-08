@@ -35,7 +35,7 @@ lb2:
 costume:
   hero_id: exalted_female_statue_costume_sungoddess
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Wizard
   power: 795
   attack: 706
@@ -67,7 +67,7 @@ costume:
 costume2:
   hero_id: exalted_female_statue_costume_thorns
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 29/29/44/5
   class: Sorcerer
   power: 858
   attack: 793
@@ -100,7 +100,7 @@ costume2:
 costume3:
   hero_id: exalted_female_statue_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 55/55/70/5
   class: Paladin
   power: 1132
   attack: 1178

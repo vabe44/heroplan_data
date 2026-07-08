@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: oriental_falconer_costume_dodo
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Druid
   power: 677
   attack: 673
@@ -67,7 +67,7 @@ costume:
 costume2:
   hero_id: oriental_falconer_costume_cub
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Barbarian
   power: 733
   attack: 776
@@ -98,7 +98,7 @@ costume2:
 costume3:
   hero_id: oriental_falconer_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Ranger
   power: 745
   attack: 807

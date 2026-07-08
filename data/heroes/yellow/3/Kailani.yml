@@ -35,7 +35,7 @@ lb2:
 costume:
   hero_id: oriental_female_mage_costume_mender
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Sorcerer
   power: 467
   attack: 423
@@ -67,7 +67,7 @@ costume:
 costume2:
   hero_id: oriental_brawler_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Cleric
   power: 506
   attack: 491
@@ -104,7 +104,7 @@ costume2:
 costume3:
   hero_id: oriental_brawler_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Cleric
   power: 514
   attack: 485

@@ -36,7 +36,7 @@ lb2:
 costume:
   hero_id: dwarwen_brewmaster_costume_guitarist
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Sorcerer
   power: 682
   attack: 702
@@ -69,7 +69,7 @@ costume:
 costume2:
   hero_id: dwarwen_brewmaster_costume_wood_carver
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Barbarian
   power: 739
   attack: 732
@@ -102,7 +102,7 @@ costume2:
 costume3:
   hero_id: dwarwen_brewmaster_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Wizard
   power: 751
   attack: 769
@@ -140,7 +140,7 @@ costume3:
 costume4:
   hero_id: dwarwen_brewmaster_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Wizard
   power: 763
   attack: 758

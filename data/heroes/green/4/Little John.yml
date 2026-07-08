@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: forest_woodsman_warrior_costume_camouflage
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Ranger
   power: 676
   attack: 756
@@ -68,7 +68,7 @@ costume:
 costume2:
   hero_id: forest_woodsman_warrior_costume_highlander
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Druid
   power: 732
   attack: 840
@@ -99,7 +99,7 @@ costume2:
 costume3:
   hero_id: forest_woodsman_warrior_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Barbarian
   power: 744
   attack: 842
@@ -134,7 +134,7 @@ costume3:
 costume4:
   hero_id: forest_woodsman_warrior_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 19/19/24/5
   class: Barbarian
   power: 756
   attack: 861

@@ -35,7 +35,7 @@ lb2:
 costume:
   hero_id: oriental_enchanted_monk_costume_tiger
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Fighter
   power: 793
   attack: 782
@@ -67,7 +67,7 @@ costume:
 costume2:
   hero_id: oriental_enchanted_monk_costume_stoneguard
   design: costume2
-  bonuses: 25/25/25/5
+  bonuses: 29/29/44/5
   class: Barbarian
   power: 855
   attack: 865

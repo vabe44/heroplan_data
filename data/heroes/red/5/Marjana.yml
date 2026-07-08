@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: nomad_female_captain_costume_pirate
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 13/13/20/5
   class: Wizard
   power: 795
   attack: 753
@@ -67,7 +67,7 @@ costume:
 costume2:
   hero_id: nomad_female_captain_costume_thief
   design: costume2
-  bonuses: 25/25/25/5
+  bonuses: 29/29/44/5
   class: Ranger
   power: 858
   attack: 825

@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: royal_female_knight_costume_winter
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Druid
   power: 678
   attack: 646
@@ -65,7 +65,7 @@ costume:
 costume2:
   hero_id: royal_female_knight_costume_prospector
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Rogue
   power: 734
   attack: 817
@@ -96,7 +96,7 @@ costume2:
 costume3:
   hero_id: royal_female_knight_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Paladin
   power: 746
   attack: 807

@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: blackguard_commander_costume_metal
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Paladin
   power: 674
   attack: 688
@@ -65,7 +65,7 @@ costume:
 costume2:
   hero_id: blackguard_commander_costume_feather
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Cleric
   power: 729
   attack: 730
@@ -99,7 +99,7 @@ costume2:
 costume3:
   hero_id: blackguard_commander_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Ranger
   power: 742
   attack: 755

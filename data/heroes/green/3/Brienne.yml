@@ -33,7 +33,7 @@ lb2:
 costume:
   hero_id: forest_female_druid_costume_native
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/10/5
   class: Cleric
   power: 464
   attack: 466
@@ -63,7 +63,7 @@ costume:
 costume2:
   hero_id: forest_female_spirit_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Druid
   power: 502
   attack: 507
@@ -97,7 +97,7 @@ costume2:
 costume3:
   hero_id: forest_female_spirit_costume_glass
   design: glass
-  bonuses: 5/5/10/5
+  bonuses: 18/18/23/5
   class: Druid
   power: 510
   attack: 472

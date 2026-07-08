@@ -34,7 +34,7 @@ lb2:
 costume:
   hero_id: undead_female_warrior_costume_princess
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Cleric
   power: 674
   attack: 742
@@ -67,7 +67,7 @@ costume:
 costume2:
   hero_id: undead_female_warrior_costume_rococo
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Monk
   power: 730
   attack: 737
@@ -100,7 +100,7 @@ costume2:
 costume3:
   hero_id: undead_female_warrior_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Sorcerer
   power: 742
   attack: 802

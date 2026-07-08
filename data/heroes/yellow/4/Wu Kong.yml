@@ -33,7 +33,7 @@ lb2:
 costume:
   hero_id: oriental_monkey_captain_costume_warrior
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 7/7/11/5
   class: Paladin
   power: 680
   attack: 728
@@ -64,7 +64,7 @@ costume:
 costume2:
   hero_id: oriental_monkey_captain_costume_reveller
   design: costume2
-  bonuses: 5/5/10/5
+  bonuses: 15/15/20/5
   class: Rogue
   power: 736
   attack: 798
@@ -94,7 +94,7 @@ costume2:
 costume3:
   hero_id: oriental_monkey_captain_costume_cute
   design: toon
-  bonuses: 5/5/10/5
+  bonuses: 17/17/22/5
   class: Monk
   power: 748
   attack: 745
