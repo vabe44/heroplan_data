@@ -35,7 +35,7 @@ lb2:
 costume:
   hero_id: wonderland_hatter_costume_tea
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 27/25/40/5
   class: Wizard
   power: 963
   attack: 953
@@ -56,7 +56,7 @@ costume:
     they have a 50% chance to give Mindless Attack for 3 turns to a random enemy.'
   image: https://i.imgur.com/SDtr1yp.jpg
   dtReleased: "2024-04-18"
-  dtModified: ""
+  dtModified: "2026-08-03"
   fancy_name: Tea Connoisseur of Wonderland
   aetherPower: counterattack
   lb1:
