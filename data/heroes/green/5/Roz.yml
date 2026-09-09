@@ -44,7 +44,7 @@ lb2:
 costume:
   hero_id: elemental_roz_costume_disco
   design: costume1
-  bonuses: 5/5/10/5
+  bonuses: 29/29/30/5
   class: Rogue
   power: 1221
   attack: 1216
@@ -71,7 +71,7 @@ costume:
     stacks cast by Ice characters.'
   image: https://i.imgur.com/iob8I3P.jpg
   dtReleased: "2025-07-18"
-  dtModified: "2026-08-11"
+  dtModified: "2026-09-07"
   fancy_name: Disco Sharpshooter
   aetherPower: attack_up
   lb1:
