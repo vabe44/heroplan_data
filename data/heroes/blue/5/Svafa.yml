@@ -17,7 +17,7 @@ effects:
 - The target and nearby enemies receive 705 Bleed damage over 3 turns.
 - 'The target and nearby enemies get a Mark of Bleed for 3 turns. Whenever a marked
   target receives Bleed damage, they gain a stack (Max: 10). Each stack increases
-  all damage the target receives by 5%.'
+  all damage the target receives by 5%. (Cleansing reduces negative stacks by 1.)'
 types:
 - Hit 3
 - DoT 3
@@ -35,7 +35,7 @@ passives:
   exhausted when the Core is activated.'
 image: https://i.imgur.com/vZbek8s.jpg
 dtReleased: "2025-08-26"
-dtModified: "2026-11-02"
+dtModified: "2026-11-10"
 fancy_name: Dwarven Big Game Hunter
 aetherPower: dodge
 lb1:
