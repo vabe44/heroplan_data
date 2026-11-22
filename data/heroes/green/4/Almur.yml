@@ -12,7 +12,7 @@ health: 1262
 skill: Shadow Sweep
 effects:
 - Deals 150% damage to the target and nearby enemies.
-- Reduces max health from the target and nearby enemies by 75. The effect is stronger
+- Reduces max health of the target and nearby enemies by 75. The effect is stronger
   against targets with boosted health. (Max health can't get lower than 30% of the
   original max health. Any boosted health is reduced by an additional 75.)
 - The target and nearby enemies get -54% defense against Nature for 4 turns.
@@ -22,7 +22,7 @@ types:
 - Elemental Defense Debuff 3
 image: https://i.imgur.com/zT4IQhV.jpg
 dtReleased: "2020-05-28"
-dtModified: "2026-04-05"
+dtModified: "2026-11-22"
 fancy_name: Shadowblade of Svartalfheim
 aetherPower: special_boost
 lb1:
@@ -79,7 +79,7 @@ costume2:
   skill: Toon Sweep
   effects:
   - Deals 180% damage to the target and nearby enemies.
-  - Reduces max health from the target and nearby enemies by 100. The effect is stronger
+  - Reduces max health of the target and nearby enemies by 100. The effect is stronger
     against targets with boosted health. (Max health can't get lower than 30% of the
     original max health. Any boosted health is reduced by an additional 100.)
   - The target and nearby enemies get -59% defense against Nature for 4 turns.
@@ -93,7 +93,7 @@ costume2:
     dispels.'
   image: https://i.imgur.com/pvPhoWA.jpg
   dtReleased: "2026-04-29"
-  dtModified: "2026-11-02"
+  dtModified: "2026-11-22"
   fancy_name: Shadowtoon of Svartalfheim
   aetherPower: special_boost
   lb1:
